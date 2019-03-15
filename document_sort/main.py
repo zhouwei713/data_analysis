@@ -5,7 +5,7 @@
 """
 
 import os
-from util import change_labels, get_data
+from .util import change_labels, get_data
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.externals import joblib
