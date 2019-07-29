@@ -27,9 +27,9 @@ plt.rcParams['axes.unicode_minus'] = False  # 正常显示负号
 
 corr = data[feature].corr()
 
-# plt.figure(figsize=(14, 14))
-# sns.heatmap(corr, annot=True)
-# plt.show()
+plt.figure(figsize=(14, 14))
+sns.heatmap(corr, annot=True)
+plt.show()
 
 features_remain = ['15级生命', '15级物理攻击',
                    '15级物理防御', '15级最大法力',

@@ -52,7 +52,7 @@ features_remain = ['生存能力', '攻击伤害', '技能效果',
 
 data_init = data_init[features_remain]
 
-data_init['物理减伤率'] = data_init['物理减伤率'].apply(lambda x : float(x.strip('%'))/100)
+data_init['物理减伤率'] = data_init['物理减伤率'].apply(lambda x: float(x.strip('%'))/100)
 
 data_init['攻击范围'] = data_init['攻击范围'].map({'远程': 1, '近程': 0})
 
