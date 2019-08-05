@@ -10,8 +10,8 @@ session = {
 header = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win32; x32; rv:54.0) Gecko/20100101 Firefox/54.0',
         'Connection': 'keep-alive'}
 
-APP_ID = '15350596'
-API_KEY = '5R8pbXKw8Ofdk0j0PBttuRm3'
-SECRET_KEY = 'Q1VgomDIRixhh0ztqKHuY5lrEmLIarL8'
+APP_ID = 'yours'
+API_KEY = 'yours'
+SECRET_KEY = 'yours'
 log_level = 'error'  # debug, error, info
 image_type = 'BASE64'  # URL, BASE64
