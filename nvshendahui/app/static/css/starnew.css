@@ -1,0 +1,15 @@
+.stars-bg{
+    position: relative;
+    display: inline-block;
+    height: 25px;
+    width: 160px;
+    background: url(../img/star2.png) 0 0;
+}
+.star-active{
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: block;
+    height: 100%;
+    background: url(../img/star4.png) 0 -24px;
+}

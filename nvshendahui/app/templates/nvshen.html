@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>女神大放送</title>
+	<link rel="stylesheet" href="/static/css/normalize.css">
+	<link rel="stylesheet" type="text/css" href="/static/css/default.css">
+	<link rel="stylesheet" type="text/css" href="/static/css/starnew.css">
+	<link rel="stylesheet" type="text/css" href="/static/css/star.css">
+	<style type="text/css">
+		#gallery-wrapper {
+		position: relative;
+		max-width: 75%;
+		width: 75%;
+		margin:50px auto;
+		}
+		img.thumb {
+		width: 100%;
+		max-width: 100%;
+		height: auto;
+		}
+		.white-panel {
+		position: absolute;
+		background: white;
+		border-radius: 5px;
+		box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+		padding: 10px;
+		}
+		.white-panel h1 {
+		font-size: 1em;
+		}
+		.white-panel h1 a {
+		color: #A92733;
+		}
+		.white-panel:hover {
+		box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+		margin-top: -5px;
+		-webkit-transition: all 0.3s ease-in-out;
+		-moz-transition: all 0.3s ease-in-out;
+		-o-transition: all 0.3s ease-in-out;
+		transition: all 0.3s ease-in-out;
+		}
+	</style>
+	<!--[if IE]>
+		<script src="https://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<![endif]-->
+</head>
+<body>
+<div align="center">
+<section style="width: 100%">
+<img src="{{ main_url }}" width="40%" height="20%">
+	<div id="starBg" class="star_bg">
+		{% if user_score == 1%}}
+    	<input type="radio" id="starScore1" class="score score_1" value="1" name="score" onclick="score()" checked>
+    		<a href="#starScore1" class="star star_1" title="一般"><label for="starScore1">一般</label></a>
+    	<input type="radio" id="starScore2" class="score score_2" value="2" name="score" onclick="score()">
+    		<a href="#starScore2" class="star star_2" title="还行"><label for="starScore2">还行</label></a>
+    	<input type="radio" id="starScore3" class="score score_3" value="3" name="score" onclick="score()">
+    		<a href="#starScore3" class="star star_3" title="普通"><label for="starScore3">普通</label></a>
+    	<input type="radio" id="starScore4" class="score score_4" value="4" name="score" onclick="score()">
+    		<a href="#starScore4" class="star star_4" title="很好"><label for="starScore4">很好</label></a>
+    	<input type="radio" id="starScore5" class="score score_5" value="5" name="score" onclick="score()">
+    		<a href="#5" class="star star_5" title="完美"><label for="starScore5">完美</label></a>
+		{% elif user_score == 2 %}
+		<input type="radio" id="starScore1" class="score score_1" value="1" name="score" onclick="score()">
+    		<a href="#starScore1" class="star star_1" title="一般"><label for="starScore1">一般</label></a>
+    	<input type="radio" id="starScore2" class="score score_2" value="2" name="score" onclick="score()" checked>
+    		<a href="#starScore2" class="star star_2" title="还行"><label for="starScore2">还行</label></a>
+    	<input type="radio" id="starScore3" class="score score_3" value="3" name="score" onclick="score()">
+    		<a href="#starScore3" class="star star_3" title="普通"><label for="starScore3">普通</label></a>
+    	<input type="radio" id="starScore4" class="score score_4" value="4" name="score" onclick="score()">
+    		<a href="#starScore4" class="star star_4" title="很好"><label for="starScore4">很好</label></a>
+    	<input type="radio" id="starScore5" class="score score_5" value="5" name="score" onclick="score()">
+    		<a href="#5" class="star star_5" title="完美"><label for="starScore5">完美</label></a>
+		{% elif user_score == 3 %}
+		<input type="radio" id="starScore1" class="score score_1" value="1" name="score" onclick="score()">
+    		<a href="#starScore1" class="star star_1" title="一般"><label for="starScore1">一般</label></a>
+    	<input type="radio" id="starScore2" class="score score_2" value="2" name="score" onclick="score()">
+    		<a href="#starScore2" class="star star_2" title="还行"><label for="starScore2">还行</label></a>
+    	<input type="radio" id="starScore3" class="score score_3" value="3" name="score" onclick="score()" checked>
+    		<a href="#starScore3" class="star star_3" title="普通"><label for="starScore3">普通</label></a>
+    	<input type="radio" id="starScore4" class="score score_4" value="4" name="score" onclick="score()">
+    		<a href="#starScore4" class="star star_4" title="很好"><label for="starScore4">很好</label></a>
+    	<input type="radio" id="starScore5" class="score score_5" value="5" name="score" onclick="score()">
+    		<a href="#5" class="star star_5" title="完美"><label for="starScore5">完美</label></a>
+		{% elif user_score == 4 %}
+		<input type="radio" id="starScore1" class="score score_1" value="1" name="score" onclick="score()">
+    		<a href="#starScore1" class="star star_1" title="一般"><label for="starScore1">一般</label></a>
+    	<input type="radio" id="starScore2" class="score score_2" value="2" name="score" onclick="score()">
+    		<a href="#starScore2" class="star star_2" title="还行"><label for="starScore2">还行</label></a>
+    	<input type="radio" id="starScore3" class="score score_3" value="3" name="score" onclick="score()">
+    		<a href="#starScore3" class="star star_3" title="普通"><label for="starScore3">普通</label></a>
+    	<input type="radio" id="starScore4" class="score score_4" value="4" name="score" onclick="score()" checked>
+    		<a href="#starScore4" class="star star_4" title="很好"><label for="starScore4">很好</label></a>
+    	<input type="radio" id="starScore5" class="score score_5" value="5" name="score" onclick="score()">
+    		<a href="#5" class="star star_5" title="完美"><label for="starScore5">完美</label></a>
+		{% elif user_score == 5 %}
+		<input type="radio" id="starScore1" class="score score_1" value="1" name="score" onclick="score()">
+    		<a href="#starScore1" class="star star_1" title="一般"><label for="starScore1">一般</label></a>
+    	<input type="radio" id="starScore2" class="score score_2" value="2" name="score" onclick="score()">
+    		<a href="#starScore2" class="star star_2" title="还行"><label for="starScore2">还行</label></a>
+    	<input type="radio" id="starScore3" class="score score_3" value="3" name="score" onclick="score()">
+    		<a href="#starScore3" class="star star_3" title="普通"><label for="starScore3">普通</label></a>
+    	<input type="radio" id="starScore4" class="score score_4" value="4" name="score" onclick="score()">
+    		<a href="#starScore4" class="star star_4" title="很好"><label for="starScore4">很好</label></a>
+    	<input type="radio" id="starScore5" class="score score_5" value="5" name="score" onclick="score()" checked>
+    		<a href="#5" class="star star_5" title="完美"><label for="starScore5">完美</label></a>
+		{% else %}
+		<input type="radio" id="starScore1" class="score score_1" value="1" name="score" onclick="score()">
+    		<a href="#starScore1" class="star star_1" title="一般"><label for="starScore1">一般</label></a>
+    	<input type="radio" id="starScore2" class="score score_2" value="2" name="score" onclick="score()">
+    		<a href="#starScore2" class="star star_2" title="还行"><label for="starScore2">还行</label></a>
+    	<input type="radio" id="starScore3" class="score score_3" value="3" name="score" onclick="score()">
+    		<a href="#starScore3" class="star star_3" title="普通"><label for="starScore3">普通</label></a>
+    	<input type="radio" id="starScore4" class="score score_4" value="4" name="score" onclick="score()">
+    		<a href="#starScore4" class="star star_4" title="很好"><label for="starScore4">很好</label></a>
+    	<input type="radio" id="starScore5" class="score score_5" value="5" name="score" onclick="score()">
+    		<a href="#5" class="star star_5" title="完美"><label for="starScore5">完美</label></a>
+		{% endif %}
+	</div>
+</section>
+	</div>
+	<section id="gallery-wrapper">
+		{% for p in pic_list %}
+			<article class="white-panel">
+			<img src="{{ p }}" class="thumb">
+				<h1><a href="#">女神</a>
+				</h1>
+		</article>
+		{% endfor %}
+
+    </section>
+	
+	<script src="https://cdn.bootcss.com/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
+	<script src="/static/js/pinterest_grid.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			$("#gallery-wrapper").pinterest_grid({
+				no_columns: 4,
+                padding_x: 10,
+                padding_y: 10,
+                margin_bottom: 50,
+                single_column_breakpoint: 700
+			});
+			
+		});
+		// $(':radio').click(function () {
+		// 	var checkValue = $(this).val();
+		// 	console.log(checkValue);
+		// 	var nvshen_id = {{ nvshenid }};
+		// 	var formData = new FormData();
+		// 	formData.append("nvshenid", nvshen_id);
+		// 	formData.append("score", checkValue);
+		// 	console.log(formData);
+		// });
+		function score() {
+			var checkValue = $('input:radio[name="score"]:checked').val();
+			var nvshen_id = {{ nvshenid }};
+			var formData = new FormData();
+			formData.append("nvshenid", nvshen_id);
+			formData.append("score", checkValue);
+			var data = {"nvshenid": nvshen_id, "score": checkValue};
+			console.log(data);
+			console.log(document.domain);
+			$.ajax({
+				method: "POST",
+				url: "https://"+ document.domain + ":" + location.port + "/api/score/",
+				timeout: 10000,
+				data: JSON.stringify(data),
+				async: false,
+				dataType: "json",
+				contentType:false,
+				processData:false,
+				success: function (res) {
+					return;
+				},
+				error: function (e) {
+					console.log(e);
+					alert(e.msg);
+				}
+			});
+		};
+	</script>
+</body>
+</html>
