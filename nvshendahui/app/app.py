@@ -6,8 +6,8 @@
 """
 
 from flask import Flask, render_template, g, request, jsonify
+from flask_jsglue import JSGlue
 import os
-import pandas as pd
 import sqlite3
 from tools import deal_data, deal_html
 import random
@@ -17,6 +17,7 @@ import json
 
 app = Flask(__name__)
 CORS(app)
+jsglue = JSGlue(app)
 
 basedir = os.path.abspath(os.path.dirname(__file__))
 
@@ -109,9 +110,10 @@ def index():
     db = get_db()
     cur = db.execute('select name, nvshen_id from nvshen order by id desc')
     nvshen = [dict(name=row[0], nvshen_id=row[1]) for row in cur.fetchall()]
+    seg = int(len(nvshen)/4)
     data = []
     socre = 1
-    for n in nvshen:
+    for n in nvshen[:seg]:
         tmp_data = []
         pic = db.execute('select pic_url from picture where nvshen_id = (?)', [n['nvshen_id']])
         pic_list = [row[0] for row in pic.fetchall()]
@@ -120,6 +122,7 @@ def index():
         tmp_data.append(pic_url)
         tmp_data.append(n['nvshen_id'])
         data.append(tmp_data)
+    # print("index: ", data)
     return render_template('index.html', data=data, score=socre)
 
 
@@ -130,6 +133,8 @@ def nvshen(id):
     user_score = db.execute('select score from score where nvshen_id = (?) and userip = (?)', [id, user_ip]).fetchone()
     pic = db.execute('select pic_url from picture where nvshen_id = (?)', [id])
     pic_list = [row[0] for row in pic.fetchall()]
+    if not pic_list:
+        return jsonify({"msg": "error id", "code": 422}), 422
     pic_url = random.choice(pic_list)
     if user_score is None:
         score = 0
@@ -138,12 +143,51 @@ def nvshen(id):
     return render_template('nvshen.html', nvshenid=id, main_url=pic_url, pic_list=pic_list, user_score=score)
 
 
+@app.route('/api/getdata/<int:page>', methods=['POST'])
+def get_data(page):
+    db = get_db()
+    cur = db.execute('select name, nvshen_id from nvshen order by id desc')
+    nvshen = [dict(name=row[0], nvshen_id=row[1]) for row in cur.fetchall()]
+    seg = 0
+    seg_page = int(len(nvshen)/4)
+    end = False
+    if page == 2:
+        seg = seg_page
+        seg_page = seg*2
+    elif page == 3:
+        seg = seg_page*2
+        seg_page = seg + seg_page
+    elif page == 4:
+        seg = seg_page*3
+        seg_page = int(len(nvshen)) + 1
+        end = True
+    elif page == 1:
+        pass
+    else:
+        return jsonify({"msg": "error page id", "code": 422}), 422
+    data = []
+    socre = 1
+    for n in nvshen[seg:seg_page]:
+        tmp_data = []
+        pic = db.execute('select pic_url from picture where nvshen_id = (?)', [n['nvshen_id']])
+        pic_list = [row[0] for row in pic.fetchall()]
+        if not pic_list:
+            return jsonify({"msg": "error id", "code": 422}), 422
+        pic_url = random.choice(pic_list)
+        tmp_data.append(n['name'])
+        tmp_data.append(pic_url)
+        tmp_data.append(n['nvshen_id'])
+        data.append(tmp_data)
+    print(seg, seg_page)
+    print("getdata: ", data)
+    return jsonify({"msg": data, "code": 200, "end": end}), 200
+
+
 @app.route('/api/score/', methods=['POST'])
 def set_score():
     db = get_db()
     data = request.get_data().decode('utf-8')
     data_dict = json.loads(data)
-    print(data_dict)
     # nvshenid = request.form.get("nvshenid", "")
     # score = request.form.get("score", "")
     setScore_ip = request.remote_addr
@@ -155,7 +199,7 @@ def set_score():
     else:
         db.execute('update score set score = (?) where id = (?)', [score, checkpoint[0]])
     db.commit()
-    return jsonify({"msg": "OK", "code": 200})
+    return jsonify({"msg": "OK", "code": 200}), 200
 
 
 if __name__ == '__main__':

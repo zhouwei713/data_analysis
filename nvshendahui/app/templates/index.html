@@ -45,6 +45,7 @@
 	<!--[if IE]>
 		<script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<![endif]-->
+	{{ JSGlue.include() }}
 </head>
 <body>
 <div align="center">
@@ -57,33 +58,38 @@
 	<section id="gallery-wrapper">
 		{% for p in data %}
 			<article class="white-panel">
-			<img src="{{ p[1] }}" class="thumb">
+			<img class="thumb" data-original="{{ p[1] }}">
 				<h1><a href="{{ url_for('nvshen', id=p[2]) }}" title="去投票" target="_blank">{{ p[0] }}</a>
 				</h1>
 	  		<p>
-				<div id="starBg" class="stars-bg">
-						{% if score == 1 %}
-						<a href="#" class="star-active" style="width: 20%"></a>
-						{% elif score == 2 %}
-						<a href="#" class="star-active" style="width: 40%"></a>
-						{% elif score == 3 %}
-						<a href="#" class="star-active" style="width: 60%"></a>
-						{% elif score == 4 %}
-						<a href="#" class="star-active" style="width: 80%"></a>
-						{% elif score == 5 %}
-						<a href="#" class="star-active" style="width: 100%"></a>
-						{% else %}
-						<a href="#" class="star-active" style="width: 0%"></a>
-						{% endif %}
-					</div>
+                {% if score == 1 %}
+                <a href="#">1<img src="/static/img/like.png" width="10%", height="10%"></a>
+                {% endif %}
+{#				<div id="starBg" class="stars-bg">#}
+{#						{% if score == 1 %}#}
+{#						<a href="#" class="star-active" style="width: 20%"></a>#}
+{#						{% elif score == 2 %}#}
+{#						<a href="#" class="star-active" style="width: 40%"></a>#}
+{#						{% elif score == 3 %}#}
+{#						<a href="#" class="star-active" style="width: 60%"></a>#}
+{#						{% elif score == 4 %}#}
+{#						<a href="#" class="star-active" style="width: 80%"></a>#}
+{#						{% elif score == 5 %}#}
+{#						<a href="#" class="star-active" style="width: 100%"></a>#}
+{#						{% else %}#}
+{#						<a href="#" class="star-active" style="width: 0%"></a>#}
+{#						{% endif %}#}
+{#					</div>#}
 			</p>
 		</article>
 		{% endfor %}
 
     </section>
 	
-	<script src="https://cdn.bootcss.com/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
+	<script src="static/js/jquery.min.js" type="text/javascript"></script>
+{#	<script src="https://rawgit.com/tuupola/jquery_lazyload/2.x/lazyload.js" type="text/javascript"></script>#}
 	<script src="/static/js/pinterest_grid.js"></script>
+    <script src="/static/js/lazyload.js"></script>
 	<script type="text/javascript">
 		$(function(){
 			$("#gallery-wrapper").pinterest_grid({
@@ -95,6 +101,90 @@
 			});
 			
 		});
+		$(function(){
+        	$("img.thumb").lazyload();
+    	});
+		var totalHeight = $(document).height(); //整个文档高度
+		var seeHeight = $(window).height(); //浏览器可视窗口高度
+		var thisBodyHeight = $(document.body).height(); //浏览器当前窗口文档body的高度
+		var totalBodyHeight = $(document.body).outerHeight(true);//浏览器当前窗口文档body的总高度 包括border padding margin
+		var thisWidth = $(window).width(); //浏览器当前窗口可视区域宽度
+		var thisDocumentWidth = $(document).width();//浏览器当前窗口文档对象宽度
+		var thisBodyWidth = $(document.body).width();//浏览器当前窗口文档body的宽度
+		var totalBodyWidth = $(document.body).outerWidth(true);//浏览器当前窗口文档body的总宽度 包括border padding margin
+		var scrollTop = $(window).scrollTop();//浏览器可视窗口顶端距离网页顶端的高度（垂直偏移）
+		//console.log(totalHeight, seeHeight, thisBodyHeight, totalBodyHeight, scrollTop);
+		var p = 2;
+		var flag = true;
+		$(window).scroll(function () {
+			scrollTop = $(window).scrollTop();
+			//console.log("totalHeight-scrollTop-$(this).height()", totalHeight-scrollTop-$(this).height());
+			totalHeight = $(document).height();
+			if(flag){
+				if(totalHeight-scrollTop-$(this).height()<0.5){
+					//console.log("add new html");
+					getData(p);
+					p ++;
+				}
+			}
+		});
+		function getData(page) {
+			var xhr = new XMLHttpRequest();
+			xhr.responseType = "json";
+			xhr.open('POST', '/api/getdata/' + page, true);
+			xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+			xhr.onload = function (ev) {
+				if(this.status === 200) {
+					//console.log(this.response);
+					if(this.response['end'] === true) {
+						//console.log("end is true");
+						flag = false;
+					}
+						var mydata = this.response['msg'];
+						//console.log(mydata[1][2]);
+						for(var i=0, len=mydata.length; i<len; i++){
+							var myurl = mydata[i][1];
+							var myid = mydata[i][2];
+							var myname = mydata[i][0];
+							var htmlText = '<article class="white-panel">' +
+								'<img data-original=' + myurl +' class="thumb">' +
+								'<h1>' +
+								'<a href=URL title="去投票" target="_blank">'.replace("URL", Flask.url_for("nvshen", {id: myid})) +
+								 myname + '</a>' +
+								'</h1>' +
+								'<p>' +
+								'<div id="starBg" class="stars-bg">' +
+								'{% if score == 1 %}' +
+								'<a href="#" class="star-active" style="width: 20%"></a>' +
+								'{% elif score == 2 %}' +
+								'<a href="#" class="star-active" style="width: 40%"></a>' +
+								'{% elif score == 3 %}' +
+								'<a href="#" class="star-active" style="width: 60%"></a>' +
+								'{% elif score == 4 %}' +
+								'<a href="#" class="star-active" style="width: 80%"></a>' +
+								'{% elif score == 5 %}' +
+								'<a href="#" class="star-active" style="width: 100%"></a>' +
+								'{% else %}' +
+								'<a href="#" class="star-active" style="width: 0%"></a>' +
+								'{% endif %}' +
+								'</div>' +
+								'</p>' +
+								'</article>';
+							var script = '<script>' +
+									'$(function(){' +
+									'$("img.thumb").lazyload();' +
+									'})' +
+									'<\/script>';
+							$('#gallery-wrapper').append(htmlText);
+							$('body').append(script);
+						}
+					//console.log("add new html finish");
+				}else if(this.status === 422) {
+					console.log("get data error");
+				}
+			};
+			xhr.send();
+		}
 	</script>
 </body>
 </html>

@@ -26,5 +26,5 @@ def deal(html, nopic):
 
 
 if __name__ == '__main__':
-    u = deal("806213.html", 'https://img1.qunliao.info/fastdfs3/M00/73/C6/ChOxM1vG51KAc8lHAAWteFNO4iE816.jpg')
+    u = deal("800587.html", 'https://img1.qunliao.info/fastdfs3/M00/73/C6/ChOxM1vG51KAc8lHAAWteFNO4iE816.jpg')
     print(u)

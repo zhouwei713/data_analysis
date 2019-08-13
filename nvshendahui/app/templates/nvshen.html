@@ -125,7 +125,7 @@
 	<section id="gallery-wrapper">
 		{% for p in pic_list %}
 			<article class="white-panel">
-			<img src="{{ p }}" class="thumb">
+			<img data-original="{{ p }}" class="thumb">
 				<h1><a href="#">女神</a>
 				</h1>
 		</article>
@@ -133,8 +133,10 @@
 
     </section>
 	
-	<script src="https://cdn.bootcss.com/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
+	<script src="/static/js/jquery.min.js" type="text/javascript"></script>
+{#	<script src="https://rawgit.com/tuupola/jquery_lazyload/2.x/lazyload.js" type="text/javascript"></script>#}
 	<script src="/static/js/pinterest_grid.js"></script>
+    <script src="/static/js/lazyload.js"></script>
 	<script type="text/javascript">
 		$(function(){
 			$("#gallery-wrapper").pinterest_grid({
@@ -144,8 +146,10 @@
                 margin_bottom: 50,
                 single_column_breakpoint: 700
 			});
-			
 		});
+		$(function(){
+        	$("img.thumb").lazyload();
+    	});
 		// $(':radio').click(function () {
 		// 	var checkValue = $(this).val();
 		// 	console.log(checkValue);
@@ -162,11 +166,9 @@
 			formData.append("nvshenid", nvshen_id);
 			formData.append("score", checkValue);
 			var data = {"nvshenid": nvshen_id, "score": checkValue};
-			console.log(data);
-			console.log(document.domain);
 			$.ajax({
 				method: "POST",
-				url: "https://"+ document.domain + ":" + location.port + "/api/score/",
+				url: location.protocol + "//" + document.domain + ":" + location.port + "/api/score/",
 				timeout: 10000,
 				data: JSON.stringify(data),
 				async: false,
