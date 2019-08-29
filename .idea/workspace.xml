@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="311b2ca6-c61f-420a-ac4b-1d5ac01d3717" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/nvshendahui/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/you163_spider/search.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nvshendahui/app/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/nvshendahui/app/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nvshendahui/app/gunicorn" beforeDir="false" afterPath="$PROJECT_DIR$/nvshendahui/app/gunicorn" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nvshendahui/app/nvshen.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/nvshendahui/app/nvshen.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nvshendahui/app/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nvshendahui/app/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nvshendahui/app/templates/nvshen.html" beforeDir="false" afterPath="$PROJECT_DIR$/nvshendahui/app/templates/nvshen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nvshendahui/nvshen.csv" beforeDir="false" afterPath="$PROJECT_DIR$/nvshendahui/nvshen.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nvshendahui/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/nvshendahui/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nvshendahui/app/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/nvshendahui/app/tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nvshendahui/charts.py" beforeDir="false" afterPath="$PROJECT_DIR$/nvshendahui/charts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nvshendahui/main_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/nvshendahui/main_process.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,18 +78,19 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tail-project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Work\code\Python\data_combat\nvshendahui\app" />
-      <recent name="C:\Work\code\Python\data_combat\nvshendahui\statics" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Work\code\Python\data_combat\boss_spider" />
+      <recent name="C:\Work\code\Python\data_combat\you163_spider" />
       <recent name="C:\Work\code\Python\data_combat\nvshendahui\app\templates" />
       <recent name="C:\Work\code\Python\data_combat\nvshendahui\app\static\css" />
       <recent name="C:\Work\code\Python\data_combat\nvshendahui\app\data" />
-      <recent name="C:\Work\code\Python\data_combat\nvshendahui\template" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Work\code\Python\data_combat\nvshendahui\app" />
+      <recent name="C:\Work\code\Python\data_combat\nvshendahui\statics" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -101,8 +105,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test (1)">
-    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.analyse">
+    <configuration name="analyse" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_combat" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,12 +114,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nvshendahui/app" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/maoyan" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nvshendahui/app/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maoyan/analyse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_combat" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,12 +136,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nvshendahui" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/boss_spider" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Work\code\Python\data_combat\nvshendahui\app\app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boss_spider/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="baidu_aip" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_combat" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,34 +158,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nvshendahui" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/maoyan" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nvshendahui/baidu_aip.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="charts" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="data_combat" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nvshendahui" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nvshendahui/charts.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maoyan/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,12 +180,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nvshendahui" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/boss_spider" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nvshendahui/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boss_spider/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_combat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/you163_spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/you163_spider/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,19 +217,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.main (2)" />
       <item itemvalue="Python.test (1)" />
-      <item itemvalue="Python.charts" />
-      <item itemvalue="Python.baidu_aip" />
-      <item itemvalue="Python.app" />
-      <item itemvalue="Python.app (1)" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.analyse" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.analyse" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.app (1)" />
-        <item itemvalue="Python.app" />
-        <item itemvalue="Python.charts" />
-        <item itemvalue="Python.baidu_aip" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -270,6 +274,8 @@
       <workItem from="1564726544670" duration="11126000" />
       <workItem from="1564804044964" duration="14447000" />
       <workItem from="1564970079434" duration="99871000" />
+      <workItem from="1566614373132" duration="16931000" />
+      <workItem from="1567071772635" duration="7195000" />
     </task>
     <servers />
   </component>
@@ -291,14 +297,19 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/data_combat$thecloud.coverage" NAME="thecloud Coverage Results" MODIFIED="1564390467736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibo_mayili_wenzhang" />
-    <SUITE FILE_PATH="coverage/data_combat$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1565265374911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nvshendahui" />
-    <SUITE FILE_PATH="coverage/data_combat$main.coverage" NAME="main Coverage Results" MODIFIED="1564973359678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nvshendahui" />
     <SUITE FILE_PATH="coverage/data_combat$app.coverage" NAME="app Coverage Results" MODIFIED="1565063060739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nvshendahui" />
+    <SUITE FILE_PATH="coverage/data_combat$main.coverage" NAME="main Coverage Results" MODIFIED="1567076496746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/maoyan" />
+    <SUITE FILE_PATH="coverage/data_combat$test.coverage" NAME="test Coverage Results" MODIFIED="1566636984629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/you163_spider" />
+    <SUITE FILE_PATH="coverage/data_combat$get_comment.coverage" NAME="get_comment Coverage Results" MODIFIED="1564378981072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibo_mayili_wenzhang" />
+    <SUITE FILE_PATH="coverage/data_combat$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1566627285451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/you163_spider" />
+    <SUITE FILE_PATH="coverage/data_combat$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1566637943066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boss_spider" />
+    <SUITE FILE_PATH="coverage/data_combat$search.coverage" NAME="search Coverage Results" MODIFIED="1566623146780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/you163_spider" />
     <SUITE FILE_PATH="coverage/data_combat$baidu_aip.coverage" NAME="baidu_aip Coverage Results" MODIFIED="1564997028701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nvshendahui" />
+    <SUITE FILE_PATH="coverage/data_combat$analyse.coverage" NAME="analyse Coverage Results" MODIFIED="1567081977791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/maoyan" />
     <SUITE FILE_PATH="coverage/data_combat$main_process.coverage" NAME="main_process Coverage Results" MODIFIED="1564993518011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nvshendahui" />
     <SUITE FILE_PATH="coverage/data_combat$charts.coverage" NAME="charts Coverage Results" MODIFIED="1564997628217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nvshendahui" />
-    <SUITE FILE_PATH="coverage/data_combat$test.coverage" NAME="test Coverage Results" MODIFIED="1564540520096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibo_mayili_wenzhang" />
-    <SUITE FILE_PATH="coverage/data_combat$get_comment.coverage" NAME="get_comment Coverage Results" MODIFIED="1564378981072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibo_mayili_wenzhang" />
+    <SUITE FILE_PATH="coverage/data_combat$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1566638015664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boss_spider" />
     <SUITE FILE_PATH="coverage/data_combat$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1565263898998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nvshendahui/app" />
+    <SUITE FILE_PATH="coverage/data_combat$details_page.coverage" NAME="details_page Coverage Results" MODIFIED="1566627037146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/you163_spider" />
   </component>
 </project>

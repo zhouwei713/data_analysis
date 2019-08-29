@@ -31,12 +31,10 @@ def do_charts():
     bar.add_xaxis(name)
     bar.add_yaxis("女神得分/百分制", score, gap="0%")
     bar.add_yaxis("打分人数/万", count, gap="0%")
-    # bar.add("", name, score_list, is_label_show=True, is_datazoom_show=True)
     bar.set_global_opts(title_opts=opts.TitleOpts(title="女神大会", subtitle="女神大排名-top10"),
                         datazoom_opts=opts.DataZoomOpts(is_show=True, orient="vertical"),
                         xaxis_opts=opts.AxisOpts(axislabel_opts=opts.LabelOpts(rotate=-45)),
                         toolbox_opts=opts.ToolboxOpts())
-    # bar.set_series_opts(label_opts=opts.LabelOpts(is_show=True, margin=0, rotate=45))
     bar.render('女神大排名-top10.html')
 
     word_name = nvshen['name'].values.tolist()

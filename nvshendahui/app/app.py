@@ -24,8 +24,7 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 
 class Config:
     SECRET_KEY = 'hardtohard'
-    SQLALCHEMY_DATABASE_URI = os.path.join(basedir, 'nvshen.sqlite3')
-    SQLALCHEMY_TRACK_MODIFICATIONS = True
+    DATABASE_URI = os.path.join(basedir, 'nvshen.sqlite3')
     NO_PIC = ('https://img1.qunliao.info/fastdfs3/M00/73/C6/ChOxM1vG51KAc8lHAAWteFNO4iE816.jpg',
               'https://img1.qunliao.info/fastdfs4/M00/C9/4C/ChMf8Fyy5siATDnJAAHnwjyiUko688.jpg',
               'https://img1.qunliao.info/fastdfs4/M00/CA/BA/ChNLkl0XaqyABPl7AAGI0ZLPD50274.jpg',
@@ -41,10 +40,19 @@ class Config:
 
 app.config.from_object(Config)
 
+a = 2
+
+
+@app.route('/test')
+def test():
+    global a
+    print(a)
+    return "OK"
+
 
 def connect_db():
     """Connects to the specific database."""
-    rv = sqlite3.connect(app.config['SQLALCHEMY_DATABASE_URI'])
+    rv = sqlite3.connect(app.config['DATABASE_URI'])
     rv.row_factory = sqlite3.Row
     return rv
 
@@ -83,7 +91,6 @@ def init():
 def insert():
     db = get_db()
     nvshen_list = deal_data()
-    print(nvshen_list)
     for nvshen in nvshen_list:
         db.execute('insert into nvshen (name, nvshen_id) values (?, ?)', [nvshen[0], nvshen[1]])
     db.commit()
@@ -98,7 +105,6 @@ def insert_pic():
     nopic = app.config['NO_PIC']
     for n in nvshen:
         url_list = deal_html(str(n['nvshen_id']) + ".html", nopic)
-        # print(url_list)
         for url in url_list:
             db.execute('insert into picture (nvshen_id, pic_url) values (?, ?)', [n['nvshen_id'], url])
     db.commit()
@@ -122,7 +128,6 @@ def index():
         tmp_data.append(pic_url)
         tmp_data.append(n['nvshen_id'])
         data.append(tmp_data)
-    # print("index: ", data)
     return render_template('index.html', data=data, score=socre)
 
 
@@ -178,8 +183,6 @@ def get_data(page):
         tmp_data.append(pic_url)
         tmp_data.append(n['nvshen_id'])
         data.append(tmp_data)
-    print(seg, seg_page)
-    print("getdata: ", data)
     return jsonify({"msg": data, "code": 200, "end": end}), 200
 
 

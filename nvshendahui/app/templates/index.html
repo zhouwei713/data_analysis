@@ -87,7 +87,6 @@
     </section>
 	
 	<script src="static/js/jquery.min.js" type="text/javascript"></script>
-{#	<script src="https://rawgit.com/tuupola/jquery_lazyload/2.x/lazyload.js" type="text/javascript"></script>#}
 	<script src="/static/js/pinterest_grid.js"></script>
     <script src="/static/js/lazyload.js"></script>
 	<script type="text/javascript">
@@ -113,7 +112,6 @@
 		var thisBodyWidth = $(document.body).width();//浏览器当前窗口文档body的宽度
 		var totalBodyWidth = $(document.body).outerWidth(true);//浏览器当前窗口文档body的总宽度 包括border padding margin
 		var scrollTop = $(window).scrollTop();//浏览器可视窗口顶端距离网页顶端的高度（垂直偏移）
-		//console.log(totalHeight, seeHeight, thisBodyHeight, totalBodyHeight, scrollTop);
 		var p = 2;
 		var flag = true;
 		$(window).scroll(function () {
@@ -135,9 +133,7 @@
 			xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
 			xhr.onload = function (ev) {
 				if(this.status === 200) {
-					//console.log(this.response);
 					if(this.response['end'] === true) {
-						//console.log("end is true");
 						flag = false;
 					}
 						var mydata = this.response['msg'];
@@ -178,7 +174,6 @@
 							$('#gallery-wrapper').append(htmlText);
 							$('body').append(script);
 						}
-					//console.log("add new html finish");
 				}else if(this.status === 422) {
 					console.log("get data error");
 				}
