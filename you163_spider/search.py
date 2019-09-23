@@ -6,7 +6,6 @@
 """
 
 import requests
-from bs4 import BeautifulSoup
 
 
 def search_keyword(keyword):

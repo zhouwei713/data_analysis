@@ -3,7 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="311b2ca6-c61f-420a-ac4b-1d5ac01d3717" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basketball_WorldCup/.ipynb_checkpoints/篮球-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Basketball_WorldCup/.ipynb_checkpoints/篮球-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boss_spider/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nvshendahui/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/analyse.py" beforeDir="false" afterPath="$PROJECT_DIR$/weather/analyse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/weather/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/you163_spider/details_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/you163_spider/details_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/you163_spider/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/you163_spider/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/you163_spider/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/you163_spider/search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/you163_spider/test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.main (2)">
     <configuration name="get_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_combat" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="get_details" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_combat" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,12 +135,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/boss_spider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/you163_spider" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boss_spider/get_details.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/you163_spider/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_combat" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,19 +216,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main (3)" />
-      <item itemvalue="Python.get_details" />
       <item itemvalue="Python.get_data" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.get_data" />
-        <item itemvalue="Python.get_details" />
-        <item itemvalue="Python.main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +277,8 @@
       <workItem from="1567071772635" duration="13121000" />
       <workItem from="1567512501729" duration="31067000" />
       <workItem from="1567993190978" duration="11345000" />
-      <workItem from="1568603476105" duration="23739000" />
+      <workItem from="1568603476105" duration="27627000" />
+      <workItem from="1569055814739" duration="9493000" />
     </task>
     <servers />
   </component>
@@ -297,7 +305,7 @@
     <SUITE FILE_PATH="coverage/data_combat$get_details.coverage" NAME="get_details Coverage Results" MODIFIED="1567997289523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boss_spider" />
     <SUITE FILE_PATH="coverage/data_combat$test.coverage" NAME="test Coverage Results" MODIFIED="1568794370472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/data_combat$get_comment.coverage" NAME="get_comment Coverage Results" MODIFIED="1564378981072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibo_mayili_wenzhang" />
-    <SUITE FILE_PATH="coverage/data_combat$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1567514823145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/college" />
+    <SUITE FILE_PATH="coverage/data_combat$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1568890147494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/you163_spider" />
     <SUITE FILE_PATH="coverage/data_combat$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1566637943066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boss_spider" />
     <SUITE FILE_PATH="coverage/data_combat$analyse__1_.coverage" NAME="analyse (1) Coverage Results" MODIFIED="1567674577563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weather" />
     <SUITE FILE_PATH="coverage/data_combat$get_data.coverage" NAME="get_data Coverage Results" MODIFIED="1568616012144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basketball_WorldCup" />
@@ -306,7 +314,7 @@
     <SUITE FILE_PATH="coverage/data_combat$analyse.coverage" NAME="analyse Coverage Results" MODIFIED="1567081977791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/maoyan" />
     <SUITE FILE_PATH="coverage/data_combat$main_process.coverage" NAME="main_process Coverage Results" MODIFIED="1564993518011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nvshendahui" />
     <SUITE FILE_PATH="coverage/data_combat$charts.coverage" NAME="charts Coverage Results" MODIFIED="1564997628217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nvshendahui" />
-    <SUITE FILE_PATH="coverage/data_combat$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1566638015664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boss_spider" />
+    <SUITE FILE_PATH="coverage/data_combat$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1569221161733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weather" />
     <SUITE FILE_PATH="coverage/data_combat$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1565263898998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nvshendahui/app" />
     <SUITE FILE_PATH="coverage/data_combat$details_page.coverage" NAME="details_page Coverage Results" MODIFIED="1566627037146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/you163_spider" />
     <SUITE FILE_PATH="coverage/data_combat$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1567741349021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weather" />

@@ -88,7 +88,7 @@ if __name__ == '__main__':
 
     for city in provincial_data['City_CN'].values.tolist():
         city_id = provincial_data[provincial_data['City_CN'] == city]['City_ID'].values.tolist()[0]
-        get_data('weather', city, city_id)
+        get_data('shiyi_weather', city, city_id)
 
     # 景点抓取
     for a in attraction['attractions'].values.tolist():
@@ -98,4 +98,4 @@ if __name__ == '__main__':
 
     for attrac in attraction_data['name'].values.tolist():
         city_id = attraction_data[attraction_data['name'] == attrac]['ID'].values.tolist()[0]
-        get_data('attraction', attrac, city_id)
+        get_data('shiyi_attraction', attrac, city_id)

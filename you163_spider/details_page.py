@@ -12,7 +12,7 @@ from pymongo import MongoClient
 
 conn = MongoClient("mongodb://%s:%s@ds149974.mlab.com:49974/you163" % ('you163', 'you163'))
 db = conn.you163
-mongo_collection = db.you163
+mongo_collection = db.iPhone
 
 
 def details(product_id):
