@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="311b2ca6-c61f-420a-ac4b-1d5ac01d3717" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boss_spider/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nvshendahui/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather/analyse.py" beforeDir="false" afterPath="$PROJECT_DIR$/weather/analyse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/weather/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/you163_spider/details_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/you163_spider/details_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/you163_spider/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/you163_spider/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/you163_spider/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/you163_spider/search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/you163_spider/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/college/analyse.py" beforeDir="false" afterPath="$PROJECT_DIR$/college/analyse.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -278,7 +271,9 @@
       <workItem from="1567512501729" duration="31067000" />
       <workItem from="1567993190978" duration="11345000" />
       <workItem from="1568603476105" duration="27627000" />
-      <workItem from="1569055814739" duration="9493000" />
+      <workItem from="1569055814739" duration="10093000" />
+      <workItem from="1569483998244" duration="643000" />
+      <workItem from="1569736495503" duration="1422000" />
     </task>
     <servers />
   </component>

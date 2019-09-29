@@ -142,6 +142,8 @@ df_985_211 = pd.concat([df_211, df_985], ignore_index=True)
 site_counts_985_211 = df_985_211['site'].value_counts()
 dict_site_985_211 = {'name': site_counts_985_211.index, 'counts': site_counts_985_211.values}
 data_985_211 = pd.DataFrame(dict_site_985_211)
+sum_counts = data_985_211['counts'].sum()
+data_985_211['rate'] = data_985_211['counts'].apply(lambda x : x/sum_counts)
 
 # 各城市高质量高校数量
 bar = Bar()
