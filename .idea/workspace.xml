@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="311b2ca6-c61f-420a-ac4b-1d5ac01d3717" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college/analyse.py" beforeDir="false" afterPath="$PROJECT_DIR$/college/analyse.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,29 +96,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (2)">
-    <configuration name="get_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="data_combat" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basketball_WorldCup" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basketball_WorldCup/get_data.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.main (3)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_combat" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,6 +133,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weather/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_combat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/football/yingchao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/football/yingchao/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,19 +208,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.get_data" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.main (1)" />
       <item itemvalue="Python.main (2)" />
+      <item itemvalue="Python.main (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.get_data" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +272,8 @@
       <workItem from="1568603476105" duration="27627000" />
       <workItem from="1569055814739" duration="10093000" />
       <workItem from="1569483998244" duration="643000" />
-      <workItem from="1569736495503" duration="1422000" />
+      <workItem from="1569736495503" duration="3236000" />
+      <workItem from="1570437569701" duration="18182000" />
     </task>
     <servers />
   </component>
@@ -312,6 +312,6 @@
     <SUITE FILE_PATH="coverage/data_combat$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1569221161733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weather" />
     <SUITE FILE_PATH="coverage/data_combat$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1565263898998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nvshendahui/app" />
     <SUITE FILE_PATH="coverage/data_combat$details_page.coverage" NAME="details_page Coverage Results" MODIFIED="1566627037146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/you163_spider" />
-    <SUITE FILE_PATH="coverage/data_combat$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1567741349021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weather" />
+    <SUITE FILE_PATH="coverage/data_combat$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1570497315188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/football/yingchao" />
   </component>
 </project>
