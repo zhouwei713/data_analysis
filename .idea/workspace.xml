@@ -69,7 +69,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chatrobot" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -273,7 +273,8 @@
       <workItem from="1569055814739" duration="10093000" />
       <workItem from="1569483998244" duration="643000" />
       <workItem from="1569736495503" duration="3236000" />
-      <workItem from="1570437569701" duration="18182000" />
+      <workItem from="1570437569701" duration="20481000" />
+      <workItem from="1570760817575" duration="8410000" />
     </task>
     <servers />
   </component>
