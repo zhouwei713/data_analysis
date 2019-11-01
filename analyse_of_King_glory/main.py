@@ -53,7 +53,7 @@ def get_details(url):
 
 def save_tocsv(details):
     print('start save to csv')
-    with open('all_hero_init_attr.csv', 'w', encoding='gb18030') as f:
+    with open('all_hero_init_attr_new.csv', 'w', encoding='gb18030') as f:
         f.write('英雄名字,生存能力,攻击伤害,技能效果,上手难度,最大生命,最大法力,物理攻击,'
                 '法术攻击,物理防御,物理减伤率,法术防御,法术减伤率,移速,物理护甲穿透,法术护甲穿透,攻速加成,暴击几率,'
                 '暴击效果,物理吸血,法术吸血,冷却缩减,攻击范围,韧性,生命回复,法力回复\n')

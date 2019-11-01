@@ -10,7 +10,7 @@ import csv
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.preprocessing import StandardScaler
-from pyecharts import Pie
+from pyecharts.charts import Pie
 
 hero_data = pd.read_csv('hero_attr.csv', encoding='gb18030')
 feature = ['1级物理攻击', '15级物理攻击', '每级成长',

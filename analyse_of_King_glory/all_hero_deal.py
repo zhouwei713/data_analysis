@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.mixture import GaussianMixture
 from sklearn.preprocessing import StandardScaler
-from pyecharts import Pie
+from pyecharts.charts import Pie
 from collections import Counter
 
 plt.rcParams['font.sans-serif'] = ['SimHei']  # 正常显示中文标签
