@@ -11,7 +11,6 @@ from pyecharts import options as opts
 from pyecharts.commons.utils import JsCode
 from pyecharts.globals import ChartType, SymbolType
 
-
 df = pd.read_csv("college_data.csv")
 df_new = df.drop_duplicates(subset=['name'])  # 有重复的数据，需要删除
 df_site = df_new[df_new['site'] != '——']
