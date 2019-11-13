@@ -67,10 +67,10 @@ bar.render_notebook()
 
 # 前锋分析
 df_vanguard = player_df[player_df['staff'] == '前锋'][['staff', 'club', 'shot', 'speed', 'power']]
-df_vanguard = df_vanguard.groupby(by = 'club').mean()[['shot', 'speed', 'power']]
+df_vanguard = df_vanguard.groupby(by='club').mean()[['shot', 'speed', 'power']]
 df_vanguard['size'] = ((df_vanguard['shot'] - df_vanguard['shot'].min()) / (df_vanguard['shot'].max() - df_vanguard['shot'].min()) + 1) * 10
-df_vanguard.reset_index(inplace = True)
-df_vanguard.sort_values(by = 'shot', ascending = False, inplace = True)
+df_vanguard.reset_index(inplace=True)
+df_vanguard.sort_values(by='shot', ascending=False, inplace=True)
 vanguard_shot = df_vanguard['shot'].values.tolist()
 vanguard_speed = df_vanguard['speed'].values.tolist()
 vanguard_power = df_vanguard['power'].values.tolist()

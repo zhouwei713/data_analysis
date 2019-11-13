@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="311b2ca6-c61f-420a-ac4b-1d5ac01d3717" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boss_spider/.ipynb_checkpoints/boss_job-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/boss_spider/.ipynb_checkpoints/boss_job-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boss_spider/boss_job.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/boss_spider/boss_job.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boss_spider/job_analyse.py" beforeDir="false" afterPath="$PROJECT_DIR$/boss_spider/job_analyse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college/analyse.py" beforeDir="false" afterPath="$PROJECT_DIR$/college/analyse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football/yingchao/analyse.py" beforeDir="false" afterPath="$PROJECT_DIR$/football/yingchao/analyse.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,19 +70,19 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../weibo_spider" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/GDP_regression" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Work\code\Python\data_combat\nvshendahui\app" />
-      <recent name="C:\Work\code\Python\data_combat\nvshendahui\statics" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Work\code\Python\data_combat\GDP_regression" />
       <recent name="C:\Work\code\Python\data_combat\boss_spider" />
       <recent name="C:\Work\code\Python\data_combat\you163_spider" />
       <recent name="C:\Work\code\Python\data_combat\nvshendahui\app\templates" />
       <recent name="C:\Work\code\Python\data_combat\nvshendahui\app\static\css" />
-      <recent name="C:\Work\code\Python\data_combat\nvshendahui\app\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Work\code\Python\data_combat\nvshendahui\app" />
+      <recent name="C:\Work\code\Python\data_combat\nvshendahui\statics" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -275,7 +272,8 @@
       <workItem from="1570760817575" duration="10766000" />
       <workItem from="1571017473948" duration="5000" />
       <workItem from="1571017537651" duration="18290000" />
-      <workItem from="1571883393094" duration="46989000" />
+      <workItem from="1571883393094" duration="48830000" />
+      <workItem from="1573612411908" duration="1512000" />
     </task>
     <servers />
   </component>
