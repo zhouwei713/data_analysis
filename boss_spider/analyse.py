@@ -14,13 +14,6 @@ import jieba
 from PIL import Image
 import numpy as np
 
-import pymysql
-
-db = pymysql.connect()
-cursor = db.cursor()
-cursor.execute()
-
-
 
 job_conn = MongoClient("mongodb://%s:%s@ds151612.mlab.com:51612/boss" % ('boss', 'boss123'))
 job_db = job_conn.boss

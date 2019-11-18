@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="311b2ca6-c61f-420a-ac4b-1d5ac01d3717" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/football/yingchao/analyse.py" beforeDir="false" afterPath="$PROJECT_DIR$/football/yingchao/analyse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GDP_analyse/.ipynb_checkpoints/GDP_analyse-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GDP_analyse/.ipynb_checkpoints/GDP_analyse-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GDP_analyse/GDP_analyse.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GDP_analyse/GDP_analyse.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boss_spider/analyse.py" beforeDir="false" afterPath="$PROJECT_DIR$/boss_spider/analyse.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +72,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/GDP_regression" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../weibo_spider" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -273,7 +275,8 @@
       <workItem from="1571017473948" duration="5000" />
       <workItem from="1571017537651" duration="18290000" />
       <workItem from="1571883393094" duration="48830000" />
-      <workItem from="1573612411908" duration="1512000" />
+      <workItem from="1573612411908" duration="2127000" />
+      <workItem from="1573733690248" duration="2073000" />
     </task>
     <servers />
   </component>
