@@ -1,0 +1,4731 @@
+name,value,date
+MongoDB,101.77,2012-11
+MongoDB,103.774,2012-12
+MongoDB,96.126,2013-01
+MongoDB,116.13600000000001,2013-02
+MongoDB,124.225,2013-03
+MongoDB,129.748,2013-04
+MongoDB,134.94799999999998,2013-05
+MongoDB,137.49200000000002,2013-06
+MongoDB,140.46200000000002,2013-07
+MongoDB,155.99200000000002,2013-08
+MongoDB,152.188,2013-09
+MongoDB,149.477,2013-10
+MongoDB,161.872,2013-11
+MongoDB,183.06799999999998,2013-12
+MongoDB,178.231,2014-01
+MongoDB,195.175,2014-02
+MongoDB,199.986,2014-03
+MongoDB,214.34099999999998,2014-04
+MongoDB,224.62099999999998,2014-05
+MongoDB,231.44299999999998,2014-06
+MongoDB,238.775,2014-07
+MongoDB,237.355,2014-08
+MongoDB,240.983,2014-09
+MongoDB,240.407,2014-10
+MongoDB,244.734,2014-11
+MongoDB,246.518,2014-12
+MongoDB,250.89700000000002,2015-01
+MongoDB,267.244,2015-02
+MongoDB,275.013,2015-03
+MongoDB,278.595,2015-04
+MongoDB,277.324,2015-05
+MongoDB,279.051,2015-06
+MongoDB,287.395,2015-07
+MongoDB,294.654,2015-08
+MongoDB,300.566,2015-09
+MongoDB,293.267,2015-10
+MongoDB,304.607,2015-11
+MongoDB,301.39099999999996,2015-12
+MongoDB,306.029,2016-01
+MongoDB,305.599,2016-02
+MongoDB,305.33099999999996,2016-03
+MongoDB,312.443,2016-04
+MongoDB,320.222,2016-05
+MongoDB,314.622,2016-06
+MongoDB,315.002,2016-07
+MongoDB,318.48900000000003,2016-08
+MongoDB,315.997,2016-09
+MongoDB,318.802,2016-10
+MongoDB,325.47700000000003,2016-11
+MongoDB,328.684,2016-12
+MongoDB,331.904,2017-01
+MongoDB,335.5,2017-02
+MongoDB,326.933,2017-03
+MongoDB,325.425,2017-04
+MongoDB,331.582,2017-05
+MongoDB,335.001,2017-06
+MongoDB,332.767,2017-07
+MongoDB,330.496,2017-08
+MongoDB,332.735,2017-09
+MongoDB,329.401,2017-10
+MongoDB,330.475,2017-11
+MongoDB,330.77,2017-12
+MongoDB,330.949,2018-01
+MongoDB,336.42400000000004,2018-02
+MongoDB,340.522,2018-03
+MongoDB,341.41,2018-04
+MongoDB,342.11300000000006,2018-05
+MongoDB,343.788,2018-06
+MongoDB,350.325,2018-07
+MongoDB,350.98,2018-08
+MongoDB,358.793,2018-09
+MongoDB,363.186,2018-10
+MongoDB,369.48199999999997,2018-11
+MongoDB,378.62,2018-12
+MongoDB,387.185,2019-01
+MongoDB,395.094,2019-02
+MongoDB,401.338,2019-03
+MongoDB,401.975,2019-04
+MongoDB,408.07099999999997,2019-05
+MongoDB,403.903,2019-06
+MongoDB,409.92800000000005,2019-07
+MongoDB,404.565,2019-08
+MongoDB,410.06,2019-09
+MongoDB,412.089,2019-10
+MongoDB,413.18300000000005,2019-11
+MongoDB,421.121,2019-12
+Amazon DynamoDB,0.0,2012-11
+Amazon DynamoDB,3.36,2012-12
+Amazon DynamoDB,2.437,2013-01
+Amazon DynamoDB,4.065,2013-02
+Amazon DynamoDB,3.83,2013-03
+Amazon DynamoDB,4.484,2013-04
+Amazon DynamoDB,4.999,2013-05
+Amazon DynamoDB,4.971,2013-06
+Amazon DynamoDB,5.31,2013-07
+Amazon DynamoDB,6.041,2013-08
+Amazon DynamoDB,6.4079999999999995,2013-09
+Amazon DynamoDB,6.183,2013-10
+Amazon DynamoDB,6.235,2013-11
+Amazon DynamoDB,7.433,2013-12
+Amazon DynamoDB,7.523,2014-01
+Amazon DynamoDB,8.362,2014-02
+Amazon DynamoDB,8.88,2014-03
+Amazon DynamoDB,9.312000000000001,2014-04
+Amazon DynamoDB,9.276,2014-05
+Amazon DynamoDB,9.577,2014-06
+Amazon DynamoDB,10.019,2014-07
+Amazon DynamoDB,10.11,2014-08
+Amazon DynamoDB,10.671,2014-09
+Amazon DynamoDB,10.577,2014-10
+Amazon DynamoDB,12.314,2014-11
+Amazon DynamoDB,12.818,2014-12
+Amazon DynamoDB,13.095,2015-01
+Amazon DynamoDB,13.974,2015-02
+Amazon DynamoDB,14.873,2015-03
+Amazon DynamoDB,14.58,2015-04
+Amazon DynamoDB,14.872,2015-05
+Amazon DynamoDB,15.847999999999999,2015-06
+Amazon DynamoDB,16.515,2015-07
+Amazon DynamoDB,18.448,2015-08
+Amazon DynamoDB,19.986,2015-09
+Amazon DynamoDB,21.328000000000003,2015-10
+Amazon DynamoDB,21.747,2015-11
+Amazon DynamoDB,21.226999999999997,2015-12
+Amazon DynamoDB,21.8,2016-01
+Amazon DynamoDB,21.802,2016-02
+Amazon DynamoDB,22.226,2016-03
+Amazon DynamoDB,23.116,2016-04
+Amazon DynamoDB,23.596999999999998,2016-05
+Amazon DynamoDB,24.337,2016-06
+Amazon DynamoDB,24.93,2016-07
+Amazon DynamoDB,26.596,2016-08
+Amazon DynamoDB,27.42,2016-09
+Amazon DynamoDB,28.978,2016-10
+Amazon DynamoDB,29.781999999999996,2016-11
+Amazon DynamoDB,30.009,2016-12
+Amazon DynamoDB,31.031999999999996,2017-01
+Amazon DynamoDB,32.191,2017-02
+Amazon DynamoDB,31.127,2017-03
+Amazon DynamoDB,32.064,2017-04
+Amazon DynamoDB,33.201,2017-05
+Amazon DynamoDB,34.019,2017-06
+Amazon DynamoDB,36.463,2017-07
+Amazon DynamoDB,37.621,2017-08
+Amazon DynamoDB,37.821999999999996,2017-09
+Amazon DynamoDB,37.597,2017-10
+Amazon DynamoDB,37.126,2017-11
+Amazon DynamoDB,36.713,2017-12
+Amazon DynamoDB,37.926,2018-01
+Amazon DynamoDB,39.878,2018-02
+Amazon DynamoDB,42.455,2018-03
+Amazon DynamoDB,43.145,2018-04
+Amazon DynamoDB,44.19,2018-05
+Amazon DynamoDB,45.795,2018-06
+Amazon DynamoDB,49.631,2018-07
+Amazon DynamoDB,51.657,2018-08
+Amazon DynamoDB,53.343,2018-09
+Amazon DynamoDB,54.466,2018-10
+Amazon DynamoDB,53.81399999999999,2018-11
+Amazon DynamoDB,54.29600000000001,2018-12
+Amazon DynamoDB,55.093999999999994,2019-01
+Amazon DynamoDB,54.946000000000005,2019-02
+Amazon DynamoDB,54.492,2019-03
+Amazon DynamoDB,56.01,2019-04
+Amazon DynamoDB,55.933,2019-05
+Amazon DynamoDB,55.262,2019-06
+Amazon DynamoDB,56.417,2019-07
+Amazon DynamoDB,56.57,2019-08
+Amazon DynamoDB,57.815,2019-09
+Amazon DynamoDB,60.175,2019-10
+Amazon DynamoDB,61.369,2019-11
+Amazon DynamoDB,61.629,2019-12
+Couchbase,3.38,2012-11
+Couchbase,3.603,2012-12
+Couchbase,4.001,2013-01
+Couchbase,3.9810000000000003,2013-02
+Couchbase,4.178999999999999,2013-03
+Couchbase,5.335,2013-04
+Couchbase,6.5760000000000005,2013-05
+Couchbase,6.369,2013-06
+Couchbase,6.834,2013-07
+Couchbase,7.005,2013-08
+Couchbase,7.795,2013-09
+Couchbase,7.316,2013-10
+Couchbase,7.268,2013-11
+Couchbase,10.017000000000001,2013-12
+Couchbase,10.109,2014-01
+Couchbase,11.061,2014-02
+Couchbase,11.828,2014-03
+Couchbase,12.925,2014-04
+Couchbase,14.057,2014-05
+Couchbase,15.786,2014-06
+Couchbase,16.581,2014-07
+Couchbase,17.543,2014-08
+Couchbase,19.669,2014-09
+Couchbase,19.998,2014-10
+Couchbase,21.497,2014-11
+Couchbase,21.342,2014-12
+Couchbase,22.588,2015-01
+Couchbase,22.930999999999997,2015-02
+Couchbase,23.174,2015-03
+Couchbase,25.565,2015-04
+Couchbase,25.236,2015-05
+Couchbase,24.953000000000003,2015-06
+Couchbase,26.276999999999997,2015-07
+Couchbase,26.162,2015-08
+Couchbase,26.250999999999998,2015-09
+Couchbase,26.191,2015-10
+Couchbase,25.822,2015-11
+Couchbase,26.259,2015-12
+Couchbase,26.085,2016-01
+Couchbase,25.391,2016-02
+Couchbase,25.798000000000002,2016-03
+Couchbase,25.015,2016-04
+Couchbase,24.29,2016-05
+Couchbase,25.305,2016-06
+Couchbase,25.976,2016-07
+Couchbase,27.4,2016-08
+Couchbase,28.535,2016-09
+Couchbase,29.303,2016-10
+Couchbase,29.053,2016-11
+Couchbase,29.728,2016-12
+Couchbase,30.22,2017-01
+Couchbase,31.177,2017-02
+Couchbase,30.041,2017-03
+Couchbase,30.811,2017-04
+Couchbase,32.253,2017-05
+Couchbase,31.916999999999998,2017-06
+Couchbase,33.018,2017-07
+Couchbase,32.965,2017-08
+Couchbase,33.107,2017-09
+Couchbase,33.364000000000004,2017-10
+Couchbase,32.317,2017-11
+Couchbase,31.311,2017-12
+Couchbase,31.428,2018-01
+Couchbase,31.750999999999998,2018-02
+Couchbase,32.899,2018-03
+Couchbase,32.338,2018-04
+Couchbase,32.409,2018-05
+Couchbase,32.452,2018-06
+Couchbase,33.074,2018-07
+Couchbase,32.955999999999996,2018-08
+Couchbase,34.548,2018-09
+Couchbase,35.916,2018-10
+Couchbase,34.853,2018-11
+Couchbase,35.589,2018-12
+Couchbase,34.593,2019-01
+Couchbase,35.577,2019-02
+Couchbase,33.798,2019-03
+Couchbase,36.283,2019-04
+Couchbase,34.672,2019-05
+Couchbase,33.358000000000004,2019-06
+Couchbase,33.714,2019-07
+Couchbase,33.834,2019-08
+Couchbase,31.29,2019-09
+Couchbase,32.205,2019-10
+Couchbase,31.986,2019-11
+Couchbase,31.493000000000002,2019-12
+Microsoft Azure Cosmos DB,0.0,2012-11
+Microsoft Azure Cosmos DB,0.0,2012-12
+Microsoft Azure Cosmos DB,0.0,2013-01
+Microsoft Azure Cosmos DB,0.0,2013-02
+Microsoft Azure Cosmos DB,0.0,2013-03
+Microsoft Azure Cosmos DB,0.0,2013-04
+Microsoft Azure Cosmos DB,0.0,2013-05
+Microsoft Azure Cosmos DB,0.0,2013-06
+Microsoft Azure Cosmos DB,0.0,2013-07
+Microsoft Azure Cosmos DB,0.0,2013-08
+Microsoft Azure Cosmos DB,0.0,2013-09
+Microsoft Azure Cosmos DB,0.0,2013-10
+Microsoft Azure Cosmos DB,0.0,2013-11
+Microsoft Azure Cosmos DB,0.0,2013-12
+Microsoft Azure Cosmos DB,0.0,2014-01
+Microsoft Azure Cosmos DB,0.0,2014-02
+Microsoft Azure Cosmos DB,0.0,2014-03
+Microsoft Azure Cosmos DB,0.0,2014-04
+Microsoft Azure Cosmos DB,0.0,2014-05
+Microsoft Azure Cosmos DB,0.0,2014-06
+Microsoft Azure Cosmos DB,0.0,2014-07
+Microsoft Azure Cosmos DB,0.0,2014-08
+Microsoft Azure Cosmos DB,0.0,2014-09
+Microsoft Azure Cosmos DB,0.65,2014-10
+Microsoft Azure Cosmos DB,0.644,2014-11
+Microsoft Azure Cosmos DB,0.6629999999999999,2014-12
+Microsoft Azure Cosmos DB,0.565,2015-01
+Microsoft Azure Cosmos DB,0.585,2015-02
+Microsoft Azure Cosmos DB,0.6920000000000001,2015-03
+Microsoft Azure Cosmos DB,0.823,2015-04
+Microsoft Azure Cosmos DB,0.965,2015-05
+Microsoft Azure Cosmos DB,1.119,2015-06
+Microsoft Azure Cosmos DB,1.298,2015-07
+Microsoft Azure Cosmos DB,1.406,2015-08
+Microsoft Azure Cosmos DB,1.495,2015-09
+Microsoft Azure Cosmos DB,1.555,2015-10
+Microsoft Azure Cosmos DB,1.8769999999999998,2015-11
+Microsoft Azure Cosmos DB,1.976,2015-12
+Microsoft Azure Cosmos DB,2.037,2016-01
+Microsoft Azure Cosmos DB,2.123,2016-02
+Microsoft Azure Cosmos DB,2.166,2016-03
+Microsoft Azure Cosmos DB,2.023,2016-04
+Microsoft Azure Cosmos DB,2.301,2016-05
+Microsoft Azure Cosmos DB,2.351,2016-06
+Microsoft Azure Cosmos DB,2.411,2016-07
+Microsoft Azure Cosmos DB,2.55,2016-08
+Microsoft Azure Cosmos DB,2.8169999999999997,2016-09
+Microsoft Azure Cosmos DB,2.8930000000000002,2016-10
+Microsoft Azure Cosmos DB,3.252,2016-11
+Microsoft Azure Cosmos DB,3.425,2016-12
+Microsoft Azure Cosmos DB,3.512,2017-01
+Microsoft Azure Cosmos DB,3.735,2017-02
+Microsoft Azure Cosmos DB,3.95,2017-03
+Microsoft Azure Cosmos DB,4.279,2017-04
+Microsoft Azure Cosmos DB,4.84,2017-05
+Microsoft Azure Cosmos DB,6.377000000000001,2017-06
+Microsoft Azure Cosmos DB,7.705,2017-07
+Microsoft Azure Cosmos DB,9.421,2017-08
+Microsoft Azure Cosmos DB,11.228,2017-09
+Microsoft Azure Cosmos DB,12.63,2017-10
+Microsoft Azure Cosmos DB,13.032,2017-11
+Microsoft Azure Cosmos DB,14.133,2017-12
+Microsoft Azure Cosmos DB,14.856,2018-01
+Microsoft Azure Cosmos DB,16.184,2018-02
+Microsoft Azure Cosmos DB,16.756,2018-03
+Microsoft Azure Cosmos DB,17.187,2018-04
+Microsoft Azure Cosmos DB,17.537,2018-05
+Microsoft Azure Cosmos DB,19.197,2018-06
+Microsoft Azure Cosmos DB,19.45,2018-07
+Microsoft Azure Cosmos DB,19.524,2018-08
+Microsoft Azure Cosmos DB,19.177,2018-09
+Microsoft Azure Cosmos DB,20.259,2018-10
+Microsoft Azure Cosmos DB,22.034000000000002,2018-11
+Microsoft Azure Cosmos DB,23.375999999999998,2018-12
+Microsoft Azure Cosmos DB,24.384,2019-01
+Microsoft Azure Cosmos DB,24.857,2019-02
+Microsoft Azure Cosmos DB,24.825,2019-03
+Microsoft Azure Cosmos DB,26.276999999999997,2019-04
+Microsoft Azure Cosmos DB,27.593000000000004,2019-05
+Microsoft Azure Cosmos DB,28.246,2019-06
+Microsoft Azure Cosmos DB,29.081,2019-07
+Microsoft Azure Cosmos DB,29.936,2019-08
+Microsoft Azure Cosmos DB,30.865,2019-09
+Microsoft Azure Cosmos DB,31.329,2019-10
+Microsoft Azure Cosmos DB,31.979,2019-11
+Microsoft Azure Cosmos DB,31.435,2019-12
+CouchDB,19.81,2012-11
+CouchDB,20.537,2012-12
+CouchDB,19.158,2013-01
+CouchDB,19.688,2013-02
+CouchDB,18.293,2013-03
+CouchDB,18.717,2013-04
+CouchDB,18.267,2013-05
+CouchDB,15.929,2013-06
+CouchDB,17.213,2013-07
+CouchDB,18.808,2013-08
+CouchDB,18.915,2013-09
+CouchDB,18.674,2013-10
+CouchDB,19.343,2013-11
+CouchDB,25.412,2013-12
+CouchDB,24.218000000000004,2014-01
+CouchDB,23.429000000000002,2014-02
+CouchDB,22.86,2014-03
+CouchDB,22.551,2014-04
+CouchDB,22.851,2014-05
+CouchDB,22.785,2014-06
+CouchDB,23.066,2014-07
+CouchDB,24.133000000000003,2014-08
+CouchDB,25.97,2014-09
+CouchDB,25.785999999999998,2014-10
+CouchDB,25.803,2014-11
+CouchDB,26.831,2014-12
+CouchDB,26.323,2015-01
+CouchDB,28.35,2015-02
+CouchDB,27.918000000000003,2015-03
+CouchDB,26.947,2015-04
+CouchDB,27.162,2015-05
+CouchDB,27.936,2015-06
+CouchDB,26.935,2015-07
+CouchDB,27.283,2015-08
+CouchDB,26.592,2015-09
+CouchDB,26.869,2015-10
+CouchDB,26.375,2015-11
+CouchDB,25.041999999999998,2015-12
+CouchDB,24.119,2016-01
+CouchDB,23.541999999999998,2016-02
+CouchDB,23.384,2016-03
+CouchDB,22.363000000000003,2016-04
+CouchDB,21.987,2016-05
+CouchDB,21.709,2016-06
+CouchDB,21.004,2016-07
+CouchDB,21.055,2016-08
+CouchDB,21.476,2016-09
+CouchDB,22.180999999999997,2016-10
+CouchDB,22.656,2016-11
+CouchDB,22.35,2016-12
+CouchDB,21.983,2017-01
+CouchDB,23.43,2017-02
+CouchDB,22.938000000000002,2017-03
+CouchDB,22.368000000000002,2017-04
+CouchDB,22.404,2017-05
+CouchDB,22.151999999999997,2017-06
+CouchDB,22.146,2017-07
+CouchDB,21.339000000000002,2017-08
+CouchDB,20.995,2017-09
+CouchDB,21.333000000000002,2017-10
+CouchDB,20.509,2017-11
+CouchDB,20.664,2017-12
+CouchDB,20.663,2018-01
+CouchDB,20.295,2018-02
+CouchDB,20.205,2018-03
+CouchDB,19.852999999999998,2018-04
+CouchDB,19.423,2018-05
+CouchDB,20.194000000000003,2018-06
+CouchDB,19.498,2018-07
+CouchDB,18.436,2018-08
+CouchDB,18.642,2018-09
+CouchDB,19.385,2018-10
+CouchDB,18.727,2018-11
+CouchDB,19.182000000000002,2018-12
+CouchDB,19.324,2019-01
+CouchDB,19.999000000000002,2019-02
+CouchDB,18.633,2019-03
+CouchDB,20.435,2019-04
+CouchDB,19.112000000000002,2019-05
+CouchDB,19.222,2019-06
+CouchDB,19.679000000000002,2019-07
+CouchDB,19.764,2019-08
+CouchDB,18.396,2019-09
+CouchDB,18.037,2019-10
+CouchDB,18.384,2019-11
+CouchDB,18.116,2019-12
+MarkLogic,4.53,2012-11
+MarkLogic,3.861,2012-12
+MarkLogic,3.051,2013-01
+MarkLogic,3.077,2013-02
+MarkLogic,3.9130000000000003,2013-03
+MarkLogic,4.104,2013-04
+MarkLogic,4.73,2013-05
+MarkLogic,4.667,2013-06
+MarkLogic,4.364,2013-07
+MarkLogic,4.051,2013-08
+MarkLogic,3.013,2013-09
+MarkLogic,3.095,2013-10
+MarkLogic,3.855,2013-11
+MarkLogic,5.857,2013-12
+MarkLogic,5.697,2014-01
+MarkLogic,6.027,2014-02
+MarkLogic,6.279,2014-03
+MarkLogic,7.191,2014-04
+MarkLogic,7.811,2014-05
+MarkLogic,8.224,2014-06
+MarkLogic,8.2,2014-07
+MarkLogic,8.08,2014-08
+MarkLogic,7.462000000000001,2014-09
+MarkLogic,7.8660000000000005,2014-10
+MarkLogic,8.097999999999999,2014-11
+MarkLogic,8.542,2014-12
+MarkLogic,9.031,2015-01
+MarkLogic,9.509,2015-02
+MarkLogic,10.302,2015-03
+MarkLogic,10.211,2015-04
+MarkLogic,9.905,2015-05
+MarkLogic,10.777000000000001,2015-06
+MarkLogic,11.134,2015-07
+MarkLogic,11.712,2015-08
+MarkLogic,11.52,2015-09
+MarkLogic,11.341,2015-10
+MarkLogic,10.998,2015-11
+MarkLogic,10.359000000000002,2015-12
+MarkLogic,9.923,2016-01
+MarkLogic,9.323,2016-02
+MarkLogic,9.363,2016-03
+MarkLogic,9.118,2016-04
+MarkLogic,9.074,2016-05
+MarkLogic,9.567,2016-06
+MarkLogic,9.753,2016-07
+MarkLogic,10.039,2016-08
+MarkLogic,10.147,2016-09
+MarkLogic,10.300999999999998,2016-10
+MarkLogic,10.219,2016-11
+MarkLogic,10.328,2016-12
+MarkLogic,10.192,2017-01
+MarkLogic,10.735,2017-02
+MarkLogic,11.107000000000001,2017-03
+MarkLogic,11.199000000000002,2017-04
+MarkLogic,11.479000000000001,2017-05
+MarkLogic,12.129000000000001,2017-06
+MarkLogic,12.432,2017-07
+MarkLogic,12.498,2017-08
+MarkLogic,12.100999999999999,2017-09
+MarkLogic,11.812000000000001,2017-10
+MarkLogic,11.554,2017-11
+MarkLogic,11.152000000000001,2017-12
+MarkLogic,11.208,2018-01
+MarkLogic,11.026,2018-02
+MarkLogic,10.972000000000001,2018-03
+MarkLogic,10.625,2018-04
+MarkLogic,10.392999999999999,2018-05
+MarkLogic,10.969000000000001,2018-06
+MarkLogic,11.311,2018-07
+MarkLogic,11.207,2018-08
+MarkLogic,11.527999999999999,2018-09
+MarkLogic,12.629000000000001,2018-10
+MarkLogic,13.466,2018-11
+MarkLogic,14.277999999999999,2018-12
+MarkLogic,14.259,2019-01
+MarkLogic,14.994000000000002,2019-02
+MarkLogic,13.745,2019-03
+MarkLogic,14.468,2019-04
+MarkLogic,14.049000000000001,2019-05
+MarkLogic,13.509,2019-06
+MarkLogic,13.814,2019-07
+MarkLogic,14.460999999999999,2019-08
+MarkLogic,13.42,2019-09
+MarkLogic,13.064,2019-10
+MarkLogic,12.824000000000002,2019-11
+MarkLogic,12.469000000000001,2019-12
+Firebase Realtime Database,0.0,2012-11
+Firebase Realtime Database,0.0,2012-12
+Firebase Realtime Database,0.0,2013-01
+Firebase Realtime Database,0.0,2013-02
+Firebase Realtime Database,0.0,2013-03
+Firebase Realtime Database,0.0,2013-04
+Firebase Realtime Database,0.0,2013-05
+Firebase Realtime Database,0.0,2013-06
+Firebase Realtime Database,0.0,2013-07
+Firebase Realtime Database,0.0,2013-08
+Firebase Realtime Database,0.0,2013-09
+Firebase Realtime Database,0.0,2013-10
+Firebase Realtime Database,0.0,2013-11
+Firebase Realtime Database,0.0,2013-12
+Firebase Realtime Database,0.0,2014-01
+Firebase Realtime Database,0.0,2014-02
+Firebase Realtime Database,0.0,2014-03
+Firebase Realtime Database,0.0,2014-04
+Firebase Realtime Database,0.0,2014-05
+Firebase Realtime Database,0.0,2014-06
+Firebase Realtime Database,0.0,2014-07
+Firebase Realtime Database,0.0,2014-08
+Firebase Realtime Database,0.0,2014-09
+Firebase Realtime Database,0.0,2014-10
+Firebase Realtime Database,0.0,2014-11
+Firebase Realtime Database,0.0,2014-12
+Firebase Realtime Database,0.0,2015-01
+Firebase Realtime Database,0.0,2015-02
+Firebase Realtime Database,0.0,2015-03
+Firebase Realtime Database,0.0,2015-04
+Firebase Realtime Database,0.0,2015-05
+Firebase Realtime Database,0.0,2015-06
+Firebase Realtime Database,0.0,2015-07
+Firebase Realtime Database,0.0,2015-08
+Firebase Realtime Database,0.0,2015-09
+Firebase Realtime Database,0.0,2015-10
+Firebase Realtime Database,0.0,2015-11
+Firebase Realtime Database,0.0,2015-12
+Firebase Realtime Database,0.0,2016-01
+Firebase Realtime Database,0.0,2016-02
+Firebase Realtime Database,0.0,2016-03
+Firebase Realtime Database,0.0,2016-04
+Firebase Realtime Database,0.0,2016-05
+Firebase Realtime Database,0.0,2016-06
+Firebase Realtime Database,0.0,2016-07
+Firebase Realtime Database,0.0,2016-08
+Firebase Realtime Database,0.0,2016-09
+Firebase Realtime Database,1.632,2016-10
+Firebase Realtime Database,1.9769999999999999,2016-11
+Firebase Realtime Database,2.15,2016-12
+Firebase Realtime Database,2.293,2017-01
+Firebase Realtime Database,2.682,2017-02
+Firebase Realtime Database,2.7880000000000003,2017-03
+Firebase Realtime Database,3.045,2017-04
+Firebase Realtime Database,3.6310000000000002,2017-05
+Firebase Realtime Database,3.8089999999999997,2017-06
+Firebase Realtime Database,4.067,2017-07
+Firebase Realtime Database,4.506,2017-08
+Firebase Realtime Database,4.63,2017-09
+Firebase Realtime Database,4.7219999999999995,2017-10
+Firebase Realtime Database,4.878,2017-11
+Firebase Realtime Database,5.353,2017-12
+Firebase Realtime Database,6.069,2018-01
+Firebase Realtime Database,5.841,2018-02
+Firebase Realtime Database,6.5920000000000005,2018-03
+Firebase Realtime Database,6.055,2018-04
+Firebase Realtime Database,6.484,2018-05
+Firebase Realtime Database,6.629,2018-06
+Firebase Realtime Database,7.537000000000001,2018-07
+Firebase Realtime Database,7.51,2018-08
+Firebase Realtime Database,8.103,2018-09
+Firebase Realtime Database,8.722999999999999,2018-10
+Firebase Realtime Database,9.437000000000001,2018-11
+Firebase Realtime Database,9.767999999999999,2018-12
+Firebase Realtime Database,9.779,2019-01
+Firebase Realtime Database,10.43,2019-02
+Firebase Realtime Database,10.300999999999998,2019-03
+Firebase Realtime Database,11.001,2019-04
+Firebase Realtime Database,11.277999999999999,2019-05
+Firebase Realtime Database,10.847000000000001,2019-06
+Firebase Realtime Database,11.282,2019-07
+Firebase Realtime Database,11.638,2019-08
+Firebase Realtime Database,11.245999999999999,2019-09
+Firebase Realtime Database,11.742,2019-10
+Firebase Realtime Database,11.595999999999998,2019-11
+Firebase Realtime Database,11.814,2019-12
+Realm,0.0,2012-11
+Realm,0.0,2012-12
+Realm,0.0,2013-01
+Realm,0.0,2013-02
+Realm,0.0,2013-03
+Realm,0.0,2013-04
+Realm,0.0,2013-05
+Realm,0.0,2013-06
+Realm,0.0,2013-07
+Realm,0.0,2013-08
+Realm,0.0,2013-09
+Realm,0.0,2013-10
+Realm,0.0,2013-11
+Realm,0.0,2013-12
+Realm,0.0,2014-01
+Realm,0.0,2014-02
+Realm,0.0,2014-03
+Realm,0.0,2014-04
+Realm,0.0,2014-05
+Realm,0.0,2014-06
+Realm,0.0,2014-07
+Realm,0.0,2014-08
+Realm,0.0,2014-09
+Realm,0.0,2014-10
+Realm,0.0,2014-11
+Realm,0.0,2014-12
+Realm,0.0,2015-01
+Realm,0.0,2015-02
+Realm,0.0,2015-03
+Realm,0.0,2015-04
+Realm,0.0,2015-05
+Realm,0.0,2015-06
+Realm,0.0,2015-07
+Realm,0.0,2015-08
+Realm,0.0,2015-09
+Realm,0.0,2015-10
+Realm,0.0,2015-11
+Realm,0.0,2015-12
+Realm,0.0,2016-01
+Realm,0.0,2016-02
+Realm,2.227,2016-03
+Realm,2.399,2016-04
+Realm,2.559,2016-05
+Realm,2.588,2016-06
+Realm,2.764,2016-07
+Realm,2.7960000000000003,2016-08
+Realm,2.906,2016-09
+Realm,3.0860000000000003,2016-10
+Realm,3.292,2016-11
+Realm,3.408,2016-12
+Realm,3.425,2017-01
+Realm,3.532,2017-02
+Realm,3.498,2017-03
+Realm,3.554,2017-04
+Realm,3.984,2017-05
+Realm,3.9739999999999998,2017-06
+Realm,4.029,2017-07
+Realm,4.023,2017-08
+Realm,4.19,2017-09
+Realm,4.349,2017-10
+Realm,4.5280000000000005,2017-11
+Realm,4.922,2017-12
+Realm,5.038,2018-01
+Realm,5.01,2018-02
+Realm,5.0969999999999995,2018-03
+Realm,5.257999999999999,2018-04
+Realm,5.327999999999999,2018-05
+Realm,5.343999999999999,2018-06
+Realm,5.571000000000001,2018-07
+Realm,5.726,2018-08
+Realm,5.757000000000001,2018-09
+Realm,5.9879999999999995,2018-10
+Realm,6.106,2018-11
+Realm,6.205,2018-12
+Realm,6.517,2019-01
+Realm,6.879,2019-02
+Realm,6.968,2019-03
+Realm,7.231,2019-04
+Realm,7.644,2019-05
+Realm,7.667000000000001,2019-06
+Realm,7.4270000000000005,2019-07
+Realm,7.348,2019-08
+Realm,7.7410000000000005,2019-09
+Realm,7.9239999999999995,2019-10
+Realm,7.973,2019-11
+Realm,8.265,2019-12
+Google Cloud Firestore,0.0,2012-11
+Google Cloud Firestore,0.0,2012-12
+Google Cloud Firestore,0.0,2013-01
+Google Cloud Firestore,0.0,2013-02
+Google Cloud Firestore,0.0,2013-03
+Google Cloud Firestore,0.0,2013-04
+Google Cloud Firestore,0.0,2013-05
+Google Cloud Firestore,0.0,2013-06
+Google Cloud Firestore,0.0,2013-07
+Google Cloud Firestore,0.0,2013-08
+Google Cloud Firestore,0.0,2013-09
+Google Cloud Firestore,0.0,2013-10
+Google Cloud Firestore,0.0,2013-11
+Google Cloud Firestore,0.0,2013-12
+Google Cloud Firestore,0.0,2014-01
+Google Cloud Firestore,0.0,2014-02
+Google Cloud Firestore,0.0,2014-03
+Google Cloud Firestore,0.0,2014-04
+Google Cloud Firestore,0.0,2014-05
+Google Cloud Firestore,0.0,2014-06
+Google Cloud Firestore,0.0,2014-07
+Google Cloud Firestore,0.0,2014-08
+Google Cloud Firestore,0.0,2014-09
+Google Cloud Firestore,0.0,2014-10
+Google Cloud Firestore,0.0,2014-11
+Google Cloud Firestore,0.0,2014-12
+Google Cloud Firestore,0.0,2015-01
+Google Cloud Firestore,0.0,2015-02
+Google Cloud Firestore,0.0,2015-03
+Google Cloud Firestore,0.0,2015-04
+Google Cloud Firestore,0.0,2015-05
+Google Cloud Firestore,0.0,2015-06
+Google Cloud Firestore,0.0,2015-07
+Google Cloud Firestore,0.0,2015-08
+Google Cloud Firestore,0.0,2015-09
+Google Cloud Firestore,0.0,2015-10
+Google Cloud Firestore,0.0,2015-11
+Google Cloud Firestore,0.0,2015-12
+Google Cloud Firestore,0.0,2016-01
+Google Cloud Firestore,0.0,2016-02
+Google Cloud Firestore,0.0,2016-03
+Google Cloud Firestore,0.0,2016-04
+Google Cloud Firestore,0.0,2016-05
+Google Cloud Firestore,0.0,2016-06
+Google Cloud Firestore,0.0,2016-07
+Google Cloud Firestore,0.0,2016-08
+Google Cloud Firestore,0.0,2016-09
+Google Cloud Firestore,0.0,2016-10
+Google Cloud Firestore,0.0,2016-11
+Google Cloud Firestore,0.0,2016-12
+Google Cloud Firestore,0.0,2017-01
+Google Cloud Firestore,0.0,2017-02
+Google Cloud Firestore,0.0,2017-03
+Google Cloud Firestore,0.0,2017-04
+Google Cloud Firestore,0.0,2017-05
+Google Cloud Firestore,0.0,2017-06
+Google Cloud Firestore,0.0,2017-07
+Google Cloud Firestore,0.0,2017-08
+Google Cloud Firestore,0.0,2017-09
+Google Cloud Firestore,0.0,2017-10
+Google Cloud Firestore,1.8419999999999999,2017-11
+Google Cloud Firestore,2.055,2017-12
+Google Cloud Firestore,2.286,2018-01
+Google Cloud Firestore,2.191,2018-02
+Google Cloud Firestore,2.23,2018-03
+Google Cloud Firestore,2.227,2018-04
+Google Cloud Firestore,2.228,2018-05
+Google Cloud Firestore,2.14,2018-06
+Google Cloud Firestore,2.128,2018-07
+Google Cloud Firestore,2.22,2018-08
+Google Cloud Firestore,2.425,2018-09
+Google Cloud Firestore,2.966,2018-10
+Google Cloud Firestore,3.208,2018-11
+Google Cloud Firestore,3.4410000000000003,2018-12
+Google Cloud Firestore,3.611,2019-01
+Google Cloud Firestore,3.76,2019-02
+Google Cloud Firestore,4.165,2019-03
+Google Cloud Firestore,4.303999999999999,2019-04
+Google Cloud Firestore,4.989,2019-05
+Google Cloud Firestore,4.881,2019-06
+Google Cloud Firestore,5.232,2019-07
+Google Cloud Firestore,6.265,2019-08
+Google Cloud Firestore,4.9430000000000005,2019-09
+Google Cloud Firestore,5.33,2019-10
+Google Cloud Firestore,5.796,2019-11
+Google Cloud Firestore,5.676,2019-12
+OrientDB,0.23,2012-11
+OrientDB,0.215,2012-12
+OrientDB,0.25,2013-01
+OrientDB,0.324,2013-02
+OrientDB,0.415,2013-03
+OrientDB,0.371,2013-04
+OrientDB,0.496,2013-05
+OrientDB,0.626,2013-06
+OrientDB,0.705,2013-07
+OrientDB,0.917,2013-08
+OrientDB,0.799,2013-09
+OrientDB,0.81,2013-10
+OrientDB,0.816,2013-11
+OrientDB,1.3780000000000001,2013-12
+OrientDB,1.6909999999999998,2014-01
+OrientDB,2.055,2014-02
+OrientDB,1.601,2014-03
+OrientDB,1.7009999999999998,2014-04
+OrientDB,1.679,2014-05
+OrientDB,1.725,2014-06
+OrientDB,1.7069999999999999,2014-07
+OrientDB,1.7790000000000001,2014-08
+OrientDB,1.931,2014-09
+OrientDB,2.002,2014-10
+OrientDB,2.02,2014-11
+OrientDB,2.176,2014-12
+OrientDB,2.535,2015-01
+OrientDB,2.928,2015-02
+OrientDB,3.272,2015-03
+OrientDB,3.3739999999999997,2015-04
+OrientDB,3.991,2015-05
+OrientDB,4.232,2015-06
+OrientDB,4.462,2015-07
+OrientDB,4.654,2015-08
+OrientDB,4.6,2015-09
+OrientDB,4.931,2015-10
+OrientDB,5.502000000000001,2015-11
+OrientDB,5.796,2015-12
+OrientDB,6.093999999999999,2016-01
+OrientDB,6.422000000000001,2016-02
+OrientDB,6.66,2016-03
+OrientDB,6.305,2016-04
+OrientDB,6.126,2016-05
+OrientDB,5.9270000000000005,2016-06
+OrientDB,5.835,2016-07
+OrientDB,5.965,2016-08
+OrientDB,6.396,2016-09
+OrientDB,6.247000000000001,2016-10
+OrientDB,6.075,2016-11
+OrientDB,5.869,2016-12
+OrientDB,5.81,2017-01
+OrientDB,5.872999999999999,2017-02
+OrientDB,5.343,2017-03
+OrientDB,5.439,2017-04
+OrientDB,5.74,2017-05
+OrientDB,5.813,2017-06
+OrientDB,5.57,2017-07
+OrientDB,5.666,2017-08
+OrientDB,5.895,2017-09
+OrientDB,6.132000000000001,2017-10
+OrientDB,6.104,2017-11
+OrientDB,6.752000000000001,2017-12
+OrientDB,6.688,2018-01
+OrientDB,5.943,2018-02
+OrientDB,6.457999999999999,2018-03
+OrientDB,5.642,2018-04
+OrientDB,5.25,2018-05
+OrientDB,5.348,2018-06
+OrientDB,5.391,2018-07
+OrientDB,4.91,2018-08
+OrientDB,5.476,2018-09
+OrientDB,5.68,2018-10
+OrientDB,5.7989999999999995,2018-11
+OrientDB,6.08,2018-12
+OrientDB,5.74,2019-01
+OrientDB,6.047999999999999,2019-02
+OrientDB,6.132000000000001,2019-03
+OrientDB,6.192,2019-04
+OrientDB,6.371,2019-05
+OrientDB,5.593999999999999,2019-06
+OrientDB,5.695,2019-07
+OrientDB,6.284,2019-08
+OrientDB,5.061,2019-09
+OrientDB,5.135,2019-10
+OrientDB,5.385,2019-11
+OrientDB,4.926,2019-12
+ArangoDB,0.005,2012-11
+ArangoDB,0.005,2012-12
+ArangoDB,0.005,2013-01
+ArangoDB,0.005,2013-02
+ArangoDB,0.005,2013-03
+ArangoDB,0.005,2013-04
+ArangoDB,0.005,2013-05
+ArangoDB,0.005,2013-06
+ArangoDB,0.005,2013-07
+ArangoDB,0.005,2013-08
+ArangoDB,0.005,2013-09
+ArangoDB,0.005,2013-10
+ArangoDB,0.005,2013-11
+ArangoDB,0.02,2013-12
+ArangoDB,0.071,2014-01
+ArangoDB,0.065,2014-02
+ArangoDB,0.102,2014-03
+ArangoDB,0.08800000000000001,2014-04
+ArangoDB,0.068,2014-05
+ArangoDB,0.2,2014-06
+ArangoDB,0.233,2014-07
+ArangoDB,0.26,2014-08
+ArangoDB,0.252,2014-09
+ArangoDB,0.23,2014-10
+ArangoDB,0.31,2014-11
+ArangoDB,0.475,2014-12
+ArangoDB,0.621,2015-01
+ArangoDB,0.735,2015-02
+ArangoDB,0.8320000000000001,2015-03
+ArangoDB,0.972,2015-04
+ArangoDB,1.0979999999999999,2015-05
+ArangoDB,1.2009999999999998,2015-06
+ArangoDB,1.294,2015-07
+ArangoDB,1.3880000000000001,2015-08
+ArangoDB,1.36,2015-09
+ArangoDB,1.4769999999999999,2015-10
+ArangoDB,1.61,2015-11
+ArangoDB,1.3769999999999998,2015-12
+ArangoDB,1.412,2016-01
+ArangoDB,1.4480000000000002,2016-02
+ArangoDB,1.676,2016-03
+ArangoDB,1.51,2016-04
+ArangoDB,1.564,2016-05
+ArangoDB,1.6569999999999998,2016-06
+ArangoDB,1.7530000000000001,2016-07
+ArangoDB,1.9340000000000002,2016-08
+ArangoDB,2.13,2016-09
+ArangoDB,2.155,2016-10
+ArangoDB,2.2769999999999997,2016-11
+ArangoDB,2.39,2016-12
+ArangoDB,2.414,2017-01
+ArangoDB,2.484,2017-02
+ArangoDB,2.381,2017-03
+ArangoDB,2.612,2017-04
+ArangoDB,2.957,2017-05
+ArangoDB,3.0839999999999996,2017-06
+ArangoDB,2.96,2017-07
+ArangoDB,2.923,2017-08
+ArangoDB,2.997,2017-09
+ArangoDB,3.1510000000000002,2017-10
+ArangoDB,3.1460000000000004,2017-11
+ArangoDB,3.611,2017-12
+ArangoDB,3.8089999999999997,2018-01
+ArangoDB,3.472,2018-02
+ArangoDB,4.118,2018-03
+ArangoDB,3.802,2018-04
+ArangoDB,3.7030000000000003,2018-05
+ArangoDB,3.522,2018-06
+ArangoDB,3.452,2018-07
+ArangoDB,3.338,2018-08
+ArangoDB,4.048,2018-09
+ArangoDB,4.247,2018-10
+ArangoDB,4.149,2018-11
+ArangoDB,4.2780000000000005,2018-12
+ArangoDB,4.283,2019-01
+ArangoDB,4.357,2019-02
+ArangoDB,4.2589999999999995,2019-03
+ArangoDB,4.293,2019-04
+ArangoDB,4.794,2019-05
+ArangoDB,4.574,2019-06
+ArangoDB,4.664,2019-07
+ArangoDB,5.121,2019-08
+ArangoDB,4.36,2019-09
+ArangoDB,4.879,2019-10
+ArangoDB,5.0169999999999995,2019-11
+ArangoDB,4.875,2019-12
+Google Cloud Datastore,0.0,2012-11
+Google Cloud Datastore,0.0,2012-12
+Google Cloud Datastore,0.0,2013-01
+Google Cloud Datastore,0.0,2013-02
+Google Cloud Datastore,0.0,2013-03
+Google Cloud Datastore,0.0,2013-04
+Google Cloud Datastore,0.0,2013-05
+Google Cloud Datastore,0.0,2013-06
+Google Cloud Datastore,0.0,2013-07
+Google Cloud Datastore,0.0,2013-08
+Google Cloud Datastore,0.0,2013-09
+Google Cloud Datastore,0.0,2013-10
+Google Cloud Datastore,0.0,2013-11
+Google Cloud Datastore,0.0,2013-12
+Google Cloud Datastore,0.0,2014-01
+Google Cloud Datastore,0.0,2014-02
+Google Cloud Datastore,0.0,2014-03
+Google Cloud Datastore,0.0,2014-04
+Google Cloud Datastore,0.0,2014-05
+Google Cloud Datastore,0.0,2014-06
+Google Cloud Datastore,0.0,2014-07
+Google Cloud Datastore,0.0,2014-08
+Google Cloud Datastore,0.0,2014-09
+Google Cloud Datastore,0.52,2014-10
+Google Cloud Datastore,0.5379999999999999,2014-11
+Google Cloud Datastore,0.604,2014-12
+Google Cloud Datastore,0.6940000000000001,2015-01
+Google Cloud Datastore,0.779,2015-02
+Google Cloud Datastore,0.8140000000000001,2015-03
+Google Cloud Datastore,0.7879999999999999,2015-04
+Google Cloud Datastore,0.82,2015-05
+Google Cloud Datastore,0.698,2015-06
+Google Cloud Datastore,0.746,2015-07
+Google Cloud Datastore,0.7659999999999999,2015-08
+Google Cloud Datastore,0.8,2015-09
+Google Cloud Datastore,0.809,2015-10
+Google Cloud Datastore,0.818,2015-11
+Google Cloud Datastore,0.8220000000000001,2015-12
+Google Cloud Datastore,0.871,2016-01
+Google Cloud Datastore,0.867,2016-02
+Google Cloud Datastore,0.892,2016-03
+Google Cloud Datastore,0.9179999999999999,2016-04
+Google Cloud Datastore,0.929,2016-05
+Google Cloud Datastore,1.003,2016-06
+Google Cloud Datastore,1.068,2016-07
+Google Cloud Datastore,1.084,2016-08
+Google Cloud Datastore,1.449,2016-09
+Google Cloud Datastore,1.3719999999999999,2016-10
+Google Cloud Datastore,1.469,2016-11
+Google Cloud Datastore,1.459,2016-12
+Google Cloud Datastore,1.55,2017-01
+Google Cloud Datastore,1.892,2017-02
+Google Cloud Datastore,2.031,2017-03
+Google Cloud Datastore,2.6430000000000002,2017-04
+Google Cloud Datastore,2.995,2017-05
+Google Cloud Datastore,3.1519999999999997,2017-06
+Google Cloud Datastore,3.897,2017-07
+Google Cloud Datastore,3.4939999999999998,2017-08
+Google Cloud Datastore,3.0589999999999997,2017-09
+Google Cloud Datastore,3.074,2017-10
+Google Cloud Datastore,3.165,2017-11
+Google Cloud Datastore,3.471,2017-12
+Google Cloud Datastore,3.5410000000000004,2018-01
+Google Cloud Datastore,3.116,2018-02
+Google Cloud Datastore,3.5869999999999997,2018-03
+Google Cloud Datastore,3.2089999999999996,2018-04
+Google Cloud Datastore,3.168,2018-05
+Google Cloud Datastore,3.1839999999999997,2018-06
+Google Cloud Datastore,3.365,2018-07
+Google Cloud Datastore,3.32,2018-08
+Google Cloud Datastore,3.801,2018-09
+Google Cloud Datastore,4.046,2018-10
+Google Cloud Datastore,4.011,2018-11
+Google Cloud Datastore,4.155,2018-12
+Google Cloud Datastore,4.059,2019-01
+Google Cloud Datastore,4.3069999999999995,2019-02
+Google Cloud Datastore,4.321000000000001,2019-03
+Google Cloud Datastore,4.434,2019-04
+Google Cloud Datastore,4.718,2019-05
+Google Cloud Datastore,4.505,2019-06
+Google Cloud Datastore,5.022,2019-07
+Google Cloud Datastore,5.9,2019-08
+Google Cloud Datastore,4.721,2019-09
+Google Cloud Datastore,5.254,2019-10
+Google Cloud Datastore,5.206,2019-11
+Google Cloud Datastore,4.637,2019-12
+RethinkDB,0.0,2012-11
+RethinkDB,0.0,2012-12
+RethinkDB,0.005,2013-01
+RethinkDB,0.005,2013-02
+RethinkDB,0.005,2013-03
+RethinkDB,0.005,2013-04
+RethinkDB,0.005,2013-05
+RethinkDB,0.005,2013-06
+RethinkDB,0.023,2013-07
+RethinkDB,0.031,2013-08
+RethinkDB,0.09,2013-09
+RethinkDB,0.113,2013-10
+RethinkDB,0.14800000000000002,2013-11
+RethinkDB,0.21100000000000002,2013-12
+RethinkDB,0.24100000000000002,2014-01
+RethinkDB,0.256,2014-02
+RethinkDB,0.281,2014-03
+RethinkDB,0.331,2014-04
+RethinkDB,0.355,2014-05
+RethinkDB,0.527,2014-06
+RethinkDB,0.506,2014-07
+RethinkDB,0.626,2014-08
+RethinkDB,0.823,2014-09
+RethinkDB,0.91,2014-10
+RethinkDB,0.961,2014-11
+RethinkDB,0.897,2014-12
+RethinkDB,1.121,2015-01
+RethinkDB,1.256,2015-02
+RethinkDB,1.348,2015-03
+RethinkDB,1.652,2015-04
+RethinkDB,2.053,2015-05
+RethinkDB,2.335,2015-06
+RethinkDB,2.593,2015-07
+RethinkDB,2.766,2015-08
+RethinkDB,2.9419999999999997,2015-09
+RethinkDB,3.358,2015-10
+RethinkDB,3.6830000000000003,2015-11
+RethinkDB,4.237,2015-12
+RethinkDB,4.457,2016-01
+RethinkDB,4.814,2016-02
+RethinkDB,5.141,2016-03
+RethinkDB,4.971,2016-04
+RethinkDB,4.9,2016-05
+RethinkDB,4.921,2016-06
+RethinkDB,4.7989999999999995,2016-07
+RethinkDB,4.755,2016-08
+RethinkDB,5.023,2016-09
+RethinkDB,5.234,2016-10
+RethinkDB,5.899,2016-11
+RethinkDB,5.966,2016-12
+RethinkDB,5.7620000000000005,2017-01
+RethinkDB,5.643,2017-02
+RethinkDB,5.539,2017-03
+RethinkDB,5.132000000000001,2017-04
+RethinkDB,5.008,2017-05
+RethinkDB,4.935,2017-06
+RethinkDB,4.947,2017-07
+RethinkDB,4.879,2017-08
+RethinkDB,4.633,2017-09
+RethinkDB,4.5360000000000005,2017-10
+RethinkDB,4.6339999999999995,2017-11
+RethinkDB,4.811,2017-12
+RethinkDB,5.1339999999999995,2018-01
+RethinkDB,4.69,2018-02
+RethinkDB,4.813,2018-03
+RethinkDB,4.302,2018-04
+RethinkDB,4.236000000000001,2018-05
+RethinkDB,4.162,2018-06
+RethinkDB,4.14,2018-07
+RethinkDB,4.011,2018-08
+RethinkDB,4.303999999999999,2018-09
+RethinkDB,4.495,2018-10
+RethinkDB,4.585,2018-11
+RethinkDB,4.755,2018-12
+RethinkDB,4.825,2019-01
+RethinkDB,4.526,2019-02
+RethinkDB,4.18,2019-03
+RethinkDB,4.171,2019-04
+RethinkDB,4.423,2019-05
+RethinkDB,4.1530000000000005,2019-06
+RethinkDB,4.0,2019-07
+RethinkDB,4.106,2019-08
+RethinkDB,3.523,2019-09
+RethinkDB,3.5639999999999996,2019-10
+RethinkDB,3.759,2019-11
+RethinkDB,3.574,2019-12
+RavenDB,4.04,2012-11
+RavenDB,3.8,2012-12
+RavenDB,4.305,2013-01
+RavenDB,3.6310000000000002,2013-02
+RavenDB,4.228,2013-03
+RavenDB,4.137,2013-04
+RavenDB,4.217,2013-05
+RavenDB,4.305,2013-06
+RavenDB,3.778,2013-07
+RavenDB,4.145,2013-08
+RavenDB,4.584,2013-09
+RavenDB,4.556,2013-10
+RavenDB,4.736000000000001,2013-11
+RavenDB,5.744,2013-12
+RavenDB,5.182,2014-01
+RavenDB,5.084,2014-02
+RavenDB,5.172000000000001,2014-03
+RavenDB,4.959,2014-04
+RavenDB,5.474,2014-05
+RavenDB,5.507999999999999,2014-06
+RavenDB,5.091,2014-07
+RavenDB,4.574,2014-08
+RavenDB,5.357,2014-09
+RavenDB,5.16,2014-10
+RavenDB,4.618,2014-11
+RavenDB,5.301,2014-12
+RavenDB,5.765,2015-01
+RavenDB,6.526,2015-02
+RavenDB,6.591,2015-03
+RavenDB,6.675,2015-04
+RavenDB,6.457000000000001,2015-05
+RavenDB,6.475,2015-06
+RavenDB,6.156000000000001,2015-07
+RavenDB,6.28,2015-08
+RavenDB,5.905,2015-09
+RavenDB,5.812,2015-10
+RavenDB,5.816,2015-11
+RavenDB,5.542999999999999,2015-12
+RavenDB,5.122999999999999,2016-01
+RavenDB,4.946000000000001,2016-02
+RavenDB,5.062,2016-03
+RavenDB,4.762,2016-04
+RavenDB,4.474,2016-05
+RavenDB,4.405,2016-06
+RavenDB,4.485,2016-07
+RavenDB,4.441,2016-08
+RavenDB,4.401,2016-09
+RavenDB,4.066,2016-10
+RavenDB,4.183,2016-11
+RavenDB,3.715,2016-12
+RavenDB,3.748,2017-01
+RavenDB,3.534,2017-02
+RavenDB,3.485,2017-03
+RavenDB,3.437,2017-04
+RavenDB,3.635,2017-05
+RavenDB,3.485,2017-06
+RavenDB,3.503,2017-07
+RavenDB,3.267,2017-08
+RavenDB,3.492,2017-09
+RavenDB,3.338,2017-10
+RavenDB,3.2739999999999996,2017-11
+RavenDB,3.715,2017-12
+RavenDB,3.725,2018-01
+RavenDB,3.08,2018-02
+RavenDB,3.4360000000000004,2018-03
+RavenDB,2.975,2018-04
+RavenDB,2.924,2018-05
+RavenDB,2.698,2018-06
+RavenDB,3.1039999999999996,2018-07
+RavenDB,2.5989999999999998,2018-08
+RavenDB,3.35,2018-09
+RavenDB,3.56,2018-10
+RavenDB,3.54,2018-11
+RavenDB,4.081,2018-12
+RavenDB,3.926,2019-01
+RavenDB,3.929,2019-02
+RavenDB,3.718,2019-03
+RavenDB,4.655,2019-04
+RavenDB,4.742,2019-05
+RavenDB,4.176,2019-06
+RavenDB,4.486000000000001,2019-07
+RavenDB,5.11,2019-08
+RavenDB,3.792,2019-09
+RavenDB,3.863,2019-10
+RavenDB,3.883,2019-11
+RavenDB,3.514,2019-12
+Cloudant,0.0,2012-11
+Cloudant,0.0,2012-12
+Cloudant,0.0,2013-01
+Cloudant,0.0,2013-02
+Cloudant,0.0,2013-03
+Cloudant,0.0,2013-04
+Cloudant,0.0,2013-05
+Cloudant,0.0,2013-06
+Cloudant,0.299,2013-07
+Cloudant,0.483,2013-08
+Cloudant,0.556,2013-09
+Cloudant,0.483,2013-10
+Cloudant,0.514,2013-11
+Cloudant,0.611,2013-12
+Cloudant,0.58,2014-01
+Cloudant,0.555,2014-02
+Cloudant,1.234,2014-03
+Cloudant,1.2830000000000001,2014-04
+Cloudant,1.3559999999999999,2014-05
+Cloudant,1.631,2014-06
+Cloudant,1.703,2014-07
+Cloudant,1.858,2014-08
+Cloudant,2.27,2014-09
+Cloudant,2.336,2014-10
+Cloudant,2.633,2014-11
+Cloudant,3.083,2014-12
+Cloudant,3.321,2015-01
+Cloudant,3.4819999999999998,2015-02
+Cloudant,3.8080000000000003,2015-03
+Cloudant,4.098,2015-04
+Cloudant,3.8280000000000003,2015-05
+Cloudant,4.007,2015-06
+Cloudant,4.168,2015-07
+Cloudant,4.904,2015-08
+Cloudant,4.949,2015-09
+Cloudant,5.188,2015-10
+Cloudant,5.365,2015-11
+Cloudant,5.178,2015-12
+Cloudant,4.802,2016-01
+Cloudant,4.482,2016-02
+Cloudant,4.632,2016-03
+Cloudant,4.455,2016-04
+Cloudant,4.586,2016-05
+Cloudant,4.453,2016-06
+Cloudant,4.459,2016-07
+Cloudant,4.516,2016-08
+Cloudant,4.482,2016-09
+Cloudant,4.522,2016-10
+Cloudant,4.613,2016-11
+Cloudant,4.775,2016-12
+Cloudant,5.199,2017-01
+Cloudant,5.362,2017-02
+Cloudant,4.994,2017-03
+Cloudant,4.721,2017-04
+Cloudant,5.106,2017-05
+Cloudant,4.8180000000000005,2017-06
+Cloudant,4.647,2017-07
+Cloudant,4.315,2017-08
+Cloudant,4.247,2017-09
+Cloudant,3.975,2017-10
+Cloudant,3.925,2017-11
+Cloudant,4.137,2017-12
+Cloudant,4.37,2018-01
+Cloudant,3.705,2018-02
+Cloudant,4.303,2018-03
+Cloudant,3.7739999999999996,2018-04
+Cloudant,3.9019999999999997,2018-05
+Cloudant,3.764,2018-06
+Cloudant,3.653,2018-07
+Cloudant,3.28,2018-08
+Cloudant,3.611,2018-09
+Cloudant,3.717,2018-10
+Cloudant,3.7310000000000003,2018-11
+Cloudant,3.7439999999999998,2018-12
+Cloudant,3.967,2019-01
+Cloudant,3.8289999999999997,2019-02
+Cloudant,3.533,2019-03
+Cloudant,3.9,2019-04
+Cloudant,3.947,2019-05
+Cloudant,3.84,2019-06
+Cloudant,3.8169999999999997,2019-07
+Cloudant,4.582,2019-08
+Cloudant,3.878,2019-09
+Cloudant,3.7039999999999997,2019-10
+Cloudant,3.8,2019-11
+Cloudant,3.502,2019-12
+PouchDB,0.0,2012-11
+PouchDB,0.0,2012-12
+PouchDB,0.0,2013-01
+PouchDB,0.0,2013-02
+PouchDB,0.0,2013-03
+PouchDB,0.0,2013-04
+PouchDB,0.0,2013-05
+PouchDB,0.0,2013-06
+PouchDB,0.0,2013-07
+PouchDB,0.0,2013-08
+PouchDB,0.0,2013-09
+PouchDB,0.0,2013-10
+PouchDB,0.0,2013-11
+PouchDB,0.0,2013-12
+PouchDB,0.0,2014-01
+PouchDB,0.0,2014-02
+PouchDB,0.0,2014-03
+PouchDB,0.0,2014-04
+PouchDB,0.0,2014-05
+PouchDB,0.0,2014-06
+PouchDB,0.0,2014-07
+PouchDB,0.0,2014-08
+PouchDB,0.0,2014-09
+PouchDB,0.0,2014-10
+PouchDB,0.0,2014-11
+PouchDB,0.5820000000000001,2014-12
+PouchDB,0.6890000000000001,2015-01
+PouchDB,0.765,2015-02
+PouchDB,0.853,2015-03
+PouchDB,0.84,2015-04
+PouchDB,0.889,2015-05
+PouchDB,1.09,2015-06
+PouchDB,1.12,2015-07
+PouchDB,1.212,2015-08
+PouchDB,1.308,2015-09
+PouchDB,1.433,2015-10
+PouchDB,1.5090000000000001,2015-11
+PouchDB,1.6680000000000001,2015-12
+PouchDB,1.885,2016-01
+PouchDB,1.931,2016-02
+PouchDB,2.174,2016-03
+PouchDB,2.083,2016-04
+PouchDB,2.241,2016-05
+PouchDB,2.112,2016-06
+PouchDB,2.28,2016-07
+PouchDB,2.349,2016-08
+PouchDB,2.356,2016-09
+PouchDB,2.378,2016-10
+PouchDB,2.358,2016-11
+PouchDB,2.43,2016-12
+PouchDB,2.7230000000000003,2017-01
+PouchDB,2.9339999999999997,2017-02
+PouchDB,2.895,2017-03
+PouchDB,2.9530000000000003,2017-04
+PouchDB,3.225,2017-05
+PouchDB,3.103,2017-06
+PouchDB,3.054,2017-07
+PouchDB,2.988,2017-08
+PouchDB,2.951,2017-09
+PouchDB,2.957,2017-10
+PouchDB,2.906,2017-11
+PouchDB,2.9010000000000002,2017-12
+PouchDB,2.929,2018-01
+PouchDB,2.595,2018-02
+PouchDB,2.7539999999999996,2018-03
+PouchDB,2.4659999999999997,2018-04
+PouchDB,2.437,2018-05
+PouchDB,2.394,2018-06
+PouchDB,2.471,2018-07
+PouchDB,2.344,2018-08
+PouchDB,2.667,2018-09
+PouchDB,2.81,2018-10
+PouchDB,2.748,2018-11
+PouchDB,2.693,2018-12
+PouchDB,2.7760000000000002,2019-01
+PouchDB,2.9339999999999997,2019-02
+PouchDB,2.897,2019-03
+PouchDB,2.8569999999999998,2019-04
+PouchDB,3.031,2019-05
+PouchDB,2.938,2019-06
+PouchDB,3.125,2019-07
+PouchDB,3.4,2019-08
+PouchDB,2.699,2019-09
+PouchDB,2.75,2019-10
+PouchDB,2.9330000000000003,2019-11
+PouchDB,2.7939999999999996,2019-12
+Apache Drill,0.0,2012-11
+Apache Drill,0.0,2012-12
+Apache Drill,0.0,2013-01
+Apache Drill,0.0,2013-02
+Apache Drill,0.0,2013-03
+Apache Drill,0.0,2013-04
+Apache Drill,0.0,2013-05
+Apache Drill,0.0,2013-06
+Apache Drill,0.0,2013-07
+Apache Drill,0.0,2013-08
+Apache Drill,0.0,2013-09
+Apache Drill,0.0,2013-10
+Apache Drill,0.0,2013-11
+Apache Drill,0.0,2013-12
+Apache Drill,0.0,2014-01
+Apache Drill,0.0,2014-02
+Apache Drill,0.0,2014-03
+Apache Drill,0.0,2014-04
+Apache Drill,0.0,2014-05
+Apache Drill,0.0,2014-06
+Apache Drill,0.0,2014-07
+Apache Drill,0.0,2014-08
+Apache Drill,0.0,2014-09
+Apache Drill,0.0,2014-10
+Apache Drill,0.0,2014-11
+Apache Drill,0.0,2014-12
+Apache Drill,0.0,2015-01
+Apache Drill,0.971,2015-02
+Apache Drill,1.057,2015-03
+Apache Drill,0.887,2015-04
+Apache Drill,0.845,2015-05
+Apache Drill,1.002,2015-06
+Apache Drill,1.1540000000000001,2015-07
+Apache Drill,1.31,2015-08
+Apache Drill,1.433,2015-09
+Apache Drill,1.6969999999999998,2015-10
+Apache Drill,1.754,2015-11
+Apache Drill,1.757,2015-12
+Apache Drill,1.87,2016-01
+Apache Drill,1.74,2016-02
+Apache Drill,1.794,2016-03
+Apache Drill,1.8430000000000002,2016-04
+Apache Drill,1.989,2016-05
+Apache Drill,2.049,2016-06
+Apache Drill,2.189,2016-07
+Apache Drill,2.3819999999999997,2016-08
+Apache Drill,2.469,2016-09
+Apache Drill,2.526,2016-10
+Apache Drill,2.66,2016-11
+Apache Drill,2.6180000000000003,2016-12
+Apache Drill,2.715,2017-01
+Apache Drill,2.839,2017-02
+Apache Drill,2.9410000000000003,2017-03
+Apache Drill,2.935,2017-04
+Apache Drill,3.235,2017-05
+Apache Drill,3.178,2017-06
+Apache Drill,3.217,2017-07
+Apache Drill,3.208,2017-08
+Apache Drill,3.214,2017-09
+Apache Drill,3.178,2017-10
+Apache Drill,2.9139999999999997,2017-11
+Apache Drill,2.9810000000000003,2017-12
+Apache Drill,3.147,2018-01
+Apache Drill,2.779,2018-02
+Apache Drill,3.102,2018-03
+Apache Drill,2.846,2018-04
+Apache Drill,2.781,2018-05
+Apache Drill,2.878,2018-06
+Apache Drill,2.8,2018-07
+Apache Drill,2.5269999999999997,2018-08
+Apache Drill,2.951,2018-09
+Apache Drill,2.9160000000000004,2018-10
+Apache Drill,2.846,2018-11
+Apache Drill,3.253,2018-12
+Apache Drill,2.932,2019-01
+Apache Drill,2.823,2019-02
+Apache Drill,2.639,2019-03
+Apache Drill,2.693,2019-04
+Apache Drill,2.966,2019-05
+Apache Drill,2.793,2019-06
+Apache Drill,2.859,2019-07
+Apache Drill,3.068,2019-08
+Apache Drill,2.528,2019-09
+Apache Drill,2.679,2019-10
+Apache Drill,2.885,2019-11
+Apache Drill,2.658,2019-12
+CloudKit,0.0,2012-11
+CloudKit,0.0,2012-12
+CloudKit,0.0,2013-01
+CloudKit,0.0,2013-02
+CloudKit,0.005,2013-03
+CloudKit,0.005,2013-04
+CloudKit,0.005,2013-05
+CloudKit,0.005,2013-06
+CloudKit,0.005,2013-07
+CloudKit,0.005,2013-08
+CloudKit,0.005,2013-09
+CloudKit,0.005,2013-10
+CloudKit,0.005,2013-11
+CloudKit,0.005,2013-12
+CloudKit,0.005,2014-01
+CloudKit,0.005,2014-02
+CloudKit,0.005,2014-03
+CloudKit,0.005,2014-04
+CloudKit,0.005,2014-05
+CloudKit,0.005,2014-06
+CloudKit,0.14800000000000002,2014-07
+CloudKit,0.222,2014-08
+CloudKit,0.235,2014-09
+CloudKit,0.276,2014-10
+CloudKit,0.321,2014-11
+CloudKit,0.348,2014-12
+CloudKit,0.542,2015-01
+CloudKit,0.5720000000000001,2015-02
+CloudKit,0.601,2015-03
+CloudKit,0.517,2015-04
+CloudKit,0.519,2015-05
+CloudKit,0.58,2015-06
+CloudKit,0.71,2015-07
+CloudKit,0.79,2015-08
+CloudKit,0.907,2015-09
+CloudKit,1.043,2015-10
+CloudKit,1.045,2015-11
+CloudKit,1.156,2015-12
+CloudKit,1.245,2016-01
+CloudKit,1.274,2016-02
+CloudKit,1.6440000000000001,2016-03
+CloudKit,1.626,2016-04
+CloudKit,1.7069999999999999,2016-05
+CloudKit,1.7109999999999999,2016-06
+CloudKit,1.776,2016-07
+CloudKit,1.827,2016-08
+CloudKit,1.871,2016-09
+CloudKit,1.7630000000000001,2016-10
+CloudKit,1.755,2016-11
+CloudKit,1.827,2016-12
+CloudKit,1.8,2017-01
+CloudKit,1.8719999999999999,2017-02
+CloudKit,1.879,2017-03
+CloudKit,1.921,2017-04
+CloudKit,2.245,2017-05
+CloudKit,2.303,2017-06
+CloudKit,2.4130000000000003,2017-07
+CloudKit,2.201,2017-08
+CloudKit,2.14,2017-09
+CloudKit,2.075,2017-10
+CloudKit,2.044,2017-11
+CloudKit,2.219,2017-12
+CloudKit,2.367,2018-01
+CloudKit,1.932,2018-02
+CloudKit,2.177,2018-03
+CloudKit,1.739,2018-04
+CloudKit,1.76,2018-05
+CloudKit,1.665,2018-06
+CloudKit,1.791,2018-07
+CloudKit,1.581,2018-08
+CloudKit,2.2969999999999997,2018-09
+CloudKit,2.261,2018-10
+CloudKit,2.246,2018-11
+CloudKit,2.207,2018-12
+CloudKit,2.136,2019-01
+CloudKit,2.1959999999999997,2019-02
+CloudKit,2.353,2019-03
+CloudKit,2.191,2019-04
+CloudKit,2.559,2019-05
+CloudKit,2.43,2019-06
+CloudKit,2.537,2019-07
+CloudKit,2.923,2019-08
+CloudKit,2.249,2019-09
+CloudKit,2.213,2019-10
+CloudKit,2.351,2019-11
+CloudKit,2.38,2019-12
+Mnesia,0.0,2012-11
+Mnesia,0.0,2012-12
+Mnesia,0.0,2013-01
+Mnesia,0.0,2013-02
+Mnesia,0.504,2013-03
+Mnesia,0.568,2013-04
+Mnesia,0.5379999999999999,2013-05
+Mnesia,0.504,2013-06
+Mnesia,0.539,2013-07
+Mnesia,0.535,2013-08
+Mnesia,0.595,2013-09
+Mnesia,0.585,2013-10
+Mnesia,0.584,2013-11
+Mnesia,0.735,2013-12
+Mnesia,0.7490000000000001,2014-01
+Mnesia,0.795,2014-02
+Mnesia,0.732,2014-03
+Mnesia,0.688,2014-04
+Mnesia,0.693,2014-05
+Mnesia,0.711,2014-06
+Mnesia,0.722,2014-07
+Mnesia,0.7290000000000001,2014-08
+Mnesia,0.745,2014-09
+Mnesia,0.773,2014-10
+Mnesia,0.8029999999999999,2014-11
+Mnesia,0.843,2014-12
+Mnesia,0.9520000000000001,2015-01
+Mnesia,0.978,2015-02
+Mnesia,0.997,2015-03
+Mnesia,1.0070000000000001,2015-04
+Mnesia,0.978,2015-05
+Mnesia,0.987,2015-06
+Mnesia,0.96,2015-07
+Mnesia,1.048,2015-08
+Mnesia,1.065,2015-09
+Mnesia,0.978,2015-10
+Mnesia,0.9940000000000001,2015-11
+Mnesia,0.9690000000000001,2015-12
+Mnesia,1.131,2016-01
+Mnesia,1.149,2016-02
+Mnesia,1.115,2016-03
+Mnesia,0.9940000000000001,2016-04
+Mnesia,0.978,2016-05
+Mnesia,1.001,2016-06
+Mnesia,1.022,2016-07
+Mnesia,1.051,2016-08
+Mnesia,1.159,2016-09
+Mnesia,0.988,2016-10
+Mnesia,1.0,2016-11
+Mnesia,0.9590000000000001,2016-12
+Mnesia,0.978,2017-01
+Mnesia,0.96,2017-02
+Mnesia,0.996,2017-03
+Mnesia,1.026,2017-04
+Mnesia,1.153,2017-05
+Mnesia,1.169,2017-06
+Mnesia,1.379,2017-07
+Mnesia,1.173,2017-08
+Mnesia,1.173,2017-09
+Mnesia,1.099,2017-10
+Mnesia,1.064,2017-11
+Mnesia,1.298,2017-12
+Mnesia,1.29,2018-01
+Mnesia,1.0,2018-02
+Mnesia,1.151,2018-03
+Mnesia,0.965,2018-04
+Mnesia,0.9440000000000001,2018-05
+Mnesia,0.914,2018-06
+Mnesia,0.9059999999999999,2018-07
+Mnesia,0.8959999999999999,2018-08
+Mnesia,1.113,2018-09
+Mnesia,1.236,2018-10
+Mnesia,1.225,2018-11
+Mnesia,1.3259999999999998,2018-12
+Mnesia,1.305,2019-01
+Mnesia,1.234,2019-02
+Mnesia,1.179,2019-03
+Mnesia,1.6680000000000001,2019-04
+Mnesia,1.4980000000000002,2019-05
+Mnesia,1.321,2019-06
+Mnesia,1.375,2019-07
+Mnesia,1.765,2019-08
+Mnesia,1.341,2019-09
+Mnesia,1.357,2019-10
+Mnesia,1.508,2019-11
+Mnesia,1.37,2019-12
+Datameer,0.0,2012-11
+Datameer,0.0,2012-12
+Datameer,0.0,2013-01
+Datameer,0.0,2013-02
+Datameer,0.0,2013-03
+Datameer,0.0,2013-04
+Datameer,0.0,2013-05
+Datameer,0.0,2013-06
+Datameer,0.0,2013-07
+Datameer,0.5820000000000001,2013-08
+Datameer,0.55,2013-09
+Datameer,0.682,2013-10
+Datameer,0.551,2013-11
+Datameer,0.8029999999999999,2013-12
+Datameer,0.8220000000000001,2014-01
+Datameer,0.804,2014-02
+Datameer,0.726,2014-03
+Datameer,0.716,2014-04
+Datameer,0.71,2014-05
+Datameer,0.7929999999999999,2014-06
+Datameer,0.877,2014-07
+Datameer,0.8270000000000001,2014-08
+Datameer,0.775,2014-09
+Datameer,0.8590000000000001,2014-10
+Datameer,0.935,2014-11
+Datameer,1.036,2014-12
+Datameer,1.232,2015-01
+Datameer,1.2830000000000001,2015-02
+Datameer,1.421,2015-03
+Datameer,1.5,2015-04
+Datameer,1.679,2015-05
+Datameer,1.79,2015-06
+Datameer,2.0980000000000003,2015-07
+Datameer,2.384,2015-08
+Datameer,2.423,2015-09
+Datameer,2.5540000000000003,2015-10
+Datameer,2.494,2015-11
+Datameer,2.385,2015-12
+Datameer,2.315,2016-01
+Datameer,2.1590000000000003,2016-02
+Datameer,2.004,2016-03
+Datameer,1.81,2016-04
+Datameer,1.821,2016-05
+Datameer,1.8980000000000001,2016-06
+Datameer,1.8769999999999998,2016-07
+Datameer,1.745,2016-08
+Datameer,1.742,2016-09
+Datameer,1.66,2016-10
+Datameer,1.567,2016-11
+Datameer,1.4140000000000001,2016-12
+Datameer,1.57,2017-01
+Datameer,1.683,2017-02
+Datameer,1.496,2017-03
+Datameer,1.4509999999999998,2017-04
+Datameer,1.633,2017-05
+Datameer,1.5919999999999999,2017-06
+Datameer,1.6269999999999998,2017-07
+Datameer,1.733,2017-08
+Datameer,1.9480000000000002,2017-09
+Datameer,1.819,2017-10
+Datameer,1.825,2017-11
+Datameer,1.9069999999999998,2017-12
+Datameer,1.632,2018-01
+Datameer,1.207,2018-02
+Datameer,1.369,2018-03
+Datameer,1.173,2018-04
+Datameer,1.1740000000000002,2018-05
+Datameer,1.169,2018-06
+Datameer,1.123,2018-07
+Datameer,1.114,2018-08
+Datameer,1.318,2018-09
+Datameer,1.3769999999999998,2018-10
+Datameer,1.391,2018-11
+Datameer,1.453,2018-12
+Datameer,1.246,2019-01
+Datameer,1.227,2019-02
+Datameer,1.205,2019-03
+Datameer,1.49,2019-04
+Datameer,1.4069999999999998,2019-05
+Datameer,1.232,2019-06
+Datameer,1.159,2019-07
+Datameer,1.588,2019-08
+Datameer,1.273,2019-09
+Datameer,1.179,2019-10
+Datameer,1.261,2019-11
+Datameer,1.232,2019-12
+LiteDB,0.0,2012-11
+LiteDB,0.0,2012-12
+LiteDB,0.0,2013-01
+LiteDB,0.0,2013-02
+LiteDB,0.0,2013-03
+LiteDB,0.0,2013-04
+LiteDB,0.0,2013-05
+LiteDB,0.0,2013-06
+LiteDB,0.0,2013-07
+LiteDB,0.0,2013-08
+LiteDB,0.0,2013-09
+LiteDB,0.0,2013-10
+LiteDB,0.0,2013-11
+LiteDB,0.0,2013-12
+LiteDB,0.0,2014-01
+LiteDB,0.0,2014-02
+LiteDB,0.0,2014-03
+LiteDB,0.0,2014-04
+LiteDB,0.0,2014-05
+LiteDB,0.0,2014-06
+LiteDB,0.0,2014-07
+LiteDB,0.0,2014-08
+LiteDB,0.0,2014-09
+LiteDB,0.0,2014-10
+LiteDB,0.0,2014-11
+LiteDB,0.0,2014-12
+LiteDB,0.0,2015-01
+LiteDB,0.0,2015-02
+LiteDB,0.0,2015-03
+LiteDB,0.0,2015-04
+LiteDB,0.0,2015-05
+LiteDB,0.0,2015-06
+LiteDB,0.0,2015-07
+LiteDB,0.0,2015-08
+LiteDB,0.0,2015-09
+LiteDB,0.0,2015-10
+LiteDB,0.0,2015-11
+LiteDB,0.0,2015-12
+LiteDB,0.0,2016-01
+LiteDB,0.0,2016-02
+LiteDB,0.0,2016-03
+LiteDB,0.0,2016-04
+LiteDB,0.114,2016-05
+LiteDB,0.098,2016-06
+LiteDB,0.105,2016-07
+LiteDB,0.099,2016-08
+LiteDB,0.156,2016-09
+LiteDB,0.1,2016-10
+LiteDB,0.099,2016-11
+LiteDB,0.095,2016-12
+LiteDB,0.08,2017-01
+LiteDB,0.07400000000000001,2017-02
+LiteDB,0.042,2017-03
+LiteDB,0.075,2017-04
+LiteDB,0.11800000000000001,2017-05
+LiteDB,0.231,2017-06
+LiteDB,0.198,2017-07
+LiteDB,0.221,2017-08
+LiteDB,0.282,2017-09
+LiteDB,0.318,2017-10
+LiteDB,0.307,2017-11
+LiteDB,0.451,2017-12
+LiteDB,0.516,2018-01
+LiteDB,0.41200000000000003,2018-02
+LiteDB,0.5579999999999999,2018-03
+LiteDB,0.374,2018-04
+LiteDB,0.40299999999999997,2018-05
+LiteDB,0.27899999999999997,2018-06
+LiteDB,0.387,2018-07
+LiteDB,0.419,2018-08
+LiteDB,0.68,2018-09
+LiteDB,0.74,2018-10
+LiteDB,0.648,2018-11
+LiteDB,0.7120000000000001,2018-12
+LiteDB,0.679,2019-01
+LiteDB,0.701,2019-02
+LiteDB,0.664,2019-03
+LiteDB,1.02,2019-04
+LiteDB,0.873,2019-05
+LiteDB,0.81,2019-06
+LiteDB,0.955,2019-07
+LiteDB,1.2890000000000001,2019-08
+LiteDB,0.91,2019-09
+LiteDB,0.879,2019-10
+LiteDB,1.012,2019-11
+LiteDB,1.033,2019-12
+InterSystems IRIS,0.0,2012-11
+InterSystems IRIS,0.0,2012-12
+InterSystems IRIS,0.0,2013-01
+InterSystems IRIS,0.0,2013-02
+InterSystems IRIS,0.0,2013-03
+InterSystems IRIS,0.0,2013-04
+InterSystems IRIS,0.0,2013-05
+InterSystems IRIS,0.0,2013-06
+InterSystems IRIS,0.0,2013-07
+InterSystems IRIS,0.0,2013-08
+InterSystems IRIS,0.0,2013-09
+InterSystems IRIS,0.0,2013-10
+InterSystems IRIS,0.0,2013-11
+InterSystems IRIS,0.0,2013-12
+InterSystems IRIS,0.0,2014-01
+InterSystems IRIS,0.0,2014-02
+InterSystems IRIS,0.0,2014-03
+InterSystems IRIS,0.0,2014-04
+InterSystems IRIS,0.0,2014-05
+InterSystems IRIS,0.0,2014-06
+InterSystems IRIS,0.0,2014-07
+InterSystems IRIS,0.0,2014-08
+InterSystems IRIS,0.0,2014-09
+InterSystems IRIS,0.0,2014-10
+InterSystems IRIS,0.0,2014-11
+InterSystems IRIS,0.0,2014-12
+InterSystems IRIS,0.0,2015-01
+InterSystems IRIS,0.0,2015-02
+InterSystems IRIS,0.0,2015-03
+InterSystems IRIS,0.0,2015-04
+InterSystems IRIS,0.0,2015-05
+InterSystems IRIS,0.0,2015-06
+InterSystems IRIS,0.0,2015-07
+InterSystems IRIS,0.0,2015-08
+InterSystems IRIS,0.0,2015-09
+InterSystems IRIS,0.0,2015-10
+InterSystems IRIS,0.0,2015-11
+InterSystems IRIS,0.0,2015-12
+InterSystems IRIS,0.0,2016-01
+InterSystems IRIS,0.0,2016-02
+InterSystems IRIS,0.0,2016-03
+InterSystems IRIS,0.0,2016-04
+InterSystems IRIS,0.0,2016-05
+InterSystems IRIS,0.0,2016-06
+InterSystems IRIS,0.0,2016-07
+InterSystems IRIS,0.0,2016-08
+InterSystems IRIS,0.0,2016-09
+InterSystems IRIS,0.0,2016-10
+InterSystems IRIS,0.0,2016-11
+InterSystems IRIS,0.0,2016-12
+InterSystems IRIS,0.0,2017-01
+InterSystems IRIS,0.0,2017-02
+InterSystems IRIS,0.0,2017-03
+InterSystems IRIS,0.0,2017-04
+InterSystems IRIS,0.0,2017-05
+InterSystems IRIS,0.0,2017-06
+InterSystems IRIS,0.0,2017-07
+InterSystems IRIS,0.0,2017-08
+InterSystems IRIS,0.0,2017-09
+InterSystems IRIS,0.0,2017-10
+InterSystems IRIS,0.0,2017-11
+InterSystems IRIS,0.0,2017-12
+InterSystems IRIS,0.0,2018-01
+InterSystems IRIS,0.0,2018-02
+InterSystems IRIS,0.0,2018-03
+InterSystems IRIS,0.0,2018-04
+InterSystems IRIS,0.0,2018-05
+InterSystems IRIS,0.0,2018-06
+InterSystems IRIS,0.0,2018-07
+InterSystems IRIS,0.0,2018-08
+InterSystems IRIS,0.149,2018-09
+InterSystems IRIS,0.24,2018-10
+InterSystems IRIS,0.401,2018-11
+InterSystems IRIS,0.433,2018-12
+InterSystems IRIS,0.5,2019-01
+InterSystems IRIS,0.536,2019-02
+InterSystems IRIS,0.551,2019-03
+InterSystems IRIS,0.614,2019-04
+InterSystems IRIS,0.602,2019-05
+InterSystems IRIS,0.6679999999999999,2019-06
+InterSystems IRIS,0.695,2019-07
+InterSystems IRIS,0.9209999999999999,2019-08
+InterSystems IRIS,0.8290000000000001,2019-09
+InterSystems IRIS,0.919,2019-10
+InterSystems IRIS,0.93,2019-11
+InterSystems IRIS,0.987,2019-12
+AllegroGraph,0.0,2012-11
+AllegroGraph,0.0,2012-12
+AllegroGraph,0.159,2013-01
+AllegroGraph,0.146,2013-02
+AllegroGraph,0.147,2013-03
+AllegroGraph,0.132,2013-04
+AllegroGraph,0.124,2013-05
+AllegroGraph,0.127,2013-06
+AllegroGraph,0.14,2013-07
+AllegroGraph,0.155,2013-08
+AllegroGraph,0.273,2013-09
+AllegroGraph,0.264,2013-10
+AllegroGraph,0.34299999999999997,2013-11
+AllegroGraph,0.312,2013-12
+AllegroGraph,0.37,2014-01
+AllegroGraph,0.37799999999999995,2014-02
+AllegroGraph,0.37799999999999995,2014-03
+AllegroGraph,0.425,2014-04
+AllegroGraph,0.4,2014-05
+AllegroGraph,0.515,2014-06
+AllegroGraph,0.56,2014-07
+AllegroGraph,0.6970000000000001,2014-08
+AllegroGraph,0.7040000000000001,2014-09
+AllegroGraph,0.747,2014-10
+AllegroGraph,0.608,2014-11
+AllegroGraph,0.515,2014-12
+AllegroGraph,0.547,2015-01
+AllegroGraph,0.564,2015-02
+AllegroGraph,0.732,2015-03
+AllegroGraph,0.785,2015-04
+AllegroGraph,0.784,2015-05
+AllegroGraph,0.777,2015-06
+AllegroGraph,0.742,2015-07
+AllegroGraph,0.8590000000000001,2015-08
+AllegroGraph,0.8109999999999999,2015-09
+AllegroGraph,0.898,2015-10
+AllegroGraph,0.9059999999999999,2015-11
+AllegroGraph,0.754,2015-12
+AllegroGraph,0.7020000000000001,2016-01
+AllegroGraph,0.657,2016-02
+AllegroGraph,0.652,2016-03
+AllegroGraph,0.5770000000000001,2016-04
+AllegroGraph,0.499,2016-05
+AllegroGraph,0.474,2016-06
+AllegroGraph,0.46799999999999997,2016-07
+AllegroGraph,0.462,2016-08
+AllegroGraph,0.511,2016-09
+AllegroGraph,0.465,2016-10
+AllegroGraph,0.478,2016-11
+AllegroGraph,0.47,2016-12
+AllegroGraph,0.462,2017-01
+AllegroGraph,0.478,2017-02
+AllegroGraph,0.48,2017-03
+AllegroGraph,0.489,2017-04
+AllegroGraph,0.599,2017-05
+AllegroGraph,0.605,2017-06
+AllegroGraph,0.609,2017-07
+AllegroGraph,0.632,2017-08
+AllegroGraph,0.638,2017-09
+AllegroGraph,0.615,2017-10
+AllegroGraph,0.597,2017-11
+AllegroGraph,0.5920000000000001,2017-12
+AllegroGraph,0.583,2018-01
+AllegroGraph,0.633,2018-02
+AllegroGraph,0.638,2018-03
+AllegroGraph,0.578,2018-04
+AllegroGraph,0.579,2018-05
+AllegroGraph,0.5529999999999999,2018-06
+AllegroGraph,0.59,2018-07
+AllegroGraph,0.581,2018-08
+AllegroGraph,0.598,2018-09
+AllegroGraph,0.6579999999999999,2018-10
+AllegroGraph,0.667,2018-11
+AllegroGraph,0.9109999999999999,2018-12
+AllegroGraph,0.9129999999999999,2019-01
+AllegroGraph,0.883,2019-02
+AllegroGraph,0.875,2019-03
+AllegroGraph,0.892,2019-04
+AllegroGraph,0.9109999999999999,2019-05
+AllegroGraph,0.9279999999999999,2019-06
+AllegroGraph,0.951,2019-07
+AllegroGraph,0.8859999999999999,2019-08
+AllegroGraph,0.875,2019-09
+AllegroGraph,0.8809999999999999,2019-10
+AllegroGraph,0.873,2019-11
+AllegroGraph,0.8740000000000001,2019-12
+XAP,0.0,2012-11
+XAP,0.0,2012-12
+XAP,0.0,2013-01
+XAP,0.0,2013-02
+XAP,0.0,2013-03
+XAP,0.0,2013-04
+XAP,0.0,2013-05
+XAP,0.0,2013-06
+XAP,0.0,2013-07
+XAP,0.0,2013-08
+XAP,0.0,2013-09
+XAP,0.0,2013-10
+XAP,0.228,2013-11
+XAP,0.115,2013-12
+XAP,0.11699999999999999,2014-01
+XAP,0.125,2014-02
+XAP,0.14400000000000002,2014-03
+XAP,0.22699999999999998,2014-04
+XAP,0.18100000000000002,2014-05
+XAP,0.195,2014-06
+XAP,0.183,2014-07
+XAP,0.18100000000000002,2014-08
+XAP,0.185,2014-09
+XAP,0.242,2014-10
+XAP,0.243,2014-11
+XAP,0.242,2014-12
+XAP,0.252,2015-01
+XAP,0.243,2015-02
+XAP,0.261,2015-03
+XAP,0.28300000000000003,2015-04
+XAP,0.266,2015-05
+XAP,0.308,2015-06
+XAP,0.358,2015-07
+XAP,0.371,2015-08
+XAP,0.387,2015-09
+XAP,0.389,2015-10
+XAP,0.39799999999999996,2015-11
+XAP,0.387,2015-12
+XAP,0.408,2016-01
+XAP,0.375,2016-02
+XAP,0.341,2016-03
+XAP,0.327,2016-04
+XAP,0.33399999999999996,2016-05
+XAP,0.353,2016-06
+XAP,0.44799999999999995,2016-07
+XAP,0.46799999999999997,2016-08
+XAP,0.451,2016-09
+XAP,0.503,2016-10
+XAP,0.473,2016-11
+XAP,0.408,2016-12
+XAP,0.461,2017-01
+XAP,0.49,2017-02
+XAP,0.465,2017-03
+XAP,0.588,2017-04
+XAP,0.701,2017-05
+XAP,0.688,2017-06
+XAP,0.691,2017-07
+XAP,0.725,2017-08
+XAP,0.7390000000000001,2017-09
+XAP,0.7020000000000001,2017-10
+XAP,0.6990000000000001,2017-11
+XAP,0.665,2017-12
+XAP,0.682,2018-01
+XAP,0.675,2018-02
+XAP,0.711,2018-03
+XAP,0.722,2018-04
+XAP,0.7290000000000001,2018-05
+XAP,0.73,2018-06
+XAP,0.773,2018-07
+XAP,0.815,2018-08
+XAP,0.8240000000000001,2018-09
+XAP,0.831,2018-10
+XAP,0.877,2018-11
+XAP,0.88,2018-12
+XAP,0.892,2019-01
+XAP,0.877,2019-02
+XAP,0.875,2019-03
+XAP,0.909,2019-04
+XAP,0.912,2019-05
+XAP,0.879,2019-06
+XAP,0.838,2019-07
+XAP,0.81,2019-08
+XAP,0.759,2019-09
+XAP,0.75,2019-10
+XAP,0.752,2019-11
+XAP,0.84,2019-12
+FoundationDB,0.0,2012-11
+FoundationDB,0.0,2012-12
+FoundationDB,0.0,2013-01
+FoundationDB,0.0,2013-02
+FoundationDB,0.0,2013-03
+FoundationDB,0.0,2013-04
+FoundationDB,0.0,2013-05
+FoundationDB,0.0,2013-06
+FoundationDB,0.0,2013-07
+FoundationDB,0.0,2013-08
+FoundationDB,0.0,2013-09
+FoundationDB,0.0,2013-10
+FoundationDB,0.0,2013-11
+FoundationDB,0.0,2013-12
+FoundationDB,0.0,2014-01
+FoundationDB,0.0,2014-02
+FoundationDB,0.0,2014-03
+FoundationDB,0.0,2014-04
+FoundationDB,0.0,2014-05
+FoundationDB,0.0,2014-06
+FoundationDB,0.0,2014-07
+FoundationDB,0.0,2014-08
+FoundationDB,0.0,2014-09
+FoundationDB,0.0,2014-10
+FoundationDB,0.0,2014-11
+FoundationDB,0.0,2014-12
+FoundationDB,0.0,2015-01
+FoundationDB,0.0,2015-02
+FoundationDB,0.0,2015-03
+FoundationDB,0.0,2015-04
+FoundationDB,0.0,2015-05
+FoundationDB,0.02,2015-06
+FoundationDB,0.005,2015-07
+FoundationDB,0.005,2015-08
+FoundationDB,0.005,2015-09
+FoundationDB,0.005,2015-10
+FoundationDB,0.005,2015-11
+FoundationDB,0.005,2015-12
+FoundationDB,0.005,2016-01
+FoundationDB,0.005,2016-02
+FoundationDB,0.027999999999999997,2016-03
+FoundationDB,0.17,2016-04
+FoundationDB,0.303,2016-05
+FoundationDB,0.406,2016-06
+FoundationDB,0.44799999999999995,2016-07
+FoundationDB,0.37799999999999995,2016-08
+FoundationDB,0.349,2016-09
+FoundationDB,0.28,2016-10
+FoundationDB,0.218,2016-11
+FoundationDB,0.23600000000000002,2016-12
+FoundationDB,0.212,2017-01
+FoundationDB,0.27399999999999997,2017-02
+FoundationDB,0.366,2017-03
+FoundationDB,0.361,2017-04
+FoundationDB,0.428,2017-05
+FoundationDB,0.515,2017-06
+FoundationDB,0.498,2017-07
+FoundationDB,0.774,2017-08
+FoundationDB,0.711,2017-09
+FoundationDB,0.8,2017-10
+FoundationDB,1.045,2017-11
+FoundationDB,1.127,2017-12
+FoundationDB,1.006,2018-01
+FoundationDB,0.879,2018-02
+FoundationDB,0.713,2018-03
+FoundationDB,0.593,2018-04
+FoundationDB,1.119,2018-05
+FoundationDB,1.081,2018-06
+FoundationDB,0.9690000000000001,2018-07
+FoundationDB,0.867,2018-08
+FoundationDB,1.077,2018-09
+FoundationDB,1.1059999999999999,2018-10
+FoundationDB,0.8590000000000001,2018-11
+FoundationDB,0.8440000000000001,2018-12
+FoundationDB,0.7509999999999999,2019-01
+FoundationDB,0.802,2019-02
+FoundationDB,0.9009999999999999,2019-03
+FoundationDB,1.1420000000000001,2019-04
+FoundationDB,1.0090000000000001,2019-05
+FoundationDB,0.8340000000000001,2019-06
+FoundationDB,0.872,2019-07
+FoundationDB,1.236,2019-08
+FoundationDB,0.769,2019-09
+FoundationDB,0.77,2019-10
+FoundationDB,0.86,2019-11
+FoundationDB,0.794,2019-12
+FaunaDB,0.0,2012-11
+FaunaDB,0.0,2012-12
+FaunaDB,0.0,2013-01
+FaunaDB,0.0,2013-02
+FaunaDB,0.0,2013-03
+FaunaDB,0.0,2013-04
+FaunaDB,0.0,2013-05
+FaunaDB,0.0,2013-06
+FaunaDB,0.0,2013-07
+FaunaDB,0.0,2013-08
+FaunaDB,0.0,2013-09
+FaunaDB,0.0,2013-10
+FaunaDB,0.0,2013-11
+FaunaDB,0.0,2013-12
+FaunaDB,0.0,2014-01
+FaunaDB,0.0,2014-02
+FaunaDB,0.0,2014-03
+FaunaDB,0.0,2014-04
+FaunaDB,0.0,2014-05
+FaunaDB,0.0,2014-06
+FaunaDB,0.0,2014-07
+FaunaDB,0.0,2014-08
+FaunaDB,0.0,2014-09
+FaunaDB,0.0,2014-10
+FaunaDB,0.0,2014-11
+FaunaDB,0.0,2014-12
+FaunaDB,0.0,2015-01
+FaunaDB,0.0,2015-02
+FaunaDB,0.0,2015-03
+FaunaDB,0.0,2015-04
+FaunaDB,0.0,2015-05
+FaunaDB,0.0,2015-06
+FaunaDB,0.0,2015-07
+FaunaDB,0.0,2015-08
+FaunaDB,0.0,2015-09
+FaunaDB,0.0,2015-10
+FaunaDB,0.0,2015-11
+FaunaDB,0.0,2015-12
+FaunaDB,0.0,2016-01
+FaunaDB,0.005,2016-02
+FaunaDB,0.005,2016-03
+FaunaDB,0.005,2016-04
+FaunaDB,0.005,2016-05
+FaunaDB,0.005,2016-06
+FaunaDB,0.005,2016-07
+FaunaDB,0.005,2016-08
+FaunaDB,0.005,2016-09
+FaunaDB,0.005,2016-10
+FaunaDB,0.005,2016-11
+FaunaDB,0.005,2016-12
+FaunaDB,0.005,2017-01
+FaunaDB,0.005,2017-02
+FaunaDB,0.005,2017-03
+FaunaDB,0.025,2017-04
+FaunaDB,0.067,2017-05
+FaunaDB,0.091,2017-06
+FaunaDB,0.127,2017-07
+FaunaDB,0.146,2017-08
+FaunaDB,0.165,2017-09
+FaunaDB,0.182,2017-10
+FaunaDB,0.16699999999999998,2017-11
+FaunaDB,0.156,2017-12
+FaunaDB,0.145,2018-01
+FaunaDB,0.128,2018-02
+FaunaDB,0.11199999999999999,2018-03
+FaunaDB,0.111,2018-04
+FaunaDB,0.113,2018-05
+FaunaDB,0.114,2018-06
+FaunaDB,0.11900000000000001,2018-07
+FaunaDB,0.15,2018-08
+FaunaDB,0.168,2018-09
+FaunaDB,0.19,2018-10
+FaunaDB,0.209,2018-11
+FaunaDB,0.23199999999999998,2018-12
+FaunaDB,0.303,2019-01
+FaunaDB,0.365,2019-02
+FaunaDB,0.521,2019-03
+FaunaDB,0.371,2019-04
+FaunaDB,0.384,2019-05
+FaunaDB,0.355,2019-06
+FaunaDB,0.337,2019-07
+FaunaDB,0.4,2019-08
+FaunaDB,0.42100000000000004,2019-09
+FaunaDB,0.47700000000000004,2019-10
+FaunaDB,0.614,2019-11
+FaunaDB,0.6920000000000001,2019-12
+BigchainDB,0.0,2012-11
+BigchainDB,0.0,2012-12
+BigchainDB,0.0,2013-01
+BigchainDB,0.0,2013-02
+BigchainDB,0.0,2013-03
+BigchainDB,0.0,2013-04
+BigchainDB,0.0,2013-05
+BigchainDB,0.0,2013-06
+BigchainDB,0.0,2013-07
+BigchainDB,0.0,2013-08
+BigchainDB,0.0,2013-09
+BigchainDB,0.0,2013-10
+BigchainDB,0.0,2013-11
+BigchainDB,0.0,2013-12
+BigchainDB,0.0,2014-01
+BigchainDB,0.0,2014-02
+BigchainDB,0.0,2014-03
+BigchainDB,0.0,2014-04
+BigchainDB,0.0,2014-05
+BigchainDB,0.0,2014-06
+BigchainDB,0.0,2014-07
+BigchainDB,0.0,2014-08
+BigchainDB,0.0,2014-09
+BigchainDB,0.0,2014-10
+BigchainDB,0.0,2014-11
+BigchainDB,0.0,2014-12
+BigchainDB,0.0,2015-01
+BigchainDB,0.0,2015-02
+BigchainDB,0.0,2015-03
+BigchainDB,0.0,2015-04
+BigchainDB,0.0,2015-05
+BigchainDB,0.0,2015-06
+BigchainDB,0.0,2015-07
+BigchainDB,0.0,2015-08
+BigchainDB,0.0,2015-09
+BigchainDB,0.0,2015-10
+BigchainDB,0.0,2015-11
+BigchainDB,0.0,2015-12
+BigchainDB,0.0,2016-01
+BigchainDB,0.0,2016-02
+BigchainDB,0.0,2016-03
+BigchainDB,0.0,2016-04
+BigchainDB,0.0,2016-05
+BigchainDB,0.0,2016-06
+BigchainDB,0.0,2016-07
+BigchainDB,0.0,2016-08
+BigchainDB,0.0,2016-09
+BigchainDB,0.0,2016-10
+BigchainDB,0.0,2016-11
+BigchainDB,0.0,2016-12
+BigchainDB,0.0,2017-01
+BigchainDB,0.0,2017-02
+BigchainDB,0.0,2017-03
+BigchainDB,0.0,2017-04
+BigchainDB,0.0,2017-05
+BigchainDB,0.0,2017-06
+BigchainDB,0.0,2017-07
+BigchainDB,0.0,2017-08
+BigchainDB,0.0,2017-09
+BigchainDB,0.0,2017-10
+BigchainDB,0.0,2017-11
+BigchainDB,0.0,2017-12
+BigchainDB,0.0,2018-01
+BigchainDB,0.16399999999999998,2018-02
+BigchainDB,0.158,2018-03
+BigchainDB,0.16699999999999998,2018-04
+BigchainDB,0.226,2018-05
+BigchainDB,0.245,2018-06
+BigchainDB,0.31,2018-07
+BigchainDB,0.41,2018-08
+BigchainDB,0.879,2018-09
+BigchainDB,0.985,2018-10
+BigchainDB,0.88,2018-11
+BigchainDB,0.818,2018-12
+BigchainDB,0.7829999999999999,2019-01
+BigchainDB,0.79,2019-02
+BigchainDB,0.7929999999999999,2019-03
+BigchainDB,0.848,2019-04
+BigchainDB,0.74,2019-05
+BigchainDB,0.732,2019-06
+BigchainDB,0.73,2019-07
+BigchainDB,0.8109999999999999,2019-08
+BigchainDB,0.659,2019-09
+BigchainDB,0.649,2019-10
+BigchainDB,0.682,2019-11
+BigchainDB,0.667,2019-12
+Amazon DocumentDB,0.0,2012-11
+Amazon DocumentDB,0.0,2012-12
+Amazon DocumentDB,0.0,2013-01
+Amazon DocumentDB,0.0,2013-02
+Amazon DocumentDB,0.0,2013-03
+Amazon DocumentDB,0.0,2013-04
+Amazon DocumentDB,0.0,2013-05
+Amazon DocumentDB,0.0,2013-06
+Amazon DocumentDB,0.0,2013-07
+Amazon DocumentDB,0.0,2013-08
+Amazon DocumentDB,0.0,2013-09
+Amazon DocumentDB,0.0,2013-10
+Amazon DocumentDB,0.0,2013-11
+Amazon DocumentDB,0.0,2013-12
+Amazon DocumentDB,0.0,2014-01
+Amazon DocumentDB,0.0,2014-02
+Amazon DocumentDB,0.0,2014-03
+Amazon DocumentDB,0.0,2014-04
+Amazon DocumentDB,0.0,2014-05
+Amazon DocumentDB,0.0,2014-06
+Amazon DocumentDB,0.0,2014-07
+Amazon DocumentDB,0.0,2014-08
+Amazon DocumentDB,0.0,2014-09
+Amazon DocumentDB,0.0,2014-10
+Amazon DocumentDB,0.0,2014-11
+Amazon DocumentDB,0.0,2014-12
+Amazon DocumentDB,0.0,2015-01
+Amazon DocumentDB,0.0,2015-02
+Amazon DocumentDB,0.0,2015-03
+Amazon DocumentDB,0.0,2015-04
+Amazon DocumentDB,0.0,2015-05
+Amazon DocumentDB,0.0,2015-06
+Amazon DocumentDB,0.0,2015-07
+Amazon DocumentDB,0.0,2015-08
+Amazon DocumentDB,0.0,2015-09
+Amazon DocumentDB,0.0,2015-10
+Amazon DocumentDB,0.0,2015-11
+Amazon DocumentDB,0.0,2015-12
+Amazon DocumentDB,0.0,2016-01
+Amazon DocumentDB,0.0,2016-02
+Amazon DocumentDB,0.0,2016-03
+Amazon DocumentDB,0.0,2016-04
+Amazon DocumentDB,0.0,2016-05
+Amazon DocumentDB,0.0,2016-06
+Amazon DocumentDB,0.0,2016-07
+Amazon DocumentDB,0.0,2016-08
+Amazon DocumentDB,0.0,2016-09
+Amazon DocumentDB,0.0,2016-10
+Amazon DocumentDB,0.0,2016-11
+Amazon DocumentDB,0.0,2016-12
+Amazon DocumentDB,0.0,2017-01
+Amazon DocumentDB,0.0,2017-02
+Amazon DocumentDB,0.0,2017-03
+Amazon DocumentDB,0.0,2017-04
+Amazon DocumentDB,0.0,2017-05
+Amazon DocumentDB,0.0,2017-06
+Amazon DocumentDB,0.0,2017-07
+Amazon DocumentDB,0.0,2017-08
+Amazon DocumentDB,0.0,2017-09
+Amazon DocumentDB,0.0,2017-10
+Amazon DocumentDB,0.0,2017-11
+Amazon DocumentDB,0.0,2017-12
+Amazon DocumentDB,0.0,2018-01
+Amazon DocumentDB,0.0,2018-02
+Amazon DocumentDB,0.0,2018-03
+Amazon DocumentDB,0.0,2018-04
+Amazon DocumentDB,0.0,2018-05
+Amazon DocumentDB,0.0,2018-06
+Amazon DocumentDB,0.0,2018-07
+Amazon DocumentDB,0.0,2018-08
+Amazon DocumentDB,0.0,2018-09
+Amazon DocumentDB,0.0,2018-10
+Amazon DocumentDB,0.0,2018-11
+Amazon DocumentDB,0.0,2018-12
+Amazon DocumentDB,0.0,2019-01
+Amazon DocumentDB,0.0,2019-02
+Amazon DocumentDB,0.0,2019-03
+Amazon DocumentDB,0.0,2019-04
+Amazon DocumentDB,0.469,2019-05
+Amazon DocumentDB,0.307,2019-06
+Amazon DocumentDB,0.396,2019-07
+Amazon DocumentDB,0.685,2019-08
+Amazon DocumentDB,0.413,2019-09
+Amazon DocumentDB,0.551,2019-10
+Amazon DocumentDB,0.693,2019-11
+Amazon DocumentDB,0.653,2019-12
+MapR-DB,0.0,2012-11
+MapR-DB,0.0,2012-12
+MapR-DB,0.0,2013-01
+MapR-DB,0.0,2013-02
+MapR-DB,0.0,2013-03
+MapR-DB,0.0,2013-04
+MapR-DB,0.0,2013-05
+MapR-DB,0.0,2013-06
+MapR-DB,0.0,2013-07
+MapR-DB,0.0,2013-08
+MapR-DB,0.0,2013-09
+MapR-DB,0.0,2013-10
+MapR-DB,0.0,2013-11
+MapR-DB,0.0,2013-12
+MapR-DB,0.0,2014-01
+MapR-DB,0.0,2014-02
+MapR-DB,0.0,2014-03
+MapR-DB,0.0,2014-04
+MapR-DB,0.0,2014-05
+MapR-DB,0.0,2014-06
+MapR-DB,0.0,2014-07
+MapR-DB,0.0,2014-08
+MapR-DB,0.0,2014-09
+MapR-DB,0.0,2014-10
+MapR-DB,0.0,2014-11
+MapR-DB,0.0,2014-12
+MapR-DB,0.0,2015-01
+MapR-DB,0.0,2015-02
+MapR-DB,0.0,2015-03
+MapR-DB,0.0,2015-04
+MapR-DB,0.0,2015-05
+MapR-DB,0.0,2015-06
+MapR-DB,0.0,2015-07
+MapR-DB,0.0,2015-08
+MapR-DB,0.0,2015-09
+MapR-DB,0.0,2015-10
+MapR-DB,0.0,2015-11
+MapR-DB,0.0,2015-12
+MapR-DB,0.0,2016-01
+MapR-DB,0.0,2016-02
+MapR-DB,0.0,2016-03
+MapR-DB,0.0,2016-04
+MapR-DB,0.0,2016-05
+MapR-DB,0.0,2016-06
+MapR-DB,0.0,2016-07
+MapR-DB,0.0,2016-08
+MapR-DB,0.0,2016-09
+MapR-DB,0.0,2016-10
+MapR-DB,0.154,2016-11
+MapR-DB,0.33799999999999997,2016-12
+MapR-DB,0.322,2017-01
+MapR-DB,0.344,2017-02
+MapR-DB,0.408,2017-03
+MapR-DB,0.44799999999999995,2017-04
+MapR-DB,0.522,2017-05
+MapR-DB,0.519,2017-06
+MapR-DB,0.545,2017-07
+MapR-DB,0.506,2017-08
+MapR-DB,0.484,2017-09
+MapR-DB,0.639,2017-10
+MapR-DB,0.816,2017-11
+MapR-DB,0.769,2017-12
+MapR-DB,0.7190000000000001,2018-01
+MapR-DB,0.677,2018-02
+MapR-DB,0.65,2018-03
+MapR-DB,0.562,2018-04
+MapR-DB,0.556,2018-05
+MapR-DB,0.5,2018-06
+MapR-DB,0.486,2018-07
+MapR-DB,0.612,2018-08
+MapR-DB,0.623,2018-09
+MapR-DB,0.715,2018-10
+MapR-DB,0.611,2018-11
+MapR-DB,0.564,2018-12
+MapR-DB,0.725,2019-01
+MapR-DB,0.7559999999999999,2019-02
+MapR-DB,0.747,2019-03
+MapR-DB,0.754,2019-04
+MapR-DB,0.736,2019-05
+MapR-DB,0.6920000000000001,2019-06
+MapR-DB,0.64,2019-07
+MapR-DB,0.64,2019-08
+MapR-DB,0.628,2019-09
+MapR-DB,0.62,2019-10
+MapR-DB,0.62,2019-11
+MapR-DB,0.647,2019-12
+Percona Server for MongoDB,0.0,2012-11
+Percona Server for MongoDB,0.0,2012-12
+Percona Server for MongoDB,0.0,2013-01
+Percona Server for MongoDB,0.0,2013-02
+Percona Server for MongoDB,0.0,2013-03
+Percona Server for MongoDB,0.0,2013-04
+Percona Server for MongoDB,0.0,2013-05
+Percona Server for MongoDB,0.0,2013-06
+Percona Server for MongoDB,0.0,2013-07
+Percona Server for MongoDB,0.0,2013-08
+Percona Server for MongoDB,0.0,2013-09
+Percona Server for MongoDB,0.0,2013-10
+Percona Server for MongoDB,0.0,2013-11
+Percona Server for MongoDB,0.0,2013-12
+Percona Server for MongoDB,0.0,2014-01
+Percona Server for MongoDB,0.0,2014-02
+Percona Server for MongoDB,0.0,2014-03
+Percona Server for MongoDB,0.0,2014-04
+Percona Server for MongoDB,0.0,2014-05
+Percona Server for MongoDB,0.0,2014-06
+Percona Server for MongoDB,0.0,2014-07
+Percona Server for MongoDB,0.0,2014-08
+Percona Server for MongoDB,0.0,2014-09
+Percona Server for MongoDB,0.0,2014-10
+Percona Server for MongoDB,0.0,2014-11
+Percona Server for MongoDB,0.0,2014-12
+Percona Server for MongoDB,0.0,2015-01
+Percona Server for MongoDB,0.0,2015-02
+Percona Server for MongoDB,0.0,2015-03
+Percona Server for MongoDB,0.0,2015-04
+Percona Server for MongoDB,0.0,2015-05
+Percona Server for MongoDB,0.0,2015-06
+Percona Server for MongoDB,0.0,2015-07
+Percona Server for MongoDB,0.0,2015-08
+Percona Server for MongoDB,0.0,2015-09
+Percona Server for MongoDB,0.0,2015-10
+Percona Server for MongoDB,0.0,2015-11
+Percona Server for MongoDB,0.0,2015-12
+Percona Server for MongoDB,0.0,2016-01
+Percona Server for MongoDB,0.0,2016-02
+Percona Server for MongoDB,0.0,2016-03
+Percona Server for MongoDB,0.0,2016-04
+Percona Server for MongoDB,0.0,2016-05
+Percona Server for MongoDB,0.0,2016-06
+Percona Server for MongoDB,0.0,2016-07
+Percona Server for MongoDB,0.0,2016-08
+Percona Server for MongoDB,0.0,2016-09
+Percona Server for MongoDB,0.0,2016-10
+Percona Server for MongoDB,0.192,2016-11
+Percona Server for MongoDB,0.201,2016-12
+Percona Server for MongoDB,0.218,2017-01
+Percona Server for MongoDB,0.209,2017-02
+Percona Server for MongoDB,0.222,2017-03
+Percona Server for MongoDB,0.27,2017-04
+Percona Server for MongoDB,0.34700000000000003,2017-05
+Percona Server for MongoDB,0.336,2017-06
+Percona Server for MongoDB,0.27399999999999997,2017-07
+Percona Server for MongoDB,0.289,2017-08
+Percona Server for MongoDB,0.451,2017-09
+Percona Server for MongoDB,0.5,2017-10
+Percona Server for MongoDB,0.474,2017-11
+Percona Server for MongoDB,0.409,2017-12
+Percona Server for MongoDB,0.353,2018-01
+Percona Server for MongoDB,0.313,2018-02
+Percona Server for MongoDB,0.254,2018-03
+Percona Server for MongoDB,0.25,2018-04
+Percona Server for MongoDB,0.27399999999999997,2018-05
+Percona Server for MongoDB,0.26899999999999996,2018-06
+Percona Server for MongoDB,0.253,2018-07
+Percona Server for MongoDB,0.261,2018-08
+Percona Server for MongoDB,0.282,2018-09
+Percona Server for MongoDB,0.348,2018-10
+Percona Server for MongoDB,0.387,2018-11
+Percona Server for MongoDB,0.428,2018-12
+Percona Server for MongoDB,0.535,2019-01
+Percona Server for MongoDB,0.602,2019-02
+Percona Server for MongoDB,0.561,2019-03
+Percona Server for MongoDB,0.57,2019-04
+Percona Server for MongoDB,0.55,2019-05
+Percona Server for MongoDB,0.526,2019-06
+Percona Server for MongoDB,0.514,2019-07
+Percona Server for MongoDB,0.539,2019-08
+Percona Server for MongoDB,0.529,2019-09
+Percona Server for MongoDB,0.508,2019-10
+Percona Server for MongoDB,0.532,2019-11
+Percona Server for MongoDB,0.519,2019-12
+Rockset,0.0,2012-11
+Rockset,0.0,2012-12
+Rockset,0.0,2013-01
+Rockset,0.0,2013-02
+Rockset,0.0,2013-03
+Rockset,0.0,2013-04
+Rockset,0.0,2013-05
+Rockset,0.0,2013-06
+Rockset,0.0,2013-07
+Rockset,0.0,2013-08
+Rockset,0.0,2013-09
+Rockset,0.0,2013-10
+Rockset,0.0,2013-11
+Rockset,0.0,2013-12
+Rockset,0.0,2014-01
+Rockset,0.0,2014-02
+Rockset,0.0,2014-03
+Rockset,0.0,2014-04
+Rockset,0.0,2014-05
+Rockset,0.0,2014-06
+Rockset,0.0,2014-07
+Rockset,0.0,2014-08
+Rockset,0.0,2014-09
+Rockset,0.0,2014-10
+Rockset,0.0,2014-11
+Rockset,0.0,2014-12
+Rockset,0.0,2015-01
+Rockset,0.0,2015-02
+Rockset,0.0,2015-03
+Rockset,0.0,2015-04
+Rockset,0.0,2015-05
+Rockset,0.0,2015-06
+Rockset,0.0,2015-07
+Rockset,0.0,2015-08
+Rockset,0.0,2015-09
+Rockset,0.0,2015-10
+Rockset,0.0,2015-11
+Rockset,0.0,2015-12
+Rockset,0.0,2016-01
+Rockset,0.0,2016-02
+Rockset,0.0,2016-03
+Rockset,0.0,2016-04
+Rockset,0.0,2016-05
+Rockset,0.0,2016-06
+Rockset,0.0,2016-07
+Rockset,0.0,2016-08
+Rockset,0.0,2016-09
+Rockset,0.0,2016-10
+Rockset,0.0,2016-11
+Rockset,0.0,2016-12
+Rockset,0.0,2017-01
+Rockset,0.0,2017-02
+Rockset,0.0,2017-03
+Rockset,0.0,2017-04
+Rockset,0.0,2017-05
+Rockset,0.0,2017-06
+Rockset,0.0,2017-07
+Rockset,0.0,2017-08
+Rockset,0.0,2017-09
+Rockset,0.0,2017-10
+Rockset,0.0,2017-11
+Rockset,0.0,2017-12
+Rockset,0.0,2018-01
+Rockset,0.0,2018-02
+Rockset,0.0,2018-03
+Rockset,0.0,2018-04
+Rockset,0.0,2018-05
+Rockset,0.0,2018-06
+Rockset,0.0,2018-07
+Rockset,0.0,2018-08
+Rockset,0.0,2018-09
+Rockset,0.0,2018-10
+Rockset,0.0,2018-11
+Rockset,0.0,2018-12
+Rockset,0.0,2019-01
+Rockset,0.0,2019-02
+Rockset,0.0,2019-03
+Rockset,0.0,2019-04
+Rockset,0.0,2019-05
+Rockset,0.0,2019-06
+Rockset,0.0,2019-07
+Rockset,0.20199999999999999,2019-08
+Rockset,0.222,2019-09
+Rockset,0.26899999999999996,2019-10
+Rockset,0.303,2019-11
+Rockset,0.371,2019-12
+AlaSQL,0.0,2012-11
+AlaSQL,0.0,2012-12
+AlaSQL,0.0,2013-01
+AlaSQL,0.0,2013-02
+AlaSQL,0.0,2013-03
+AlaSQL,0.0,2013-04
+AlaSQL,0.0,2013-05
+AlaSQL,0.0,2013-06
+AlaSQL,0.0,2013-07
+AlaSQL,0.0,2013-08
+AlaSQL,0.0,2013-09
+AlaSQL,0.0,2013-10
+AlaSQL,0.0,2013-11
+AlaSQL,0.0,2013-12
+AlaSQL,0.0,2014-01
+AlaSQL,0.0,2014-02
+AlaSQL,0.0,2014-03
+AlaSQL,0.0,2014-04
+AlaSQL,0.0,2014-05
+AlaSQL,0.0,2014-06
+AlaSQL,0.0,2014-07
+AlaSQL,0.0,2014-08
+AlaSQL,0.0,2014-09
+AlaSQL,0.0,2014-10
+AlaSQL,0.0,2014-11
+AlaSQL,0.0,2014-12
+AlaSQL,0.0,2015-01
+AlaSQL,0.0,2015-02
+AlaSQL,0.0,2015-03
+AlaSQL,0.0,2015-04
+AlaSQL,0.0,2015-05
+AlaSQL,0.0,2015-06
+AlaSQL,0.0,2015-07
+AlaSQL,0.0,2015-08
+AlaSQL,0.0,2015-09
+AlaSQL,0.0,2015-10
+AlaSQL,0.0,2015-11
+AlaSQL,0.084,2015-12
+AlaSQL,0.08900000000000001,2016-01
+AlaSQL,0.077,2016-02
+AlaSQL,0.059000000000000004,2016-03
+AlaSQL,0.08900000000000001,2016-04
+AlaSQL,0.11900000000000001,2016-05
+AlaSQL,0.11900000000000001,2016-06
+AlaSQL,0.134,2016-07
+AlaSQL,0.145,2016-08
+AlaSQL,0.252,2016-09
+AlaSQL,0.153,2016-10
+AlaSQL,0.155,2016-11
+AlaSQL,0.179,2016-12
+AlaSQL,0.142,2017-01
+AlaSQL,0.134,2017-02
+AlaSQL,0.14800000000000002,2017-03
+AlaSQL,0.18600000000000003,2017-04
+AlaSQL,0.31,2017-05
+AlaSQL,0.4,2017-06
+AlaSQL,0.28800000000000003,2017-07
+AlaSQL,0.27699999999999997,2017-08
+AlaSQL,0.311,2017-09
+AlaSQL,0.318,2017-10
+AlaSQL,0.29600000000000004,2017-11
+AlaSQL,0.44,2017-12
+AlaSQL,0.43,2018-01
+AlaSQL,0.33,2018-02
+AlaSQL,0.375,2018-03
+AlaSQL,0.35100000000000003,2018-04
+AlaSQL,0.34600000000000003,2018-05
+AlaSQL,0.258,2018-06
+AlaSQL,0.368,2018-07
+AlaSQL,0.405,2018-08
+AlaSQL,0.544,2018-09
+AlaSQL,0.57,2018-10
+AlaSQL,0.46799999999999997,2018-11
+AlaSQL,0.419,2018-12
+AlaSQL,0.324,2019-01
+AlaSQL,0.366,2019-02
+AlaSQL,0.445,2019-03
+AlaSQL,0.544,2019-04
+AlaSQL,0.46799999999999997,2019-05
+AlaSQL,0.39299999999999996,2019-06
+AlaSQL,0.47600000000000003,2019-07
+AlaSQL,0.633,2019-08
+AlaSQL,0.401,2019-09
+AlaSQL,0.392,2019-10
+AlaSQL,0.39,2019-11
+AlaSQL,0.361,2019-12
+LokiJS,0.0,2012-11
+LokiJS,0.0,2012-12
+LokiJS,0.0,2013-01
+LokiJS,0.0,2013-02
+LokiJS,0.0,2013-03
+LokiJS,0.0,2013-04
+LokiJS,0.0,2013-05
+LokiJS,0.0,2013-06
+LokiJS,0.0,2013-07
+LokiJS,0.0,2013-08
+LokiJS,0.0,2013-09
+LokiJS,0.0,2013-10
+LokiJS,0.0,2013-11
+LokiJS,0.0,2013-12
+LokiJS,0.0,2014-01
+LokiJS,0.0,2014-02
+LokiJS,0.0,2014-03
+LokiJS,0.0,2014-04
+LokiJS,0.0,2014-05
+LokiJS,0.0,2014-06
+LokiJS,0.0,2014-07
+LokiJS,0.0,2014-08
+LokiJS,0.0,2014-09
+LokiJS,0.0,2014-10
+LokiJS,0.0,2014-11
+LokiJS,0.005,2014-12
+LokiJS,0.005,2015-01
+LokiJS,0.005,2015-02
+LokiJS,0.005,2015-03
+LokiJS,0.005,2015-04
+LokiJS,0.005,2015-05
+LokiJS,0.005,2015-06
+LokiJS,0.005,2015-07
+LokiJS,0.005,2015-08
+LokiJS,0.005,2015-09
+LokiJS,0.005,2015-10
+LokiJS,0.005,2015-11
+LokiJS,0.005,2015-12
+LokiJS,0.005,2016-01
+LokiJS,0.005,2016-02
+LokiJS,0.022000000000000002,2016-03
+LokiJS,0.013999999999999999,2016-04
+LokiJS,0.051,2016-05
+LokiJS,0.035,2016-06
+LokiJS,0.045,2016-07
+LokiJS,0.046,2016-08
+LokiJS,0.14400000000000002,2016-09
+LokiJS,0.048,2016-10
+LokiJS,0.055,2016-11
+LokiJS,0.07200000000000001,2016-12
+LokiJS,0.057,2017-01
+LokiJS,0.094,2017-02
+LokiJS,0.163,2017-03
+LokiJS,0.142,2017-04
+LokiJS,0.23600000000000002,2017-05
+LokiJS,0.321,2017-06
+LokiJS,0.201,2017-07
+LokiJS,0.19899999999999998,2017-08
+LokiJS,0.20800000000000002,2017-09
+LokiJS,0.18,2017-10
+LokiJS,0.204,2017-11
+LokiJS,0.231,2017-12
+LokiJS,0.183,2018-01
+LokiJS,0.218,2018-02
+LokiJS,0.21100000000000002,2018-03
+LokiJS,0.253,2018-04
+LokiJS,0.23,2018-05
+LokiJS,0.16899999999999998,2018-06
+LokiJS,0.24100000000000002,2018-07
+LokiJS,0.263,2018-08
+LokiJS,0.256,2018-09
+LokiJS,0.28300000000000003,2018-10
+LokiJS,0.272,2018-11
+LokiJS,0.258,2018-12
+LokiJS,0.255,2019-01
+LokiJS,0.255,2019-02
+LokiJS,0.298,2019-03
+LokiJS,0.381,2019-04
+LokiJS,0.311,2019-05
+LokiJS,0.297,2019-06
+LokiJS,0.337,2019-07
+LokiJS,0.364,2019-08
+LokiJS,0.32299999999999995,2019-09
+LokiJS,0.32799999999999996,2019-10
+LokiJS,0.324,2019-11
+LokiJS,0.359,2019-12
+Sequoiadb,0.0,2012-11
+Sequoiadb,0.0,2012-12
+Sequoiadb,0.0,2013-01
+Sequoiadb,0.0,2013-02
+Sequoiadb,0.0,2013-03
+Sequoiadb,0.0,2013-04
+Sequoiadb,0.0,2013-05
+Sequoiadb,0.0,2013-06
+Sequoiadb,0.0,2013-07
+Sequoiadb,0.0,2013-08
+Sequoiadb,0.0,2013-09
+Sequoiadb,0.0,2013-10
+Sequoiadb,0.0,2013-11
+Sequoiadb,0.0,2013-12
+Sequoiadb,0.0,2014-01
+Sequoiadb,0.0,2014-02
+Sequoiadb,0.005,2014-03
+Sequoiadb,0.005,2014-04
+Sequoiadb,0.005,2014-05
+Sequoiadb,0.005,2014-06
+Sequoiadb,0.005,2014-07
+Sequoiadb,0.005,2014-08
+Sequoiadb,0.005,2014-09
+Sequoiadb,0.005,2014-10
+Sequoiadb,0.005,2014-11
+Sequoiadb,0.005,2014-12
+Sequoiadb,0.005,2015-01
+Sequoiadb,0.005,2015-02
+Sequoiadb,0.005,2015-03
+Sequoiadb,0.005,2015-04
+Sequoiadb,0.005,2015-05
+Sequoiadb,0.006999999999999999,2015-06
+Sequoiadb,0.064,2015-07
+Sequoiadb,0.1,2015-08
+Sequoiadb,0.07,2015-09
+Sequoiadb,0.042,2015-10
+Sequoiadb,0.042,2015-11
+Sequoiadb,0.04,2015-12
+Sequoiadb,0.025,2016-01
+Sequoiadb,0.025,2016-02
+Sequoiadb,0.032,2016-03
+Sequoiadb,0.052000000000000005,2016-04
+Sequoiadb,0.071,2016-05
+Sequoiadb,0.063,2016-06
+Sequoiadb,0.087,2016-07
+Sequoiadb,0.141,2016-08
+Sequoiadb,0.159,2016-09
+Sequoiadb,0.14800000000000002,2016-10
+Sequoiadb,0.147,2016-11
+Sequoiadb,0.151,2016-12
+Sequoiadb,0.14300000000000002,2017-01
+Sequoiadb,0.183,2017-02
+Sequoiadb,0.22,2017-03
+Sequoiadb,0.223,2017-04
+Sequoiadb,0.313,2017-05
+Sequoiadb,0.348,2017-06
+Sequoiadb,0.311,2017-07
+Sequoiadb,0.271,2017-08
+Sequoiadb,0.271,2017-09
+Sequoiadb,0.29,2017-10
+Sequoiadb,0.3,2017-11
+Sequoiadb,0.285,2017-12
+Sequoiadb,0.273,2018-01
+Sequoiadb,0.261,2018-02
+Sequoiadb,0.275,2018-03
+Sequoiadb,0.228,2018-04
+Sequoiadb,0.23600000000000002,2018-05
+Sequoiadb,0.245,2018-06
+Sequoiadb,0.22399999999999998,2018-07
+Sequoiadb,0.218,2018-08
+Sequoiadb,0.262,2018-09
+Sequoiadb,0.233,2018-10
+Sequoiadb,0.184,2018-11
+Sequoiadb,0.185,2018-12
+Sequoiadb,0.23600000000000002,2019-01
+Sequoiadb,0.281,2019-02
+Sequoiadb,0.302,2019-03
+Sequoiadb,0.324,2019-04
+Sequoiadb,0.314,2019-05
+Sequoiadb,0.32899999999999996,2019-06
+Sequoiadb,0.308,2019-07
+Sequoiadb,0.305,2019-08
+Sequoiadb,0.28,2019-09
+Sequoiadb,0.271,2019-10
+Sequoiadb,0.261,2019-11
+Sequoiadb,0.26899999999999996,2019-12
+EJDB,0.0,2012-11
+EJDB,0.0,2012-12
+EJDB,0.0,2013-01
+EJDB,0.0,2013-02
+EJDB,0.0,2013-03
+EJDB,0.0,2013-04
+EJDB,0.005,2013-05
+EJDB,0.005,2013-06
+EJDB,0.005,2013-07
+EJDB,0.005,2013-08
+EJDB,0.005,2013-09
+EJDB,0.005,2013-10
+EJDB,0.005,2013-11
+EJDB,0.091,2013-12
+EJDB,0.11,2014-01
+EJDB,0.10400000000000001,2014-02
+EJDB,0.07,2014-03
+EJDB,0.022000000000000002,2014-04
+EJDB,0.069,2014-05
+EJDB,0.08,2014-06
+EJDB,0.077,2014-07
+EJDB,0.096,2014-08
+EJDB,0.099,2014-09
+EJDB,0.066,2014-10
+EJDB,0.021,2014-11
+EJDB,0.005,2014-12
+EJDB,0.005,2015-01
+EJDB,0.005,2015-02
+EJDB,0.005,2015-03
+EJDB,0.005,2015-04
+EJDB,0.005,2015-05
+EJDB,0.005,2015-06
+EJDB,0.062,2015-07
+EJDB,0.09,2015-08
+EJDB,0.10400000000000001,2015-09
+EJDB,0.11,2015-10
+EJDB,0.105,2015-11
+EJDB,0.08,2015-12
+EJDB,0.077,2016-01
+EJDB,0.1,2016-02
+EJDB,0.10300000000000001,2016-03
+EJDB,0.133,2016-04
+EJDB,0.124,2016-05
+EJDB,0.12,2016-06
+EJDB,0.138,2016-07
+EJDB,0.14,2016-08
+EJDB,0.142,2016-09
+EJDB,0.136,2016-10
+EJDB,0.124,2016-11
+EJDB,0.11800000000000001,2016-12
+EJDB,0.115,2017-01
+EJDB,0.11,2017-02
+EJDB,0.10400000000000001,2017-03
+EJDB,0.106,2017-04
+EJDB,0.12,2017-05
+EJDB,0.185,2017-06
+EJDB,0.149,2017-07
+EJDB,0.138,2017-08
+EJDB,0.12300000000000001,2017-09
+EJDB,0.11199999999999999,2017-10
+EJDB,0.08900000000000001,2017-11
+EJDB,0.09300000000000001,2017-12
+EJDB,0.12,2018-01
+EJDB,0.11900000000000001,2018-02
+EJDB,0.11199999999999999,2018-03
+EJDB,0.107,2018-04
+EJDB,0.11,2018-05
+EJDB,0.1,2018-06
+EJDB,0.098,2018-07
+EJDB,0.098,2018-08
+EJDB,0.098,2018-09
+EJDB,0.105,2018-10
+EJDB,0.12300000000000001,2018-11
+EJDB,0.115,2018-12
+EJDB,0.109,2019-01
+EJDB,0.10099999999999999,2019-02
+EJDB,0.09699999999999999,2019-03
+EJDB,0.09699999999999999,2019-04
+EJDB,0.102,2019-05
+EJDB,0.111,2019-06
+EJDB,0.11599999999999999,2019-07
+EJDB,0.136,2019-08
+EJDB,0.193,2019-09
+EJDB,0.21600000000000003,2019-10
+EJDB,0.179,2019-11
+EJDB,0.17300000000000001,2019-12
+DensoDB,0.0,2012-11
+DensoDB,0.0,2012-12
+DensoDB,0.0,2013-01
+DensoDB,0.0,2013-02
+DensoDB,0.005,2013-03
+DensoDB,0.005,2013-04
+DensoDB,0.005,2013-05
+DensoDB,0.005,2013-06
+DensoDB,0.005,2013-07
+DensoDB,0.005,2013-08
+DensoDB,0.005,2013-09
+DensoDB,0.005,2013-10
+DensoDB,0.005,2013-11
+DensoDB,0.005,2013-12
+DensoDB,0.005,2014-01
+DensoDB,0.005,2014-02
+DensoDB,0.005,2014-03
+DensoDB,0.005,2014-04
+DensoDB,0.005,2014-05
+DensoDB,0.005,2014-06
+DensoDB,0.005,2014-07
+DensoDB,0.005,2014-08
+DensoDB,0.005,2014-09
+DensoDB,0.005,2014-10
+DensoDB,0.005,2014-11
+DensoDB,0.005,2014-12
+DensoDB,0.005,2015-01
+DensoDB,0.005,2015-02
+DensoDB,0.005,2015-03
+DensoDB,0.005,2015-04
+DensoDB,0.005,2015-05
+DensoDB,0.005,2015-06
+DensoDB,0.005,2015-07
+DensoDB,0.005,2015-08
+DensoDB,0.005,2015-09
+DensoDB,0.005,2015-10
+DensoDB,0.005,2015-11
+DensoDB,0.005,2015-12
+DensoDB,0.005,2016-01
+DensoDB,0.005,2016-02
+DensoDB,0.005,2016-03
+DensoDB,0.005,2016-04
+DensoDB,0.005,2016-05
+DensoDB,0.005,2016-06
+DensoDB,0.005,2016-07
+DensoDB,0.005,2016-08
+DensoDB,0.005,2016-09
+DensoDB,0.005,2016-10
+DensoDB,0.005,2016-11
+DensoDB,0.012,2016-12
+DensoDB,0.006,2017-01
+DensoDB,0.005,2017-02
+DensoDB,0.005,2017-03
+DensoDB,0.005,2017-04
+DensoDB,0.005,2017-05
+DensoDB,0.005,2017-06
+DensoDB,0.006,2017-07
+DensoDB,0.057999999999999996,2017-08
+DensoDB,0.086,2017-09
+DensoDB,0.105,2017-10
+DensoDB,0.081,2017-11
+DensoDB,0.053,2017-12
+DensoDB,0.055999999999999994,2018-01
+DensoDB,0.048,2018-02
+DensoDB,0.039,2018-03
+DensoDB,0.044000000000000004,2018-04
+DensoDB,0.033,2018-05
+DensoDB,0.027999999999999997,2018-06
+DensoDB,0.067,2018-07
+DensoDB,0.079,2018-08
+DensoDB,0.076,2018-09
+DensoDB,0.076,2018-10
+DensoDB,0.098,2018-11
+DensoDB,0.1,2018-12
+DensoDB,0.09699999999999999,2019-01
+DensoDB,0.09300000000000001,2019-02
+DensoDB,0.079,2019-03
+DensoDB,0.085,2019-04
+DensoDB,0.08800000000000001,2019-05
+DensoDB,0.085,2019-06
+DensoDB,0.10099999999999999,2019-07
+DensoDB,0.1,2019-08
+DensoDB,0.1,2019-09
+DensoDB,0.11199999999999999,2019-10
+DensoDB,0.12,2019-11
+DensoDB,0.115,2019-12
+SenseiDB,0.0,2012-11
+SenseiDB,0.0,2012-12
+SenseiDB,0.0,2013-01
+SenseiDB,0.0,2013-02
+SenseiDB,0.0,2013-03
+SenseiDB,0.0,2013-04
+SenseiDB,0.0,2013-05
+SenseiDB,0.0,2013-06
+SenseiDB,0.0,2013-07
+SenseiDB,0.0,2013-08
+SenseiDB,0.0,2013-09
+SenseiDB,0.0,2013-10
+SenseiDB,0.005,2013-11
+SenseiDB,0.005,2013-12
+SenseiDB,0.005,2014-01
+SenseiDB,0.005,2014-02
+SenseiDB,0.005,2014-03
+SenseiDB,0.005,2014-04
+SenseiDB,0.005,2014-05
+SenseiDB,0.005,2014-06
+SenseiDB,0.005,2014-07
+SenseiDB,0.005,2014-08
+SenseiDB,0.005,2014-09
+SenseiDB,0.005,2014-10
+SenseiDB,0.005,2014-11
+SenseiDB,0.005,2014-12
+SenseiDB,0.005,2015-01
+SenseiDB,0.005,2015-02
+SenseiDB,0.005,2015-03
+SenseiDB,0.005,2015-04
+SenseiDB,0.005,2015-05
+SenseiDB,0.005,2015-06
+SenseiDB,0.005,2015-07
+SenseiDB,0.005,2015-08
+SenseiDB,0.03,2015-09
+SenseiDB,0.005,2015-10
+SenseiDB,0.005,2015-11
+SenseiDB,0.019,2015-12
+SenseiDB,0.027000000000000003,2016-01
+SenseiDB,0.026000000000000002,2016-02
+SenseiDB,0.01,2016-03
+SenseiDB,0.005,2016-04
+SenseiDB,0.005,2016-05
+SenseiDB,0.005,2016-06
+SenseiDB,0.005,2016-07
+SenseiDB,0.005,2016-08
+SenseiDB,0.005,2016-09
+SenseiDB,0.005,2016-10
+SenseiDB,0.005,2016-11
+SenseiDB,0.005,2016-12
+SenseiDB,0.005,2017-01
+SenseiDB,0.045,2017-02
+SenseiDB,0.044000000000000004,2017-03
+SenseiDB,0.092,2017-04
+SenseiDB,0.109,2017-05
+SenseiDB,0.14400000000000002,2017-06
+SenseiDB,0.106,2017-07
+SenseiDB,0.076,2017-08
+SenseiDB,0.064,2017-09
+SenseiDB,0.111,2017-10
+SenseiDB,0.126,2017-11
+SenseiDB,0.083,2017-12
+SenseiDB,0.10099999999999999,2018-01
+SenseiDB,0.134,2018-02
+SenseiDB,0.1,2018-03
+SenseiDB,0.09300000000000001,2018-04
+SenseiDB,0.09300000000000001,2018-05
+SenseiDB,0.102,2018-06
+SenseiDB,0.065,2018-07
+SenseiDB,0.077,2018-08
+SenseiDB,0.069,2018-09
+SenseiDB,0.059000000000000004,2018-10
+SenseiDB,0.109,2018-11
+SenseiDB,0.106,2018-12
+SenseiDB,0.09,2019-01
+SenseiDB,0.085,2019-02
+SenseiDB,0.083,2019-03
+SenseiDB,0.081,2019-04
+SenseiDB,0.10800000000000001,2019-05
+SenseiDB,0.096,2019-06
+SenseiDB,0.10099999999999999,2019-07
+SenseiDB,0.11199999999999999,2019-08
+SenseiDB,0.10800000000000001,2019-09
+SenseiDB,0.106,2019-10
+SenseiDB,0.11199999999999999,2019-11
+SenseiDB,0.113,2019-12
+NosDB,0.0,2012-11
+NosDB,0.0,2012-12
+NosDB,0.0,2013-01
+NosDB,0.0,2013-02
+NosDB,0.0,2013-03
+NosDB,0.0,2013-04
+NosDB,0.0,2013-05
+NosDB,0.0,2013-06
+NosDB,0.0,2013-07
+NosDB,0.0,2013-08
+NosDB,0.0,2013-09
+NosDB,0.0,2013-10
+NosDB,0.0,2013-11
+NosDB,0.0,2013-12
+NosDB,0.0,2014-01
+NosDB,0.0,2014-02
+NosDB,0.0,2014-03
+NosDB,0.0,2014-04
+NosDB,0.0,2014-05
+NosDB,0.0,2014-06
+NosDB,0.0,2014-07
+NosDB,0.0,2014-08
+NosDB,0.0,2014-09
+NosDB,0.0,2014-10
+NosDB,0.0,2014-11
+NosDB,0.0,2014-12
+NosDB,0.0,2015-01
+NosDB,0.0,2015-02
+NosDB,0.0,2015-03
+NosDB,0.0,2015-04
+NosDB,0.0,2015-05
+NosDB,0.0,2015-06
+NosDB,0.0,2015-07
+NosDB,0.0,2015-08
+NosDB,0.0,2015-09
+NosDB,0.0,2015-10
+NosDB,0.0,2015-11
+NosDB,0.0,2015-12
+NosDB,0.0,2016-01
+NosDB,0.0,2016-02
+NosDB,0.0,2016-03
+NosDB,0.0,2016-04
+NosDB,0.0,2016-05
+NosDB,0.0,2016-06
+NosDB,0.0,2016-07
+NosDB,0.0,2016-08
+NosDB,0.005,2016-09
+NosDB,0.005,2016-10
+NosDB,0.046,2016-11
+NosDB,0.006999999999999999,2016-12
+NosDB,0.005,2017-01
+NosDB,0.005,2017-02
+NosDB,0.005,2017-03
+NosDB,0.048,2017-04
+NosDB,0.055,2017-05
+NosDB,0.028999999999999998,2017-06
+NosDB,0.019,2017-07
+NosDB,0.065,2017-08
+NosDB,0.067,2017-09
+NosDB,0.079,2017-10
+NosDB,0.067,2017-11
+NosDB,0.033,2017-12
+NosDB,0.07,2018-01
+NosDB,0.036000000000000004,2018-02
+NosDB,0.026000000000000002,2018-03
+NosDB,0.042,2018-04
+NosDB,0.026000000000000002,2018-05
+NosDB,0.027999999999999997,2018-06
+NosDB,0.051,2018-07
+NosDB,0.08,2018-08
+NosDB,0.065,2018-09
+NosDB,0.07400000000000001,2018-10
+NosDB,0.087,2018-11
+NosDB,0.085,2018-12
+NosDB,0.11,2019-01
+NosDB,0.1,2019-02
+NosDB,0.07400000000000001,2019-03
+NosDB,0.09300000000000001,2019-04
+NosDB,0.107,2019-05
+NosDB,0.086,2019-06
+NosDB,0.077,2019-07
+NosDB,0.098,2019-08
+NosDB,0.098,2019-09
+NosDB,0.091,2019-10
+NosDB,0.09699999999999999,2019-11
+NosDB,0.084,2019-12
+RaptorDB,0.0,2012-11
+RaptorDB,0.0,2012-12
+RaptorDB,0.005,2013-01
+RaptorDB,0.005,2013-02
+RaptorDB,0.005,2013-03
+RaptorDB,0.005,2013-04
+RaptorDB,0.005,2013-05
+RaptorDB,0.005,2013-06
+RaptorDB,0.005,2013-07
+RaptorDB,0.005,2013-08
+RaptorDB,0.005,2013-09
+RaptorDB,0.005,2013-10
+RaptorDB,0.005,2013-11
+RaptorDB,0.005,2013-12
+RaptorDB,0.042,2014-01
+RaptorDB,0.005,2014-02
+RaptorDB,0.005,2014-03
+RaptorDB,0.005,2014-04
+RaptorDB,0.005,2014-05
+RaptorDB,0.005,2014-06
+RaptorDB,0.005,2014-07
+RaptorDB,0.006999999999999999,2014-08
+RaptorDB,0.005,2014-09
+RaptorDB,0.005,2014-10
+RaptorDB,0.005,2014-11
+RaptorDB,0.006999999999999999,2014-12
+RaptorDB,0.065,2015-01
+RaptorDB,0.006999999999999999,2015-02
+RaptorDB,0.005,2015-03
+RaptorDB,0.005,2015-04
+RaptorDB,0.005,2015-05
+RaptorDB,0.005,2015-06
+RaptorDB,0.062,2015-07
+RaptorDB,0.098,2015-08
+RaptorDB,0.126,2015-09
+RaptorDB,0.153,2015-10
+RaptorDB,0.17600000000000002,2015-11
+RaptorDB,0.187,2015-12
+RaptorDB,0.19,2016-01
+RaptorDB,0.18,2016-02
+RaptorDB,0.16699999999999998,2016-03
+RaptorDB,0.154,2016-04
+RaptorDB,0.131,2016-05
+RaptorDB,0.105,2016-06
+RaptorDB,0.102,2016-07
+RaptorDB,0.08800000000000001,2016-08
+RaptorDB,0.095,2016-09
+RaptorDB,0.099,2016-10
+RaptorDB,0.096,2016-11
+RaptorDB,0.095,2016-12
+RaptorDB,0.087,2017-01
+RaptorDB,0.076,2017-02
+RaptorDB,0.087,2017-03
+RaptorDB,0.106,2017-04
+RaptorDB,0.11599999999999999,2017-05
+RaptorDB,0.09699999999999999,2017-06
+RaptorDB,0.102,2017-07
+RaptorDB,0.122,2017-08
+RaptorDB,0.13699999999999998,2017-09
+RaptorDB,0.12,2017-10
+RaptorDB,0.129,2017-11
+RaptorDB,0.11800000000000001,2017-12
+RaptorDB,0.12300000000000001,2018-01
+RaptorDB,0.13,2018-02
+RaptorDB,0.11599999999999999,2018-03
+RaptorDB,0.098,2018-04
+RaptorDB,0.075,2018-05
+RaptorDB,0.053,2018-06
+RaptorDB,0.084,2018-07
+RaptorDB,0.10800000000000001,2018-08
+RaptorDB,0.131,2018-09
+RaptorDB,0.11900000000000001,2018-10
+RaptorDB,0.13699999999999998,2018-11
+RaptorDB,0.11800000000000001,2018-12
+RaptorDB,0.135,2019-01
+RaptorDB,0.11699999999999999,2019-02
+RaptorDB,0.10300000000000001,2019-03
+RaptorDB,0.084,2019-04
+RaptorDB,0.062,2019-05
+RaptorDB,0.059000000000000004,2019-06
+RaptorDB,0.079,2019-07
+RaptorDB,0.077,2019-08
+RaptorDB,0.068,2019-09
+RaptorDB,0.08,2019-10
+RaptorDB,0.084,2019-11
+RaptorDB,0.084,2019-12
+WhiteDB,0.0,2012-11
+WhiteDB,0.0,2012-12
+WhiteDB,0.0,2013-01
+WhiteDB,0.0,2013-02
+WhiteDB,0.0,2013-03
+WhiteDB,0.0,2013-04
+WhiteDB,0.0,2013-05
+WhiteDB,0.0,2013-06
+WhiteDB,0.0,2013-07
+WhiteDB,0.0,2013-08
+WhiteDB,0.0,2013-09
+WhiteDB,0.0,2013-10
+WhiteDB,0.0,2013-11
+WhiteDB,0.0,2013-12
+WhiteDB,0.0,2014-01
+WhiteDB,0.0,2014-02
+WhiteDB,0.0,2014-03
+WhiteDB,0.0,2014-04
+WhiteDB,0.0,2014-05
+WhiteDB,0.0,2014-06
+WhiteDB,0.0,2014-07
+WhiteDB,0.0,2014-08
+WhiteDB,0.0,2014-09
+WhiteDB,0.0,2014-10
+WhiteDB,0.0,2014-11
+WhiteDB,0.0,2014-12
+WhiteDB,0.0,2015-01
+WhiteDB,0.005,2015-02
+WhiteDB,0.005,2015-03
+WhiteDB,0.005,2015-04
+WhiteDB,0.005,2015-05
+WhiteDB,0.005,2015-06
+WhiteDB,0.062,2015-07
+WhiteDB,0.131,2015-08
+WhiteDB,0.125,2015-09
+WhiteDB,0.174,2015-10
+WhiteDB,0.18899999999999997,2015-11
+WhiteDB,0.13,2015-12
+WhiteDB,0.152,2016-01
+WhiteDB,0.13699999999999998,2016-02
+WhiteDB,0.127,2016-03
+WhiteDB,0.129,2016-04
+WhiteDB,0.10099999999999999,2016-05
+WhiteDB,0.06,2016-06
+WhiteDB,0.012,2016-07
+WhiteDB,0.005,2016-08
+WhiteDB,0.005,2016-09
+WhiteDB,0.005,2016-10
+WhiteDB,0.005,2016-11
+WhiteDB,0.005,2016-12
+WhiteDB,0.005,2017-01
+WhiteDB,0.005,2017-02
+WhiteDB,0.005,2017-03
+WhiteDB,0.005,2017-04
+WhiteDB,0.02,2017-05
+WhiteDB,0.027000000000000003,2017-06
+WhiteDB,0.03,2017-07
+WhiteDB,0.067,2017-08
+WhiteDB,0.04,2017-09
+WhiteDB,0.024,2017-10
+WhiteDB,0.016,2017-11
+WhiteDB,0.005,2017-12
+WhiteDB,0.019,2018-01
+WhiteDB,0.019,2018-02
+WhiteDB,0.017,2018-03
+WhiteDB,0.018000000000000002,2018-04
+WhiteDB,0.005,2018-05
+WhiteDB,0.013999999999999999,2018-06
+WhiteDB,0.015,2018-07
+WhiteDB,0.005,2018-08
+WhiteDB,0.005,2018-09
+WhiteDB,0.006999999999999999,2018-10
+WhiteDB,0.055,2018-11
+WhiteDB,0.051,2018-12
+WhiteDB,0.055,2019-01
+WhiteDB,0.076,2019-02
+WhiteDB,0.08,2019-03
+WhiteDB,0.054000000000000006,2019-04
+WhiteDB,0.038,2019-05
+WhiteDB,0.042,2019-06
+WhiteDB,0.067,2019-07
+WhiteDB,0.052000000000000005,2019-08
+WhiteDB,0.061,2019-09
+WhiteDB,0.075,2019-10
+WhiteDB,0.08,2019-11
+WhiteDB,0.081,2019-12
+ToroDB,0.0,2012-11
+ToroDB,0.0,2012-12
+ToroDB,0.0,2013-01
+ToroDB,0.0,2013-02
+ToroDB,0.0,2013-03
+ToroDB,0.0,2013-04
+ToroDB,0.0,2013-05
+ToroDB,0.0,2013-06
+ToroDB,0.0,2013-07
+ToroDB,0.0,2013-08
+ToroDB,0.0,2013-09
+ToroDB,0.0,2013-10
+ToroDB,0.0,2013-11
+ToroDB,0.0,2013-12
+ToroDB,0.0,2014-01
+ToroDB,0.0,2014-02
+ToroDB,0.0,2014-03
+ToroDB,0.0,2014-04
+ToroDB,0.0,2014-05
+ToroDB,0.0,2014-06
+ToroDB,0.0,2014-07
+ToroDB,0.0,2014-08
+ToroDB,0.0,2014-09
+ToroDB,0.0,2014-10
+ToroDB,0.0,2014-11
+ToroDB,0.0,2014-12
+ToroDB,0.0,2015-01
+ToroDB,0.0,2015-02
+ToroDB,0.0,2015-03
+ToroDB,0.0,2015-04
+ToroDB,0.0,2015-05
+ToroDB,0.0,2015-06
+ToroDB,0.0,2015-07
+ToroDB,0.0,2015-08
+ToroDB,0.0,2015-09
+ToroDB,0.0,2015-10
+ToroDB,0.0,2015-11
+ToroDB,0.0,2015-12
+ToroDB,0.0,2016-01
+ToroDB,0.0,2016-02
+ToroDB,0.0,2016-03
+ToroDB,0.0,2016-04
+ToroDB,0.0,2016-05
+ToroDB,0.0,2016-06
+ToroDB,0.011000000000000001,2016-07
+ToroDB,0.022000000000000002,2016-08
+ToroDB,0.015,2016-09
+ToroDB,0.005,2016-10
+ToroDB,0.005,2016-11
+ToroDB,0.006,2016-12
+ToroDB,0.042,2017-01
+ToroDB,0.062,2017-02
+ToroDB,0.048,2017-03
+ToroDB,0.08199999999999999,2017-04
+ToroDB,0.10300000000000001,2017-05
+ToroDB,0.105,2017-06
+ToroDB,0.11900000000000001,2017-07
+ToroDB,0.09,2017-08
+ToroDB,0.057,2017-09
+ToroDB,0.017,2017-10
+ToroDB,0.005,2017-11
+ToroDB,0.005,2017-12
+ToroDB,0.005,2018-01
+ToroDB,0.005,2018-02
+ToroDB,0.005,2018-03
+ToroDB,0.005,2018-04
+ToroDB,0.005,2018-05
+ToroDB,0.005,2018-06
+ToroDB,0.005,2018-07
+ToroDB,0.005,2018-08
+ToroDB,0.005,2018-09
+ToroDB,0.005,2018-10
+ToroDB,0.04,2018-11
+ToroDB,0.059000000000000004,2018-12
+ToroDB,0.065,2019-01
+ToroDB,0.061,2019-02
+ToroDB,0.042,2019-03
+ToroDB,0.049,2019-04
+ToroDB,0.059000000000000004,2019-05
+ToroDB,0.063,2019-06
+ToroDB,0.052000000000000005,2019-07
+ToroDB,0.062,2019-08
+ToroDB,0.045,2019-09
+ToroDB,0.055999999999999994,2019-10
+ToroDB,0.048,2019-11
+ToroDB,0.059000000000000004,2019-12
+CortexDB,0.0,2012-11
+CortexDB,0.0,2012-12
+CortexDB,0.0,2013-01
+CortexDB,0.0,2013-02
+CortexDB,0.0,2013-03
+CortexDB,0.0,2013-04
+CortexDB,0.0,2013-05
+CortexDB,0.0,2013-06
+CortexDB,0.0,2013-07
+CortexDB,0.0,2013-08
+CortexDB,0.0,2013-09
+CortexDB,0.0,2013-10
+CortexDB,0.0,2013-11
+CortexDB,0.0,2013-12
+CortexDB,0.0,2014-01
+CortexDB,0.0,2014-02
+CortexDB,0.0,2014-03
+CortexDB,0.0,2014-04
+CortexDB,0.0,2014-05
+CortexDB,0.0,2014-06
+CortexDB,0.0,2014-07
+CortexDB,0.0,2014-08
+CortexDB,0.0,2014-09
+CortexDB,0.0,2014-10
+CortexDB,0.0,2014-11
+CortexDB,0.0,2014-12
+CortexDB,0.0,2015-01
+CortexDB,0.005,2015-02
+CortexDB,0.005,2015-03
+CortexDB,0.005,2015-04
+CortexDB,0.005,2015-05
+CortexDB,0.005,2015-06
+CortexDB,0.005,2015-07
+CortexDB,0.005,2015-08
+CortexDB,0.005,2015-09
+CortexDB,0.005,2015-10
+CortexDB,0.005,2015-11
+CortexDB,0.005,2015-12
+CortexDB,0.005,2016-01
+CortexDB,0.005,2016-02
+CortexDB,0.005,2016-03
+CortexDB,0.005,2016-04
+CortexDB,0.005,2016-05
+CortexDB,0.005,2016-06
+CortexDB,0.005,2016-07
+CortexDB,0.005,2016-08
+CortexDB,0.005,2016-09
+CortexDB,0.005,2016-10
+CortexDB,0.005,2016-11
+CortexDB,0.005,2016-12
+CortexDB,0.005,2017-01
+CortexDB,0.005,2017-02
+CortexDB,0.005,2017-03
+CortexDB,0.005,2017-04
+CortexDB,0.005,2017-05
+CortexDB,0.005,2017-06
+CortexDB,0.005,2017-07
+CortexDB,0.032,2017-08
+CortexDB,0.039,2017-09
+CortexDB,0.057999999999999996,2017-10
+CortexDB,0.013000000000000001,2017-11
+CortexDB,0.005,2017-12
+CortexDB,0.005,2018-01
+CortexDB,0.005,2018-02
+CortexDB,0.005,2018-03
+CortexDB,0.005,2018-04
+CortexDB,0.005,2018-05
+CortexDB,0.005,2018-06
+CortexDB,0.005,2018-07
+CortexDB,0.005,2018-08
+CortexDB,0.005,2018-09
+CortexDB,0.005,2018-10
+CortexDB,0.039,2018-11
+CortexDB,0.04,2018-12
+CortexDB,0.032,2019-01
+CortexDB,0.027999999999999997,2019-02
+CortexDB,0.021,2019-03
+CortexDB,0.025,2019-04
+CortexDB,0.031,2019-05
+CortexDB,0.03,2019-06
+CortexDB,0.05,2019-07
+CortexDB,0.057999999999999996,2019-08
+CortexDB,0.027000000000000003,2019-09
+CortexDB,0.039,2019-10
+CortexDB,0.06,2019-11
+CortexDB,0.057,2019-12
+OrigoDB,0.0,2012-11
+OrigoDB,0.0,2012-12
+OrigoDB,0.0,2013-01
+OrigoDB,0.0,2013-02
+OrigoDB,0.0,2013-03
+OrigoDB,0.0,2013-04
+OrigoDB,0.0,2013-05
+OrigoDB,0.0,2013-06
+OrigoDB,0.0,2013-07
+OrigoDB,0.0,2013-08
+OrigoDB,0.0,2013-09
+OrigoDB,0.0,2013-10
+OrigoDB,0.0,2013-11
+OrigoDB,0.0,2013-12
+OrigoDB,0.0,2014-01
+OrigoDB,0.0,2014-02
+OrigoDB,0.0,2014-03
+OrigoDB,0.0,2014-04
+OrigoDB,0.0,2014-05
+OrigoDB,0.0,2014-06
+OrigoDB,0.0,2014-07
+OrigoDB,0.0,2014-08
+OrigoDB,0.0,2014-09
+OrigoDB,0.0,2014-10
+OrigoDB,0.0,2014-11
+OrigoDB,0.0,2014-12
+OrigoDB,0.0,2015-01
+OrigoDB,0.005,2015-02
+OrigoDB,0.005,2015-03
+OrigoDB,0.005,2015-04
+OrigoDB,0.005,2015-05
+OrigoDB,0.005,2015-06
+OrigoDB,0.005,2015-07
+OrigoDB,0.005,2015-08
+OrigoDB,0.005,2015-09
+OrigoDB,0.005,2015-10
+OrigoDB,0.005,2015-11
+OrigoDB,0.005,2015-12
+OrigoDB,0.005,2016-01
+OrigoDB,0.005,2016-02
+OrigoDB,0.005,2016-03
+OrigoDB,0.005,2016-04
+OrigoDB,0.005,2016-05
+OrigoDB,0.005,2016-06
+OrigoDB,0.005,2016-07
+OrigoDB,0.005,2016-08
+OrigoDB,0.005,2016-09
+OrigoDB,0.005,2016-10
+OrigoDB,0.005,2016-11
+OrigoDB,0.005,2016-12
+OrigoDB,0.005,2017-01
+OrigoDB,0.005,2017-02
+OrigoDB,0.005,2017-03
+OrigoDB,0.005,2017-04
+OrigoDB,0.005,2017-05
+OrigoDB,0.005,2017-06
+OrigoDB,0.005,2017-07
+OrigoDB,0.005,2017-08
+OrigoDB,0.005,2017-09
+OrigoDB,0.005,2017-10
+OrigoDB,0.005,2017-11
+OrigoDB,0.005,2017-12
+OrigoDB,0.005,2018-01
+OrigoDB,0.005,2018-02
+OrigoDB,0.005,2018-03
+OrigoDB,0.005,2018-04
+OrigoDB,0.005,2018-05
+OrigoDB,0.005,2018-06
+OrigoDB,0.005,2018-07
+OrigoDB,0.005,2018-08
+OrigoDB,0.005,2018-09
+OrigoDB,0.005,2018-10
+OrigoDB,0.042,2018-11
+OrigoDB,0.042,2018-12
+OrigoDB,0.005,2019-01
+OrigoDB,0.017,2019-02
+OrigoDB,0.018000000000000002,2019-03
+OrigoDB,0.013000000000000001,2019-04
+OrigoDB,0.022000000000000002,2019-05
+OrigoDB,0.024,2019-06
+OrigoDB,0.034,2019-07
+OrigoDB,0.057999999999999996,2019-08
+OrigoDB,0.043,2019-09
+OrigoDB,0.040999999999999995,2019-10
+OrigoDB,0.040999999999999995,2019-11
+OrigoDB,0.039,2019-12
+iBoxDB,0.0,2012-11
+iBoxDB,0.0,2012-12
+iBoxDB,0.0,2013-01
+iBoxDB,0.0,2013-02
+iBoxDB,0.0,2013-03
+iBoxDB,0.0,2013-04
+iBoxDB,0.0,2013-05
+iBoxDB,0.0,2013-06
+iBoxDB,0.0,2013-07
+iBoxDB,0.0,2013-08
+iBoxDB,0.0,2013-09
+iBoxDB,0.0,2013-10
+iBoxDB,0.0,2013-11
+iBoxDB,0.0,2013-12
+iBoxDB,0.0,2014-01
+iBoxDB,0.0,2014-02
+iBoxDB,0.0,2014-03
+iBoxDB,0.0,2014-04
+iBoxDB,0.0,2014-05
+iBoxDB,0.0,2014-06
+iBoxDB,0.0,2014-07
+iBoxDB,0.0,2014-08
+iBoxDB,0.0,2014-09
+iBoxDB,0.0,2014-10
+iBoxDB,0.0,2014-11
+iBoxDB,0.0,2014-12
+iBoxDB,0.0,2015-01
+iBoxDB,0.0,2015-02
+iBoxDB,0.0,2015-03
+iBoxDB,0.0,2015-04
+iBoxDB,0.0,2015-05
+iBoxDB,0.0,2015-06
+iBoxDB,0.0,2015-07
+iBoxDB,0.0,2015-08
+iBoxDB,0.0,2015-09
+iBoxDB,0.0,2015-10
+iBoxDB,0.0,2015-11
+iBoxDB,0.0,2015-12
+iBoxDB,0.0,2016-01
+iBoxDB,0.0,2016-02
+iBoxDB,0.0,2016-03
+iBoxDB,0.0,2016-04
+iBoxDB,0.0,2016-05
+iBoxDB,0.0,2016-06
+iBoxDB,0.0,2016-07
+iBoxDB,0.0,2016-08
+iBoxDB,0.0,2016-09
+iBoxDB,0.0,2016-10
+iBoxDB,0.0,2016-11
+iBoxDB,0.091,2016-12
+iBoxDB,0.071,2017-01
+iBoxDB,0.039,2017-02
+iBoxDB,0.005,2017-03
+iBoxDB,0.005,2017-04
+iBoxDB,0.02,2017-05
+iBoxDB,0.013999999999999999,2017-06
+iBoxDB,0.022000000000000002,2017-07
+iBoxDB,0.066,2017-08
+iBoxDB,0.092,2017-09
+iBoxDB,0.092,2017-10
+iBoxDB,0.063,2017-11
+iBoxDB,0.025,2017-12
+iBoxDB,0.042,2018-01
+iBoxDB,0.054000000000000006,2018-02
+iBoxDB,0.006999999999999999,2018-03
+iBoxDB,0.008,2018-04
+iBoxDB,0.005,2018-05
+iBoxDB,0.01,2018-06
+iBoxDB,0.022000000000000002,2018-07
+iBoxDB,0.024,2018-08
+iBoxDB,0.011000000000000001,2018-09
+iBoxDB,0.008,2018-10
+iBoxDB,0.049,2018-11
+iBoxDB,0.037000000000000005,2018-12
+iBoxDB,0.031,2019-01
+iBoxDB,0.035,2019-02
+iBoxDB,0.027999999999999997,2019-03
+iBoxDB,0.044000000000000004,2019-04
+iBoxDB,0.027999999999999997,2019-05
+iBoxDB,0.036000000000000004,2019-06
+iBoxDB,0.064,2019-07
+iBoxDB,0.036000000000000004,2019-08
+iBoxDB,0.044000000000000004,2019-09
+iBoxDB,0.027999999999999997,2019-10
+iBoxDB,0.019,2019-11
+iBoxDB,0.03,2019-12
+FinchDB,0.0,2012-11
+FinchDB,0.0,2012-12
+FinchDB,0.0,2013-01
+FinchDB,0.0,2013-02
+FinchDB,0.0,2013-03
+FinchDB,0.0,2013-04
+FinchDB,0.0,2013-05
+FinchDB,0.0,2013-06
+FinchDB,0.0,2013-07
+FinchDB,0.0,2013-08
+FinchDB,0.0,2013-09
+FinchDB,0.0,2013-10
+FinchDB,0.0,2013-11
+FinchDB,0.0,2013-12
+FinchDB,0.0,2014-01
+FinchDB,0.0,2014-02
+FinchDB,0.0,2014-03
+FinchDB,0.0,2014-04
+FinchDB,0.0,2014-05
+FinchDB,0.0,2014-06
+FinchDB,0.0,2014-07
+FinchDB,0.0,2014-08
+FinchDB,0.0,2014-09
+FinchDB,0.0,2014-10
+FinchDB,0.0,2014-11
+FinchDB,0.0,2014-12
+FinchDB,0.0,2015-01
+FinchDB,0.0,2015-02
+FinchDB,0.0,2015-03
+FinchDB,0.0,2015-04
+FinchDB,0.0,2015-05
+FinchDB,0.0,2015-06
+FinchDB,0.0,2015-07
+FinchDB,0.0,2015-08
+FinchDB,0.0,2015-09
+FinchDB,0.0,2015-10
+FinchDB,0.0,2015-11
+FinchDB,0.0,2015-12
+FinchDB,0.0,2016-01
+FinchDB,0.0,2016-02
+FinchDB,0.0,2016-03
+FinchDB,0.0,2016-04
+FinchDB,0.0,2016-05
+FinchDB,0.0,2016-06
+FinchDB,0.0,2016-07
+FinchDB,0.0,2016-08
+FinchDB,0.0,2016-09
+FinchDB,0.0,2016-10
+FinchDB,0.0,2016-11
+FinchDB,0.0,2016-12
+FinchDB,0.0,2017-01
+FinchDB,0.0,2017-02
+FinchDB,0.0,2017-03
+FinchDB,0.0,2017-04
+FinchDB,0.0,2017-05
+FinchDB,0.0,2017-06
+FinchDB,0.0,2017-07
+FinchDB,0.0,2017-08
+FinchDB,0.0,2017-09
+FinchDB,0.0,2017-10
+FinchDB,0.0,2017-11
+FinchDB,0.0,2017-12
+FinchDB,0.0,2018-01
+FinchDB,0.0,2018-02
+FinchDB,0.0,2018-03
+FinchDB,0.0,2018-04
+FinchDB,0.0,2018-05
+FinchDB,0.0,2018-06
+FinchDB,0.0,2018-07
+FinchDB,0.0,2018-08
+FinchDB,0.0,2018-09
+FinchDB,0.0,2018-10
+FinchDB,0.0,2018-11
+FinchDB,0.025,2018-12
+FinchDB,0.025,2019-01
+FinchDB,0.025,2019-02
+FinchDB,0.025,2019-03
+FinchDB,0.025,2019-04
+FinchDB,0.025,2019-05
+FinchDB,0.025,2019-06
+FinchDB,0.017,2019-07
+FinchDB,0.025,2019-08
+FinchDB,0.025,2019-09
+FinchDB,0.025,2019-10
+FinchDB,0.017,2019-11
+FinchDB,0.025,2019-12
+JasDB,0.0,2012-11
+JasDB,0.0,2012-12
+JasDB,0.0,2013-01
+JasDB,0.0,2013-02
+JasDB,0.0,2013-03
+JasDB,0.0,2013-04
+JasDB,0.0,2013-05
+JasDB,0.0,2013-06
+JasDB,0.0,2013-07
+JasDB,0.005,2013-08
+JasDB,0.005,2013-09
+JasDB,0.005,2013-10
+JasDB,0.005,2013-11
+JasDB,0.005,2013-12
+JasDB,0.005,2014-01
+JasDB,0.005,2014-02
+JasDB,0.005,2014-03
+JasDB,0.005,2014-04
+JasDB,0.005,2014-05
+JasDB,0.005,2014-06
+JasDB,0.005,2014-07
+JasDB,0.005,2014-08
+JasDB,0.005,2014-09
+JasDB,0.005,2014-10
+JasDB,0.005,2014-11
+JasDB,0.005,2014-12
+JasDB,0.005,2015-01
+JasDB,0.005,2015-02
+JasDB,0.005,2015-03
+JasDB,0.005,2015-04
+JasDB,0.005,2015-05
+JasDB,0.005,2015-06
+JasDB,0.061,2015-07
+JasDB,0.098,2015-08
+JasDB,0.062,2015-09
+JasDB,0.057999999999999996,2015-10
+JasDB,0.09300000000000001,2015-11
+JasDB,0.11800000000000001,2015-12
+JasDB,0.109,2016-01
+JasDB,0.102,2016-02
+JasDB,0.08199999999999999,2016-03
+JasDB,0.051,2016-04
+JasDB,0.005,2016-05
+JasDB,0.005,2016-06
+JasDB,0.005,2016-07
+JasDB,0.005,2016-08
+JasDB,0.005,2016-09
+JasDB,0.005,2016-10
+JasDB,0.005,2016-11
+JasDB,0.005,2016-12
+JasDB,0.005,2017-01
+JasDB,0.005,2017-02
+JasDB,0.005,2017-03
+JasDB,0.005,2017-04
+JasDB,0.005,2017-05
+JasDB,0.005,2017-06
+JasDB,0.005,2017-07
+JasDB,0.005,2017-08
+JasDB,0.005,2017-09
+JasDB,0.005,2017-10
+JasDB,0.005,2017-11
+JasDB,0.005,2017-12
+JasDB,0.005,2018-01
+JasDB,0.005,2018-02
+JasDB,0.005,2018-03
+JasDB,0.005,2018-04
+JasDB,0.005,2018-05
+JasDB,0.005,2018-06
+JasDB,0.005,2018-07
+JasDB,0.005,2018-08
+JasDB,0.005,2018-09
+JasDB,0.005,2018-10
+JasDB,0.005,2018-11
+JasDB,0.005,2018-12
+JasDB,0.005,2019-01
+JasDB,0.005,2019-02
+JasDB,0.005,2019-03
+JasDB,0.005,2019-04
+JasDB,0.005,2019-05
+JasDB,0.005,2019-06
+JasDB,0.028999999999999998,2019-07
+JasDB,0.031,2019-08
+JasDB,0.027999999999999997,2019-09
+JasDB,0.04,2019-10
+JasDB,0.046,2019-11
+JasDB,0.016,2019-12
+FleetDB,0.0,2012-11
+FleetDB,0.0,2012-12
+FleetDB,0.0,2013-01
+FleetDB,0.0,2013-02
+FleetDB,0.0,2013-03
+FleetDB,0.0,2013-04
+FleetDB,0.0,2013-05
+FleetDB,0.0,2013-06
+FleetDB,0.0,2013-07
+FleetDB,0.0,2013-08
+FleetDB,0.0,2013-09
+FleetDB,0.0,2013-10
+FleetDB,0.0,2013-11
+FleetDB,0.0,2013-12
+FleetDB,0.0,2014-01
+FleetDB,0.0,2014-02
+FleetDB,0.0,2014-03
+FleetDB,0.0,2014-04
+FleetDB,0.0,2014-05
+FleetDB,0.0,2014-06
+FleetDB,0.005,2014-07
+FleetDB,0.005,2014-08
+FleetDB,0.005,2014-09
+FleetDB,0.005,2014-10
+FleetDB,0.005,2014-11
+FleetDB,0.005,2014-12
+FleetDB,0.005,2015-01
+FleetDB,0.005,2015-02
+FleetDB,0.005,2015-03
+FleetDB,0.005,2015-04
+FleetDB,0.005,2015-05
+FleetDB,0.005,2015-06
+FleetDB,0.005,2015-07
+FleetDB,0.005,2015-08
+FleetDB,0.005,2015-09
+FleetDB,0.005,2015-10
+FleetDB,0.005,2015-11
+FleetDB,0.005,2015-12
+FleetDB,0.005,2016-01
+FleetDB,0.005,2016-02
+FleetDB,0.005,2016-03
+FleetDB,0.005,2016-04
+FleetDB,0.005,2016-05
+FleetDB,0.005,2016-06
+FleetDB,0.005,2016-07
+FleetDB,0.005,2016-08
+FleetDB,0.04,2016-09
+FleetDB,0.027000000000000003,2016-10
+FleetDB,0.062,2016-11
+FleetDB,0.005,2016-12
+FleetDB,0.005,2017-01
+FleetDB,0.005,2017-02
+FleetDB,0.005,2017-03
+FleetDB,0.005,2017-04
+FleetDB,0.005,2017-05
+FleetDB,0.005,2017-06
+FleetDB,0.005,2017-07
+FleetDB,0.021,2017-08
+FleetDB,0.005,2017-09
+FleetDB,0.005,2017-10
+FleetDB,0.005,2017-11
+FleetDB,0.005,2017-12
+FleetDB,0.005,2018-01
+FleetDB,0.005,2018-02
+FleetDB,0.005,2018-03
+FleetDB,0.005,2018-04
+FleetDB,0.005,2018-05
+FleetDB,0.005,2018-06
+FleetDB,0.005,2018-07
+FleetDB,0.005,2018-08
+FleetDB,0.051,2018-09
+FleetDB,0.067,2018-10
+FleetDB,0.091,2018-11
+FleetDB,0.062,2018-12
+FleetDB,0.024,2019-01
+FleetDB,0.028999999999999998,2019-02
+FleetDB,0.037000000000000005,2019-03
+FleetDB,0.057,2019-04
+FleetDB,0.032,2019-05
+FleetDB,0.059000000000000004,2019-06
+FleetDB,0.03,2019-07
+FleetDB,0.055,2019-08
+FleetDB,0.037000000000000005,2019-09
+FleetDB,0.06,2019-10
+FleetDB,0.057999999999999996,2019-11
+FleetDB,0.013000000000000001,2019-12
+GlobalsDB,0.0,2012-11
+GlobalsDB,0.0,2012-12
+GlobalsDB,0.0,2013-01
+GlobalsDB,0.0,2013-02
+GlobalsDB,0.0,2013-03
+GlobalsDB,0.0,2013-04
+GlobalsDB,0.0,2013-05
+GlobalsDB,0.0,2013-06
+GlobalsDB,0.0,2013-07
+GlobalsDB,0.0,2013-08
+GlobalsDB,0.0,2013-09
+GlobalsDB,0.0,2013-10
+GlobalsDB,0.0,2013-11
+GlobalsDB,0.0,2013-12
+GlobalsDB,0.0,2014-01
+GlobalsDB,0.0,2014-02
+GlobalsDB,0.0,2014-03
+GlobalsDB,0.0,2014-04
+GlobalsDB,0.0,2014-05
+GlobalsDB,0.0,2014-06
+GlobalsDB,0.0,2014-07
+GlobalsDB,0.0,2014-08
+GlobalsDB,0.0,2014-09
+GlobalsDB,0.0,2014-10
+GlobalsDB,0.0,2014-11
+GlobalsDB,0.0,2014-12
+GlobalsDB,0.0,2015-01
+GlobalsDB,0.005,2015-02
+GlobalsDB,0.005,2015-03
+GlobalsDB,0.005,2015-04
+GlobalsDB,0.005,2015-05
+GlobalsDB,0.005,2015-06
+GlobalsDB,0.005,2015-07
+GlobalsDB,0.005,2015-08
+GlobalsDB,0.005,2015-09
+GlobalsDB,0.005,2015-10
+GlobalsDB,0.005,2015-11
+GlobalsDB,0.005,2015-12
+GlobalsDB,0.005,2016-01
+GlobalsDB,0.05,2016-02
+GlobalsDB,0.005,2016-03
+GlobalsDB,0.005,2016-04
+GlobalsDB,0.005,2016-05
+GlobalsDB,0.005,2016-06
+GlobalsDB,0.005,2016-07
+GlobalsDB,0.062,2016-08
+GlobalsDB,0.099,2016-09
+GlobalsDB,0.126,2016-10
+GlobalsDB,0.153,2016-11
+GlobalsDB,0.17600000000000002,2016-12
+GlobalsDB,0.18100000000000002,2017-01
+GlobalsDB,0.163,2017-02
+GlobalsDB,0.177,2017-03
+GlobalsDB,0.16399999999999998,2017-04
+GlobalsDB,0.15,2017-05
+GlobalsDB,0.127,2017-06
+GlobalsDB,0.1,2017-07
+GlobalsDB,0.06,2017-08
+GlobalsDB,0.042,2017-09
+GlobalsDB,0.077,2017-10
+GlobalsDB,0.106,2017-11
+GlobalsDB,0.096,2017-12
+GlobalsDB,0.073,2018-01
+GlobalsDB,0.061,2018-02
+GlobalsDB,0.062,2018-03
+GlobalsDB,0.062,2018-04
+GlobalsDB,0.057,2018-05
+GlobalsDB,0.06,2018-06
+GlobalsDB,0.07400000000000001,2018-07
+GlobalsDB,0.085,2018-08
+GlobalsDB,0.096,2018-09
+GlobalsDB,0.08900000000000001,2018-10
+GlobalsDB,0.071,2018-11
+GlobalsDB,0.073,2018-12
+GlobalsDB,0.042,2019-01
+GlobalsDB,0.019,2019-02
+GlobalsDB,0.03,2019-03
+GlobalsDB,0.032,2019-04
+GlobalsDB,0.018000000000000002,2019-05
+GlobalsDB,0.005,2019-06
+GlobalsDB,0.005,2019-07
+GlobalsDB,0.013000000000000001,2019-08
+GlobalsDB,0.015,2019-09
+GlobalsDB,0.018000000000000002,2019-10
+GlobalsDB,0.006,2019-11
+GlobalsDB,0.037000000000000005,2019-12
+Sqrrl,0.0,2012-11
+Sqrrl,0.0,2012-12
+Sqrrl,0.0,2013-01
+Sqrrl,0.0,2013-02
+Sqrrl,0.0,2013-03
+Sqrrl,0.0,2013-04
+Sqrrl,0.0,2013-05
+Sqrrl,0.0,2013-06
+Sqrrl,0.0,2013-07
+Sqrrl,0.0,2013-08
+Sqrrl,0.0,2013-09
+Sqrrl,0.0,2013-10
+Sqrrl,0.0,2013-11
+Sqrrl,0.0,2013-12
+Sqrrl,0.0,2014-01
+Sqrrl,0.036000000000000004,2014-02
+Sqrrl,0.05,2014-03
+Sqrrl,0.032,2014-04
+Sqrrl,0.039,2014-05
+Sqrrl,0.025,2014-06
+Sqrrl,0.039,2014-07
+Sqrrl,0.052000000000000005,2014-08
+Sqrrl,0.146,2014-09
+Sqrrl,0.132,2014-10
+Sqrrl,0.175,2014-11
+Sqrrl,0.177,2014-12
+Sqrrl,0.18600000000000003,2015-01
+Sqrrl,0.23,2015-02
+Sqrrl,0.261,2015-03
+Sqrrl,0.263,2015-04
+Sqrrl,0.258,2015-05
+Sqrrl,0.301,2015-06
+Sqrrl,0.391,2015-07
+Sqrrl,0.37799999999999995,2015-08
+Sqrrl,0.41100000000000003,2015-09
+Sqrrl,0.34299999999999997,2015-10
+Sqrrl,0.428,2015-11
+Sqrrl,0.42,2015-12
+Sqrrl,0.32799999999999996,2016-01
+Sqrrl,0.32799999999999996,2016-02
+Sqrrl,0.33399999999999996,2016-03
+Sqrrl,0.32299999999999995,2016-04
+Sqrrl,0.302,2016-05
+Sqrrl,0.306,2016-06
+Sqrrl,0.297,2016-07
+Sqrrl,0.254,2016-08
+Sqrrl,0.264,2016-09
+Sqrrl,0.36200000000000004,2016-10
+Sqrrl,0.261,2016-11
+Sqrrl,0.27699999999999997,2016-12
+Sqrrl,0.272,2017-01
+Sqrrl,0.255,2017-02
+Sqrrl,0.287,2017-03
+Sqrrl,0.32799999999999996,2017-04
+Sqrrl,0.39,2017-05
+Sqrrl,0.465,2017-06
+Sqrrl,0.47200000000000003,2017-07
+Sqrrl,0.49,2017-08
+Sqrrl,0.503,2017-09
+Sqrrl,0.512,2017-10
+Sqrrl,0.503,2017-11
+Sqrrl,0.474,2017-12
+Sqrrl,0.44299999999999995,2018-01
+Sqrrl,0.419,2018-02
+Sqrrl,0.418,2018-03
+Sqrrl,0.466,2018-04
+Sqrrl,0.39299999999999996,2018-05
+Sqrrl,0.332,2018-06
+Sqrrl,0.287,2018-07
+Sqrrl,0.35,2018-08
+Sqrrl,0.34700000000000003,2018-09
+Sqrrl,0.34299999999999997,2018-10
+Sqrrl,0.376,2018-11
+Sqrrl,0.336,2018-12
+Sqrrl,0.32799999999999996,2019-01
+Sqrrl,0.375,2019-02
+Sqrrl,0.442,2019-03
+Sqrrl,0.498,2019-04
+Sqrrl,0.594,2019-05
+Sqrrl,0.6,2019-06
+Sqrrl,0.5870000000000001,2019-07
+Sqrrl,0.5660000000000001,2019-08
+Sqrrl,0.5429999999999999,2019-09
+Sqrrl,0.498,2019-10
+Sqrrl,0.479,2019-11
+Sqrrl,0.489,2019-12
+SisoDb,0.0,2012-11
+SisoDb,0.0,2012-12
+SisoDb,0.0,2013-01
+SisoDb,0.0,2013-02
+SisoDb,0.0,2013-03
+SisoDb,0.0,2013-04
+SisoDb,0.0,2013-05
+SisoDb,0.0,2013-06
+SisoDb,0.0,2013-07
+SisoDb,0.0,2013-08
+SisoDb,0.0,2013-09
+SisoDb,0.0,2013-10
+SisoDb,0.0,2013-11
+SisoDb,0.0,2013-12
+SisoDb,0.0,2014-01
+SisoDb,0.0,2014-02
+SisoDb,0.0,2014-03
+SisoDb,0.005,2014-04
+SisoDb,0.005,2014-05
+SisoDb,0.005,2014-06
+SisoDb,0.005,2014-07
+SisoDb,0.005,2014-08
+SisoDb,0.005,2014-09
+SisoDb,0.005,2014-10
+SisoDb,0.005,2014-11
+SisoDb,0.005,2014-12
+SisoDb,0.005,2015-01
+SisoDb,0.005,2015-02
+SisoDb,0.005,2015-03
+SisoDb,0.005,2015-04
+SisoDb,0.005,2015-05
+SisoDb,0.005,2015-06
+SisoDb,0.005,2015-07
+SisoDb,0.005,2015-08
+SisoDb,0.005,2015-09
+SisoDb,0.005,2015-10
+SisoDb,0.005,2015-11
+SisoDb,0.005,2015-12
+SisoDb,0.005,2016-01
+SisoDb,0.005,2016-02
+SisoDb,0.005,2016-03
+SisoDb,0.005,2016-04
+SisoDb,0.005,2016-05
+SisoDb,0.005,2016-06
+SisoDb,0.005,2016-07
+SisoDb,0.061,2016-08
+SisoDb,0.098,2016-09
+SisoDb,0.126,2016-10
+SisoDb,0.153,2016-11
+SisoDb,0.175,2016-12
+SisoDb,0.17600000000000002,2017-01
+SisoDb,0.17300000000000001,2017-02
+SisoDb,0.161,2017-03
+SisoDb,0.14800000000000002,2017-04
+SisoDb,0.132,2017-05
+SisoDb,0.10400000000000001,2017-06
+SisoDb,0.064,2017-07
+SisoDb,0.059000000000000004,2017-08
+SisoDb,0.051,2017-09
+SisoDb,0.055999999999999994,2017-10
+SisoDb,0.06,2017-11
+SisoDb,0.049,2017-12
+SisoDb,0.047,2018-01
+SisoDb,0.026000000000000002,2018-02
+SisoDb,0.005,2018-03
+SisoDb,0.005,2018-04
+SisoDb,0.005,2018-05
+SisoDb,0.005,2018-06
+SisoDb,0.005,2018-07
+SisoDb,0.005,2018-08
+SisoDb,0.047,2018-09
+SisoDb,0.043,2018-10
+SisoDb,0.036000000000000004,2018-11
+SisoDb,0.069,2018-12
+SisoDb,0.035,2019-01
+SisoDb,0.005,2019-02
+SisoDb,0.005,2019-03
+SisoDb,0.005,2019-04
+SisoDb,0.005,2019-05
+SisoDb,0.005,2019-06
+SisoDb,0.005,2019-07
+SisoDb,0.005,2019-08
+SisoDb,0.005,2019-09
+SisoDb,0.006,2019-10
+SisoDb,0.005,2019-11
+SisoDb,0.04,2019-12
+Clusterpoint,0.0,2012-11
+Clusterpoint,0.0,2012-12
+Clusterpoint,0.0,2013-01
+Clusterpoint,0.0,2013-02
+Clusterpoint,0.0,2013-03
+Clusterpoint,0.0,2013-04
+Clusterpoint,0.0,2013-05
+Clusterpoint,0.0,2013-06
+Clusterpoint,0.0,2013-07
+Clusterpoint,0.0,2013-08
+Clusterpoint,0.0,2013-09
+Clusterpoint,0.0,2013-10
+Clusterpoint,0.0,2013-11
+Clusterpoint,0.0,2013-12
+Clusterpoint,0.0,2014-01
+Clusterpoint,0.0,2014-02
+Clusterpoint,0.0,2014-03
+Clusterpoint,0.0,2014-04
+Clusterpoint,0.0,2014-05
+Clusterpoint,0.0,2014-06
+Clusterpoint,0.0,2014-07
+Clusterpoint,0.0,2014-08
+Clusterpoint,0.0,2014-09
+Clusterpoint,0.0,2014-10
+Clusterpoint,0.005,2014-11
+Clusterpoint,0.005,2014-12
+Clusterpoint,0.005,2015-01
+Clusterpoint,0.005,2015-02
+Clusterpoint,0.005,2015-03
+Clusterpoint,0.005,2015-04
+Clusterpoint,0.005,2015-05
+Clusterpoint,0.005,2015-06
+Clusterpoint,0.005,2015-07
+Clusterpoint,0.005,2015-08
+Clusterpoint,0.005,2015-09
+Clusterpoint,0.005,2015-10
+Clusterpoint,0.005,2015-11
+Clusterpoint,0.005,2015-12
+Clusterpoint,0.005,2016-01
+Clusterpoint,0.006,2016-02
+Clusterpoint,0.059000000000000004,2016-03
+Clusterpoint,0.09300000000000001,2016-04
+Clusterpoint,0.059000000000000004,2016-05
+Clusterpoint,0.051,2016-06
+Clusterpoint,0.008,2016-07
+Clusterpoint,0.023,2016-08
+Clusterpoint,0.063,2016-09
+Clusterpoint,0.068,2016-10
+Clusterpoint,0.086,2016-11
+Clusterpoint,0.11800000000000001,2016-12
+Clusterpoint,0.151,2017-01
+Clusterpoint,0.16899999999999998,2017-02
+Clusterpoint,0.154,2017-03
+Clusterpoint,0.146,2017-04
+Clusterpoint,0.19399999999999998,2017-05
+Clusterpoint,0.23399999999999999,2017-06
+Clusterpoint,0.312,2017-07
+Clusterpoint,0.28800000000000003,2017-08
+Clusterpoint,0.36700000000000005,2017-09
+Clusterpoint,0.382,2017-10
+Clusterpoint,0.315,2017-11
+Clusterpoint,0.302,2017-12
+Clusterpoint,0.326,2018-01
+Clusterpoint,0.302,2018-02
+Clusterpoint,0.287,2018-03
+Clusterpoint,0.262,2018-04
+Clusterpoint,0.23399999999999999,2018-05
+Clusterpoint,0.204,2018-06
+Clusterpoint,0.207,2018-07
+Clusterpoint,0.205,2018-08
+Clusterpoint,0.215,2018-09
+Clusterpoint,0.19699999999999998,2018-10
+Clusterpoint,0.187,2018-11
+Clusterpoint,0.179,2018-12
+Clusterpoint,0.209,2019-01
+Clusterpoint,0.233,2019-02
+Clusterpoint,0.263,2019-03
+Clusterpoint,0.35,2019-04
+Clusterpoint,0.377,2019-05
+Clusterpoint,0.375,2019-06
+Clusterpoint,0.371,2019-07
+Clusterpoint,0.32899999999999996,2019-08
+Clusterpoint,0.294,2019-09
+Clusterpoint,0.252,2019-10
+Clusterpoint,0.22899999999999998,2019-11
+Clusterpoint,0.21100000000000002,2019-12
+Terrastore,0.0,2012-11
+Terrastore,0.0,2012-12
+Terrastore,0.0,2013-01
+Terrastore,0.0,2013-02
+Terrastore,0.0,2013-03
+Terrastore,0.0,2013-04
+Terrastore,0.0,2013-05
+Terrastore,0.0,2013-06
+Terrastore,0.0,2013-07
+Terrastore,0.0,2013-08
+Terrastore,0.0,2013-09
+Terrastore,0.0,2013-10
+Terrastore,0.0,2013-11
+Terrastore,0.0,2013-12
+Terrastore,0.0,2014-01
+Terrastore,0.0,2014-02
+Terrastore,0.0,2014-03
+Terrastore,0.0,2014-04
+Terrastore,0.0,2014-05
+Terrastore,0.0,2014-06
+Terrastore,0.0,2014-07
+Terrastore,0.0,2014-08
+Terrastore,0.0,2014-09
+Terrastore,0.0,2014-10
+Terrastore,0.0,2014-11
+Terrastore,0.0,2014-12
+Terrastore,0.0,2015-01
+Terrastore,0.0,2015-02
+Terrastore,0.0,2015-03
+Terrastore,0.0,2015-04
+Terrastore,0.0,2015-05
+Terrastore,0.0,2015-06
+Terrastore,0.0,2015-07
+Terrastore,0.0,2015-08
+Terrastore,0.0,2015-09
+Terrastore,0.0,2015-10
+Terrastore,0.0,2015-11
+Terrastore,0.0,2015-12
+Terrastore,0.005,2016-01
+Terrastore,0.005,2016-02
+Terrastore,0.005,2016-03
+Terrastore,0.005,2016-04
+Terrastore,0.005,2016-05
+Terrastore,0.005,2016-06
+Terrastore,0.005,2016-07
+Terrastore,0.005,2016-08
+Terrastore,0.005,2016-09
+Terrastore,0.005,2016-10
+Terrastore,0.005,2016-11
+Terrastore,0.005,2016-12
+Terrastore,0.005,2017-01
+Terrastore,0.054000000000000006,2017-02
+Terrastore,0.068,2017-03
+Terrastore,0.065,2017-04
+Terrastore,0.065,2017-05
+Terrastore,0.057,2017-06
+Terrastore,0.059000000000000004,2017-07
+Terrastore,0.061,2017-08
+Terrastore,0.059000000000000004,2017-09
+Terrastore,0.071,2017-10
+Terrastore,0.068,2017-11
+Terrastore,0.075,2017-12
+Terrastore,0.08,2018-01
+Terrastore,0.083,2018-02
+Terrastore,0.095,2018-03
+Terrastore,0.094,2018-04
+Terrastore,0.099,2018-05
+Terrastore,0.092,2018-06
+Terrastore,0.085,2018-07
+Terrastore,0.115,2018-08
+Terrastore,0.14,2018-09
+Terrastore,0.15,2018-10
+Terrastore,0.155,2018-11
+Terrastore,0.17,2018-12
+Terrastore,0.154,2019-01
+Terrastore,0.141,2019-02
+Terrastore,0.135,2019-03
+Terrastore,0.13699999999999998,2019-04
+Terrastore,0.158,2019-05
+Terrastore,0.159,2019-06
+Terrastore,0.13699999999999998,2019-07
+Terrastore,0.113,2019-08
+Terrastore,0.085,2019-09
+Terrastore,0.094,2019-10
+Terrastore,0.08900000000000001,2019-11
+Terrastore,0.078,2019-12
+Precog,0.0,2012-11
+Precog,0.0,2012-12
+Precog,0.0,2013-01
+Precog,0.0,2013-02
+Precog,0.0,2013-03
+Precog,0.0,2013-04
+Precog,0.0,2013-05
+Precog,0.0,2013-06
+Precog,0.0,2013-07
+Precog,0.0,2013-08
+Precog,0.0,2013-09
+Precog,0.0,2013-10
+Precog,0.0,2013-11
+Precog,0.0,2013-12
+Precog,0.0,2014-01
+Precog,0.0,2014-02
+Precog,0.0,2014-03
+Precog,0.0,2014-04
+Precog,0.0,2014-05
+Precog,0.0,2014-06
+Precog,0.0,2014-07
+Precog,0.0,2014-08
+Precog,0.0,2014-09
+Precog,0.0,2014-10
+Precog,0.0,2014-11
+Precog,0.0,2014-12
+Precog,0.0,2015-01
+Precog,0.0,2015-02
+Precog,0.0,2015-03
+Precog,0.0,2015-04
+Precog,0.0,2015-05
+Precog,0.0,2015-06
+Precog,0.0,2015-07
+Precog,0.0,2015-08
+Precog,0.0,2015-09
+Precog,0.0,2015-10
+Precog,0.0,2015-11
+Precog,0.0,2015-12
+Precog,0.0,2016-01
+Precog,0.0,2016-02
+Precog,0.0,2016-03
+Precog,0.0,2016-04
+Precog,0.0,2016-05
+Precog,0.0,2016-06
+Precog,0.0,2016-07
+Precog,0.0,2016-08
+Precog,0.0,2016-09
+Precog,0.0,2016-10
+Precog,0.0,2016-11
+Precog,0.0,2016-12
+Precog,0.0,2017-01
+Precog,0.0,2017-02
+Precog,0.0,2017-03
+Precog,0.0,2017-04
+Precog,0.0,2017-05
+Precog,0.0,2017-06
+Precog,0.0,2017-07
+Precog,0.0,2017-08
+Precog,0.0,2017-09
+Precog,0.0,2017-10
+Precog,0.0,2017-11
+Precog,0.0,2017-12
+Precog,0.0,2018-01
+Precog,0.0,2018-02
+Precog,0.0,2018-03
+Precog,0.0,2018-04
+Precog,0.0,2018-05
+Precog,0.0,2018-06
+Precog,0.0,2018-07
+Precog,0.0,2018-08
+Precog,0.0,2018-09
+Precog,0.0,2018-10
+Precog,0.0,2018-11
+Precog,0.0,2018-12
+Precog,0.0,2019-01
+Precog,0.0,2019-02
+Precog,0.0,2019-03
+Precog,0.0,2019-04
+Precog,0.0,2019-05
+Precog,0.0,2019-06
+Precog,0.084,2019-07
+Precog,0.13699999999999998,2019-08
+Precog,0.13699999999999998,2019-09
+Precog,0.13,2019-10
+Precog,0.125,2019-11
+Precog,0.11900000000000001,2019-12
+TokuMX,0.0,2012-11
+TokuMX,0.0,2012-12
+TokuMX,0.0,2013-01
+TokuMX,0.0,2013-02
+TokuMX,0.0,2013-03
+TokuMX,0.0,2013-04
+TokuMX,0.0,2013-05
+TokuMX,0.0,2013-06
+TokuMX,0.0,2013-07
+TokuMX,0.0,2013-08
+TokuMX,0.0,2013-09
+TokuMX,0.0,2013-10
+TokuMX,0.0,2013-11
+TokuMX,0.0,2013-12
+TokuMX,0.0,2014-01
+TokuMX,0.0,2014-02
+TokuMX,0.0,2014-03
+TokuMX,0.0,2014-04
+TokuMX,0.0,2014-05
+TokuMX,0.0,2014-06
+TokuMX,0.0,2014-07
+TokuMX,0.0,2014-08
+TokuMX,0.0,2014-09
+TokuMX,0.0,2014-10
+TokuMX,0.0,2014-11
+TokuMX,0.0,2014-12
+TokuMX,0.0,2015-01
+TokuMX,0.0,2015-02
+TokuMX,0.0,2015-03
+TokuMX,0.0,2015-04
+TokuMX,0.0,2015-05
+TokuMX,0.0,2015-06
+TokuMX,0.0,2015-07
+TokuMX,0.0,2015-08
+TokuMX,0.0,2015-09
+TokuMX,0.0,2015-10
+TokuMX,0.0,2015-11
+TokuMX,0.0,2015-12
+TokuMX,0.0,2016-01
+TokuMX,0.0,2016-02
+TokuMX,0.0,2016-03
+TokuMX,0.0,2016-04
+TokuMX,0.0,2016-05
+TokuMX,0.0,2016-06
+TokuMX,0.0,2016-07
+TokuMX,0.0,2016-08
+TokuMX,0.0,2016-09
+TokuMX,0.0,2016-10
+TokuMX,0.005,2016-11
+TokuMX,0.005,2016-12
+TokuMX,0.005,2017-01
+TokuMX,0.005,2017-02
+TokuMX,0.005,2017-03
+TokuMX,0.026000000000000002,2017-04
+TokuMX,0.215,2017-05
+TokuMX,0.168,2017-06
+TokuMX,0.158,2017-07
+TokuMX,0.264,2017-08
+TokuMX,0.278,2017-09
+TokuMX,0.322,2017-10
+TokuMX,0.33399999999999996,2017-11
+TokuMX,0.26,2017-12
+TokuMX,0.294,2018-01
+TokuMX,0.315,2018-02
+TokuMX,0.386,2018-03
+TokuMX,0.45799999999999996,2018-04
+TokuMX,0.508,2018-05
+TokuMX,0.475,2018-06
+TokuMX,0.46799999999999997,2018-07
+TokuMX,0.531,2018-08
+TokuMX,0.52,2018-09
+TokuMX,0.532,2018-10
+TokuMX,0.509,2018-11
+TokuMX,0.474,2018-12
+TokuMX,0.41100000000000003,2019-01
+TokuMX,0.373,2019-02
+TokuMX,0.353,2019-03
+TokuMX,0.37799999999999995,2019-04
+TokuMX,0.363,2019-05
+TokuMX,0.354,2019-06
+TokuMX,0.36200000000000004,2019-07
+TokuMX,0.38299999999999995,2019-08
+TokuMX,0.36200000000000004,2019-09
+TokuMX,0.33899999999999997,2019-10
+TokuMX,0.455,2019-11
+TokuMX,0.442,2019-12
+Djondb,0.0,2012-11
+Djondb,0.005,2012-12
+Djondb,0.005,2013-01
+Djondb,0.005,2013-02
+Djondb,0.005,2013-03
+Djondb,0.005,2013-04
+Djondb,0.005,2013-05
+Djondb,0.005,2013-06
+Djondb,0.005,2013-07
+Djondb,0.005,2013-08
+Djondb,0.005,2013-09
+Djondb,0.005,2013-10
+Djondb,0.005,2013-11
+Djondb,0.005,2013-12
+Djondb,0.005,2014-01
+Djondb,0.005,2014-02
+Djondb,0.005,2014-03
+Djondb,0.005,2014-04
+Djondb,0.005,2014-05
+Djondb,0.005,2014-06
+Djondb,0.005,2014-07
+Djondb,0.005,2014-08
+Djondb,0.005,2014-09
+Djondb,0.005,2014-10
+Djondb,0.005,2014-11
+Djondb,0.005,2014-12
+Djondb,0.005,2015-01
+Djondb,0.005,2015-02
+Djondb,0.005,2015-03
+Djondb,0.005,2015-04
+Djondb,0.005,2015-05
+Djondb,0.005,2015-06
+Djondb,0.005,2015-07
+Djondb,0.005,2015-08
+Djondb,0.005,2015-09
+Djondb,0.005,2015-10
+Djondb,0.005,2015-11
+Djondb,0.005,2015-12
+Djondb,0.005,2016-01
+Djondb,0.005,2016-02
+Djondb,0.005,2016-03
+Djondb,0.005,2016-04
+Djondb,0.005,2016-05
+Djondb,0.005,2016-06
+Djondb,0.005,2016-07
+Djondb,0.005,2016-08
+Djondb,0.005,2016-09
+Djondb,0.005,2016-10
+Djondb,0.005,2016-11
+Djondb,0.005,2016-12
+Djondb,0.005,2017-01
+Djondb,0.005,2017-02
+Djondb,0.005,2017-03
+Djondb,0.005,2017-04
+Djondb,0.005,2017-05
+Djondb,0.005,2017-06
+Djondb,0.005,2017-07
+Djondb,0.005,2017-08
+Djondb,0.005,2017-09
+Djondb,0.046,2017-10
+Djondb,0.032,2017-11
+Djondb,0.005,2017-12
+Djondb,0.005,2018-01
+Djondb,0.005,2018-02
+Djondb,0.005,2018-03
+Djondb,0.005,2018-04
+Djondb,0.005,2018-05
+Djondb,0.005,2018-06
+Djondb,0.005,2018-07
+Djondb,0.005,2018-08
+Djondb,0.005,2018-09
+Djondb,0.005,2018-10
+Djondb,0.005,2018-11
+Djondb,0.023,2018-12
+Djondb,0.009000000000000001,2019-01
+Djondb,0.005,2019-02
+Djondb,0.006999999999999999,2019-03
+Djondb,0.005,2019-04
+Djondb,0.005,2019-05
+Djondb,0.005,2019-06
+Djondb,0.005,2019-07
+Djondb,0.039,2019-08
+Djondb,0.048,2019-09
+Djondb,0.052000000000000005,2019-10
+Djondb,0.055999999999999994,2019-11
+Djondb,0.055999999999999994,2019-12

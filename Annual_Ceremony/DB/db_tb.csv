@@ -1,0 +1,351 @@
+,0,1,2,3,4,5,6,7
+3,1.,1.,1.,Oracle,"Relational, Multi-model Relational DBMS,Document store,Graph DBMS,RDF store",1346.39,+10.33,+63.17
+4,2.,2.,2.,MySQL,"Relational, Multi-model Relational DBMS,Document store",1275.67,+9.38,+114.42
+5,3.,3.,3.,Microsoft SQL Server,"Relational, Multi-model Relational DBMS,Document store,Graph DBMS",1096.20,+14.29,+55.86
+6,4.,4.,4.,PostgreSQL,"Relational, Multi-model Relational DBMS,Document store",503.37,+12.30,+42.74
+7,5.,5.,5.,MongoDB,"Document, Multi-model Document store,Search engine",421.12,+7.94,+42.50
+8,6.,6.,6.,IBM Db2,"Relational, Multi-model Relational DBMS,Document store,RDF store",171.35,-1.25,-9.40
+9,7.,7.,8.,Elasticsearch,"Search engine, Multi-model Search engine,Document store",150.25,+1.85,+5.55
+10,8.,8.,7.,Redis,"Key-value, Multi-model Key-value store,Document store,Graph DBMS,Search engine,Time Series DBMS",146.23,+1.00,-0.59
+11,9.,9.,9.,Microsoft Access,Relational,129.47,-0.60,-10.04
+12,10.,10.,11.,Cassandra,Wide column,120.71,-2.52,-1.10
+13,11.,11.,10.,SQLite,Relational,120.36,-0.66,-2.65
+14,12.,12.,12.,Splunk,Search engine,90.53,+1.46,+8.34
+15,13.,13.,14.,MariaDB,"Relational, Multi-model Relational DBMS,Document store,Graph DBMS",86.79,+1.22,+9.53
+16,14.,14.,15.,Hive,Relational,86.05,+1.83,+18.67
+17,15.,15.,13.,Teradata,"Relational, Multi-model Relational DBMS,Document store,Graph DBMS,Time Series DBMS",78.49,-1.86,-0.67
+18,16.,16.,21.,Amazon DynamoDB,"Multi-model Document store,Key-value store",61.63,+0.26,+7.33
+19,17.,17.,16.,Solr,Search engine,57.22,-0.56,-4.13
+20,18.,19.,20.,SAP Adaptive Server,Relational,55.55,+0.25,-0.27
+21,19.,18.,18.,FileMaker,Relational,55.14,-0.60,-1.51
+22,20.,20.,19.,SAP HANA,"Relational, Multi-model Relational DBMS,Document store,Graph DBMS",54.17,-0.94,-2.14
+23,21.,21.,17.,HBase,Wide column,53.46,-0.38,-6.55
+24,22.,22.,22.,Neo4j,Graph,50.56,+0.03,+5.00
+25,23.,23.,23.,Couchbase,"Document, Multi-model Document store,Key-value store",31.49,-0.49,-4.10
+26,24.,24.,27.,Microsoft Azure Cosmos DB,"Multi-model Document store,Graph DBMS,Key-value store,Wide column store",31.43,-0.54,+8.06
+27,25.,25.,25.,Microsoft Azure SQL Database,"Relational, Multi-model Relational DBMS,Document store,Graph DBMS",27.89,+0.27,+0.86
+28,26.,26.,26.,Informix,"Relational, Multi-model Relational DBMS,Document store,Time Series DBMS",25.51,-0.67,-1.42
+29,27.,27.,33.,Google BigQuery,Relational,25.50,+0.06,+7.35
+30,28.,28.,24.,Memcached,Key-value,24.46,-0.66,-5.15
+31,29.,30.,29.,Firebird,Relational,22.44,+0.35,+2.39
+32,30.,29.,28.,Vertica,"Relational, Multi-model Relational DBMS,Document store",22.17,-0.38,+0.79
+33,31.,31.,30.,Amazon Redshift,Relational,21.39,-0.39,+1.39
+34,32.,33.,36.,InfluxDB,Time Series,20.33,+0.39,+5.62
+35,33.,32.,31.,Netezza,Relational,19.59,-0.38,+0.18
+36,34.,34.,32.,CouchDB,Document,18.12,-0.27,-1.07
+37,35.,35.,34.,Spark SQL,Relational,16.70,+0.56,+0.32
+38,36.,36.,35.,Impala,"Relational, Multi-model Relational DBMS,Document store",15.98,+0.91,+1.17
+39,37.,37.,40.,dBASE,Relational,14.38,-0.28,+3.40
+40,38.,38.,37.,MarkLogic,"Multi-model Document store,Native XML DBMS,RDF store,Search engine",12.47,-0.36,-1.81
+41,39.,39.,38.,Greenplum,"Relational, Multi-model Relational DBMS,Document store",12.11,+0.13,+0.09
+42,40.,40.,41.,Firebase Realtime Database,Document,11.81,+0.22,+2.05
+43,41.,41.,39.,Oracle Essbase,Relational,10.62,-0.20,-1.04
+44,42.,42.,44.,Microsoft Azure SQL Data Warehouse,Relational,9.21,-0.23,+0.86
+45,43.,43.,43.,Datastax Enterprise,"Wide column, Multi-model Wide column store,Document store,Graph DBMS",8.82,-0.52,-0.01
+46,44.,44.,87.,Presto,Relational,8.77,+0.43,+6.18
+47,45.,45.,50.,Realm,Document,8.27,+0.29,+2.06
+48,46.,46.,42.,Hazelcast,"Key-value, Multi-model Key-value store,Document store",8.03,+0.21,-0.95
+49,47.,47.,53.,Amazon Aurora,"Relational, Multi-model Relational DBMS,Document store",7.87,+0.12,+1.95
+50,48.,48.,,etcd,Key-value,7.15,0.00,
+51,49.,50.,54.,H2,Relational,7.08,+0.24,+1.19
+52,50.,49.,45.,Sphinx,Search engine,6.63,-0.42,-1.19
+53,51.,52.,48.,Interbase,Relational,6.34,-0.19,+0.02
+54,52.,51.,55.,Microsoft Azure Search,Search engine,6.29,-0.32,+0.61
+55,53.,53.,49.,Aerospike,Key-value,6.21,+0.02,0.00
+56,54.,54.,47.,Ehcache,Key-value,6.14,-0.01,-0.56
+57,55.,55.,52.,Ingres,Relational,5.80,-0.03,-0.22
+58,56.,56.,73.,Google Cloud Firestore,Document,5.68,-0.12,+2.23
+59,57.,57.,46.,Riak KV,Key-value,5.51,-0.16,-1.25
+60,58.,60.,57.,Kdb+,"Time Series, Multi-model Time Series DBMS,Relational DBMS",5.48,+0.19,+0.57
+61,59.,58.,56.,SAP SQL Anywhere,Relational,5.40,-0.04,+0.48
+62,60.,63.,65.,SAP IQ,Relational,5.00,-0.03,+0.90
+63,61.,62.,58.,Derby,Relational,4.99,-0.08,+0.13
+64,62.,68.,61.,Ignite,"Multi-model Key-value store,Relational DBMS",4.94,+0.29,+0.22
+65,63.,59.,51.,OrientDB,"Multi-model Document store,Graph DBMS,Key-value store",4.93,-0.46,-1.15
+66,64.,64.,63.,ArangoDB,"Multi-model Document store,Graph DBMS,Key-value store,Search engine",4.87,-0.14,+0.60
+67,65.,67.,59.,HyperSQL,Relational,4.85,-0.04,+0.01
+68,66.,65.,68.,Microsoft Azure Table Storage,Wide column,4.79,-0.21,+0.81
+69,67.,66.,72.,Algolia,Search engine,4.68,-0.21,+1.06
+70,68.,61.,64.,Google Cloud Datastore,Document,4.64,-0.57,+0.48
+71,69.,70.,62.,Jackrabbit,Content,4.46,+0.10,-0.03
+72,70.,69.,69.,Adabas,Multivalue,4.34,-0.08,+0.58
+73,71.,71.,71.,MemSQL,"Relational, Multi-model Relational DBMS,Document store",4.09,+0.03,+0.37
+74,72.,72.,67.,Accumulo,Wide column,3.98,+0.04,-0.04
+75,73.,78.,103.,Prometheus,Time Series,3.94,+0.30,+1.81
+76,74.,76.,76.,MaxDB,Relational,3.73,-0.05,+0.46
+77,75.,74.,75.,OpenEdge,Relational,3.66,-0.14,+0.30
+78,76.,77.,60.,RethinkDB,Document,3.57,-0.18,-1.18
+79,77.,73.,66.,RavenDB,Document,3.51,-0.37,-0.57
+80,78.,75.,70.,Cloudant,Document,3.50,-0.30,-0.24
+81,79.,84.,105.,CockroachDB,Relational,3.44,+0.17,+1.46
+82,80.,79.,78.,Oracle NoSQL,"Key-value, Multi-model Key-value store,Relational DBMS",3.39,-0.18,+0.23
+83,81.,82.,106.,ClickHouse,Relational,3.38,+0.05,+1.46
+84,82.,83.,82.,Graphite,Time Series,3.35,+0.03,+0.57
+85,83.,80.,74.,"UniData,UniVerse",Multivalue,3.32,-0.11,-0.05
+86,84.,81.,79.,InterSystems Caché,"Multi-model Key-value store,Object oriented DBMS,Relational DBMS,Document store",3.29,-0.13,+0.25
+87,85.,85.,86.,Amazon CloudSearch,Search engine,3.21,+0.04,+0.57
+88,86.,86.,95.,SAP Advantage Database Server,Relational,3.16,+0.07,+0.79
+89,87.,87.,109.,EXASOL,Relational,2.83,-0.18,+0.98
+90,88.,90.,80.,Oracle Berkeley DB,"Multi-model Key-value store,Native XML DBMS",2.81,-0.10,-0.13
+91,89.,88.,88.,LevelDB,Key-value,2.81,-0.14,+0.30
+92,90.,94.,81.,Google Search Appliance,Search engine,2.81,+0.03,-0.12
+93,91.,89.,85.,PouchDB,Document,2.79,-0.14,+0.10
+94,92.,93.,98.,4D,Relational,2.75,-0.09,+0.50
+95,93.,91.,84.,RRDtool,Time Series,2.74,-0.17,+0.03
+96,94.,92.,77.,Apache Drill,"Multi-model Document store,Relational DBMS",2.66,-0.23,-0.59
+97,95.,97.,90.,Virtuoso,"Multi-model Graph DBMS,Native XML DBMS,Relational DBMS,RDF store,Search engine,Document store",2.64,+0.00,+0.16
+98,96.,98.,104.,Apache Jena - TDB,RDF,2.63,+0.06,+0.57
+99,97.,95.,89.,Infinispan,Key-value,2.57,-0.12,+0.07
+100,98.,99.,97.,EnterpriseDB,"Relational, Multi-model Relational DBMS,Document store",2.43,-0.14,+0.15
+101,99.,103.,107.,RocksDB,Key-value,2.42,-0.10,+0.51
+102,100.,96.,94.,Amazon SimpleDB,Key-value,2.41,-0.23,+0.02
+103,101.,102.,102.,IMS,Navigational,2.40,-0.16,+0.24
+104,102.,100.,92.,Percona Server for MySQL,Relational,2.39,-0.18,-0.07
+105,103.,106.,100.,CloudKit,Document,2.38,+0.03,+0.17
+106,104.,105.,93.,OmniSci,Relational,2.30,-0.07,-0.12
+107,105.,104.,91.,Oracle Coherence,Key-value,2.24,-0.23,-0.21
+108,106.,101.,99.,Snowflake,Relational,2.18,-0.39,-0.05
+109,107.,113.,,Microsoft Azure Data Explorer,Relational,2.12,+0.13,
+110,108.,111.,114.,Google Cloud Bigtable,Wide column,2.11,-0.06,+0.52
+111,109.,107.,83.,TimesTen,Relational,2.10,-0.16,-0.67
+112,110.,110.,130.,ScyllaDB,Wide column,2.02,-0.16,+0.81
+113,111.,109.,101.,Datomic,Relational,2.02,-0.17,-0.16
+114,112.,108.,110.,Google Cloud Spanner,Relational,2.02,-0.20,+0.24
+115,113.,112.,96.,OpenTSDB,Time Series,1.98,-0.15,-0.37
+116,114.,114.,112.,IBM Db2 warehouse,Relational,1.85,-0.13,+0.16
+117,115.,117.,122.,Druid,"Multi-model Relational DBMS,Time Series DBMS",1.83,+0.04,+0.49
+118,116.,118.,115.,Versant Object Database,Object oriented,1.83,+0.04,+0.32
+119,117.,122.,163.,TimescaleDB,"Time Series, Multi-model Time Series DBMS,Relational DBMS",1.79,+0.06,+1.12
+120,118.,116.,127.,JanusGraph,Graph,1.75,-0.05,+0.49
+121,119.,115.,111.,MonetDB,"Relational, Multi-model Relational DBMS,Document store",1.74,-0.17,+0.03
+122,120.,121.,116.,jBASE,Multivalue,1.69,-0.07,+0.18
+123,121.,124.,118.,Red Brick,Relational,1.61,-0.05,+0.13
+124,122.,120.,120.,Geode,Key-value,1.61,-0.16,+0.17
+125,123.,126.,126.,TiDB,"Relational, Multi-model Relational DBMS,Document store",1.60,-0.03,+0.32
+126,124.,123.,113.,GridGain,"Multi-model Key-value store,Relational DBMS",1.60,-0.12,-0.06
+127,125.,127.,129.,Amazon Neptune,"Multi-model Graph DBMS,RDF store",1.57,-0.03,+0.35
+128,126.,119.,108.,VoltDB,Relational,1.55,-0.23,-0.33
+129,127.,125.,121.,Tibero,Relational,1.54,-0.12,+0.11
+130,128.,131.,117.,mSQL,Relational,1.42,-0.02,-0.06
+131,129.,133.,132.,Empress,Relational,1.40,+0.06,+0.22
+132,130.,128.,123.,ObjectStore,Object oriented,1.39,-0.15,+0.05
+133,131.,134.,128.,Db4o,Object oriented,1.38,+0.05,+0.14
+134,132.,129.,124.,Mnesia,Document,1.37,-0.14,+0.04
+135,133.,135.,167.,D3,Multivalue,1.37,+0.10,+0.73
+136,134.,130.,125.,BaseX,Native XML,1.31,-0.16,+0.03
+137,135.,132.,137.,SQLBase,Relational,1.31,-0.11,+0.34
+138,136.,136.,119.,Datameer,Document,1.23,-0.03,-0.22
+139,137.,140.,135.,Matisse,Object oriented,1.21,+0.07,+0.16
+140,138.,141.,159.,GraphDB,"Multi-model Graph DBMS,RDF store",1.15,+0.01,+0.43
+141,139.,137.,131.,Cubrid,Relational,1.09,-0.11,-0.11
+142,140.,138.,142.,HFSQL,Relational,1.08,-0.10,+0.19
+143,141.,144.,140.,Infobright,Relational,1.04,-0.01,+0.13
+144,142.,150.,136.,Giraph,Graph,1.04,+0.03,+0.04
+145,143.,152.,138.,IDMS,Navigational,1.03,+0.05,+0.08
+146,144.,149.,160.,LiteDB,Document,1.03,+0.02,+0.32
+147,145.,153.,155.,Model 204,Multivalue,1.02,+0.04,+0.23
+148,146.,155.,157.,Sedna,Native XML,1.02,+0.05,+0.28
+149,147.,139.,134.,Altibase,Relational,1.02,-0.15,-0.10
+150,148.,142.,152.,Tarantool,Key-value,1.01,-0.12,+0.21
+151,149.,156.,175.,Citus,"Relational, Multi-model Relational DBMS,Document store",1.01,+0.05,+0.44
+152,150.,151.,144.,Oracle Rdb,Relational,1.00,+0.01,+0.13
+153,151.,154.,156.,DataEase,Relational,0.99,+0.01,+0.21
+154,152.,159.,192.,InterSystems IRIS,"Multi-model Document store,Key-value store,Object oriented DBMS,Relational DBMS",0.99,+0.06,+0.55
+155,153.,157.,148.,NonStop SQL,Relational,0.98,+0.02,+0.15
+156,154.,148.,185.,TigerGraph,Graph,0.96,-0.05,+0.49
+157,155.,158.,145.,GT.M,Key-value,0.95,+0.00,+0.10
+158,156.,146.,172.,Dgraph,Graph,0.95,-0.09,+0.37
+159,157.,160.,151.,NuoDB,Relational,0.93,+0.01,+0.13
+160,158.,143.,139.,WiredTiger,Key-value,0.93,-0.13,-0.01
+161,159.,145.,147.,NCache,Key-value,0.91,-0.14,+0.07
+162,160.,161.,150.,HAWQ,Relational,0.91,+0.02,+0.10
+163,161.,147.,133.,1010data,Relational,0.88,-0.13,-0.26
+164,162.,162.,141.,AllegroGraph,"Multi-model Document store,Graph DBMS,RDF store",0.87,+0.00,-0.04
+165,163.,163.,164.,ZODB,Key-value,0.85,-0.02,+0.18
+166,164.,172.,143.,XAP,"Multi-model Document store,Key-value store,Object oriented DBMS",0.84,+0.09,-0.04
+167,165.,169.,154.,R:BASE,Relational,0.80,+0.03,+0.01
+168,166.,165.,146.,FoundationDB,"Multi-model Document store,Key-value store,Relational DBMS",0.79,-0.07,-0.05
+169,167.,170.,178.,Stardog,"Multi-model Graph DBMS,RDF store",0.78,+0.02,+0.25
+170,168.,168.,161.,Kognitio,Relational,0.78,+0.00,+0.08
+171,169.,167.,169.,DBISAM,Relational,0.77,-0.02,+0.16
+172,170.,179.,174.,GemStone/S,Object oriented,0.77,+0.06,+0.20
+173,171.,173.,171.,Xapian,Search engine,0.75,+0.01,+0.16
+174,172.,171.,170.,Objectivity/DB,Object oriented,0.74,-0.02,+0.14
+175,173.,166.,166.,Actian Vector,Relational,0.74,-0.05,+0.10
+176,174.,177.,168.,solidDB,Relational,0.74,+0.01,+0.11
+177,175.,181.,177.,FrontBase,Relational,0.73,+0.03,+0.19
+178,176.,174.,158.,ScaleArc,Relational,0.72,-0.01,-0.02
+179,177.,180.,176.,Clustrix,Relational,0.72,+0.01,+0.17
+180,178.,175.,165.,Datacom/DB,Relational,0.72,-0.01,+0.07
+181,179.,183.,180.,WebSphere eXtreme Scale,Key-value,0.70,+0.02,+0.17
+182,180.,191.,230.,FaunaDB,"Multi-model Document store,Graph DBMS,Relational DBMS,Time Series DBMS",0.69,+0.08,+0.46
+183,181.,185.,183.,Event Store,Event,0.68,+0.00,+0.19
+184,182.,184.,149.,BigchainDB,Document,0.67,-0.01,-0.15
+185,183.,182.,,Amazon DocumentDB,Document,0.65,-0.04,
+186,184.,195.,196.,Northgate Reality,Multivalue,0.65,+0.07,+0.24
+187,185.,190.,173.,MapR-DB,"Multi-model Document store,Wide column store",0.65,+0.03,+0.08
+188,186.,187.,162.,eXist-db,Native XML,0.64,+0.00,-0.04
+189,187.,176.,226.,YugaByte DB,"Relational, Multi-model Relational DBMS,Document store,Wide column store",0.64,-0.09,+0.39
+190,188.,194.,189.,Tokyo Cabinet,Key-value,0.64,+0.06,+0.20
+191,189.,189.,179.,SciDB,Multivalue,0.63,+0.00,+0.10
+192,190.,193.,197.,Blazegraph,"Multi-model Graph DBMS,RDF store",0.62,+0.04,+0.23
+193,191.,192.,191.,CrateDB,"Multi-model Relational DBMS,Search engine,Document store",0.61,+0.02,+0.17
+194,192.,178.,153.,Splice Machine,Relational,0.61,-0.10,-0.19
+195,193.,199.,201.,Kinetica,Relational,0.60,+0.04,+0.23
+196,194.,196.,182.,OpenBase,Relational,0.60,+0.03,+0.11
+197,195.,201.,188.,NexusDB,Relational,0.60,+0.05,+0.15
+198,196.,188.,218.,SQL.JS,Relational,0.59,-0.04,+0.30
+199,197.,198.,181.,Graph Engine,"Multi-model Graph DBMS,Key-value store",0.58,+0.01,+0.08
+200,198.,206.,184.,OpenInsight,Multivalue,0.57,+0.06,+0.09
+201,199.,204.,223.,Redland,RDF,0.56,+0.03,+0.29
+202,200.,197.,240.,GridDB,"Time Series, Multi-model Time Series DBMS,Key-value store,Relational DBMS",0.56,-0.01,+0.36
+203,201.,202.,186.,KairosDB,Time Series,0.56,+0.02,+0.10
+204,202.,205.,194.,ObjectDB,Object oriented,0.55,+0.03,+0.12
+205,203.,186.,207.,Perst,Object oriented,0.54,-0.13,+0.20
+206,204.,208.,187.,VistaDB,Relational,0.52,+0.01,+0.06
+207,205.,203.,193.,Percona Server for MongoDB,Document,0.52,-0.01,+0.09
+208,206.,207.,232.,c-treeACE,"Multi-model Key-value store,Relational DBMS",0.52,+0.00,+0.29
+209,207.,210.,204.,Jade,Object oriented,0.50,+0.03,+0.15
+210,208.,200.,214.,BoltDB,Key-value,0.48,-0.08,+0.17
+211,209.,211.,200.,MapDB,Key-value,0.47,+0.01,+0.09
+212,210.,217.,199.,Postgres-XL,"Relational, Multi-model Relational DBMS,Document store",0.46,+0.04,+0.09
+213,211.,214.,217.,SQream DB,Relational,0.46,+0.03,+0.16
+214,212.,212.,206.,Rasdaman,Multivalue,0.45,-0.01,+0.11
+215,213.,213.,205.,Tokyo Tyrant,Key-value,0.45,+0.01,+0.10
+216,214.,227.,,Yellowbrick,Relational,0.45,+0.09,
+217,215.,219.,202.,ObjectBox,Object oriented,0.44,+0.04,+0.07
+218,216.,215.,277.,Alibaba Cloud MaxCompute,Relational,0.44,+0.01,+0.35
+219,217.,216.,210.,Trafodion,Relational,0.43,+0.01,+0.10
+220,218.,220.,216.,eXtremeDB,"Multi-model Relational DBMS,Time Series DBMS",0.42,+0.03,+0.12
+221,219.,223.,222.,RDF4J,RDF,0.40,+0.02,+0.13
+222,220.,225.,219.,Hibari,Key-value,0.40,+0.03,+0.10
+223,221.,224.,215.,InfiniteGraph,Graph,0.39,+0.01,+0.08
+224,222.,229.,,Amazon Timestream,Time Series,0.38,+0.03,
+225,223.,218.,208.,Project Voldemort,Key-value,0.38,-0.04,+0.04
+226,224.,237.,,Rockset,"Document, Multi-model Document store,Relational DBMS,Search engine",0.37,+0.07,
+227,225.,230.,225.,4store,RDF,0.37,+0.02,+0.12
+228,226.,222.,221.,c-treeEDGE,"Multi-model Key-value store,Relational DBMS",0.37,-0.02,+0.09
+229,227.,226.,203.,Starcounter,Object oriented,0.37,0.00,+0.01
+230,228.,228.,231.,Scalaris,Key-value,0.36,+0.01,+0.13
+231,229.,221.,195.,AlaSQL,"Multi-model Document store,Relational DBMS",0.36,-0.03,-0.06
+232,230.,233.,224.,LokiJS,Document,0.36,+0.03,+0.10
+233,231.,232.,249.,SnappyData,Relational,0.34,+0.01,+0.17
+234,232.,236.,236.,Mimer SQL,Relational,0.33,+0.03,+0.11
+235,233.,234.,212.,Raima Database Manager,Relational,0.33,+0.01,+0.02
+236,234.,240.,254.,Alibaba Cloud HybridDB,Relational,0.33,+0.03,+0.18
+237,235.,235.,213.,ModeShape,Content,0.32,+0.00,+0.01
+238,236.,239.,211.,Tajo,Relational,0.30,+0.00,-0.02
+239,237.,243.,270.,Alibaba Cloud Table Store,Wide column,0.30,+0.03,+0.19
+240,238.,241.,229.,SearchBlox,Search engine,0.29,+0.01,+0.05
+241,239.,247.,234.,PipelineDB,Relational,0.29,+0.04,+0.07
+242,240.,254.,252.,ITTIA,Relational,0.29,+0.08,+0.13
+243,241.,238.,233.,Comdb2,Relational,0.28,-0.02,+0.06
+244,242.,242.,246.,FlockDB,Graph,0.28,+0.01,+0.11
+245,243.,245.,220.,OpenQM,Multivalue,0.27,+0.01,-0.02
+246,244.,244.,244.,Sequoiadb,"Multi-model Document store,Relational DBMS",0.27,+0.01,+0.08
+247,245.,248.,237.,Axibase,Time Series,0.26,+0.01,+0.04
+248,246.,246.,227.,Kyoto Cabinet,Key-value,0.25,0.00,+0.01
+249,247.,250.,235.,IBM Db2 Event Store,"Multi-model Event Store,Time Series DBMS",0.24,+0.01,+0.02
+250,248.,256.,260.,GRAKN.AI,"Multi-model Graph DBMS,Relational DBMS",0.23,+0.02,+0.10
+251,249.,252.,228.,Riak TS,Time Series,0.23,+0.00,-0.02
+252,250.,253.,243.,Lovefield,Relational,0.22,+0.01,+0.04
+253,251.,255.,241.,ElevateDB,Relational,0.20,0.00,+0.01
+254,252.,261.,291.,LeanXcale,"Multi-model Key-value store,Relational DBMS",0.20,+0.02,+0.13
+255,253.,257.,245.,HyperGraphDB,Graph,0.19,0.00,+0.02
+256,254.,258.,276.,Heroic,Time Series,0.19,0.00,+0.10
+257,255.,259.,261.,XtremeData,Relational,0.19,+0.00,+0.07
+258,256.,249.,238.,Actian PSQL,Relational,0.19,-0.05,-0.01
+259,257.,260.,267.,RedStore,RDF,0.19,0.00,+0.07
+260,258.,,,QuestDB,"Time Series, Multi-model Time Series DBMS,Relational DBMS",0.19,,
+261,259.,266.,,DolphinDB,Time Series,0.18,+0.02,
+262,260.,269.,269.,Valentina Server,Relational,0.18,+0.03,+0.07
+263,261.,262.,266.,EJDB,Document,0.17,-0.01,+0.06
+264,262.,272.,284.,Mulgara,RDF,0.17,+0.03,+0.09
+265,263.,264.,247.,EsgynDB,Relational,0.17,+0.00,0.00
+266,264.,265.,268.,AgensGraph,"Multi-model Graph DBMS,Relational DBMS",0.16,+0.00,+0.05
+267,265.,263.,239.,TransLattice,Relational,0.16,-0.01,-0.04
+268,266.,267.,258.,Sparksee,Graph,0.15,0.00,+0.02
+269,267.,288.,271.,Transbase,Relational,0.15,+0.05,+0.04
+270,268.,270.,265.,CubicWeb,RDF,0.14,0.00,+0.02
+271,269.,274.,,GeoSpock,"Relational, Multi-model Relational DBMS,Time Series DBMS",0.13,+0.01,
+272,270.,281.,279.,searchxml,"Multi-model Native XML DBMS,Search engine",0.13,+0.02,+0.05
+273,271.,275.,275.,TinkerGraph,Graph,0.13,+0.01,+0.04
+274,272.,268.,257.,NEventStore,Event,0.12,-0.02,-0.01
+275,273.,277.,274.,DensoDB,Document,0.12,0.00,+0.02
+276,274.,280.,273.,SenseiDB,Document,0.11,+0.00,+0.01
+277,275.,271.,,M3DB,Time Series,0.11,-0.03,
+278,276.,276.,305.,HGraphDB,Graph,0.11,-0.01,+0.06
+279,277.,283.,259.,Blueflood,Time Series,0.11,+0.00,-0.02
+280,278.,279.,306.,Brytlyt,Relational,0.11,-0.01,+0.06
+281,279.,284.,302.,Strabon,RDF,0.11,+0.01,+0.06
+282,280.,292.,297.,GraphBase,Graph,0.11,+0.02,+0.05
+283,281.,289.,330.,SwayDB,Key-value,0.10,+0.00,+0.10
+284,282.,290.,286.,Quasardb,Time Series,0.10,+0.01,+0.02
+285,283.,286.,250.,Warp 10,Time Series,0.09,0.00,-0.07
+286,284.,282.,288.,AnzoGraph,"Multi-model Graph DBMS,RDF store",0.09,-0.01,+0.02
+287,285.,278.,289.,Resin Cache,Key-value,0.09,-0.02,+0.02
+288,286.,287.,304.,Elliptics,Key-value,0.09,-0.01,+0.04
+289,287.,295.,292.,BrightstarDB,RDF,0.09,+0.00,+0.02
+290,288.,293.,,CovenantSQL,Relational,0.09,+0.00,
+291,289.,285.,280.,NosDB,Document,0.08,-0.01,0.00
+292,290.,296.,263.,RaptorDB,Document,0.08,+0.00,-0.03
+293,291.,300.,303.,WhiteDB,Document,0.08,+0.00,+0.03
+294,292.,297.,262.,WakandaDB,Object oriented,0.08,0.00,-0.04
+295,293.,294.,293.,Siaqodb,Object oriented,0.08,-0.01,+0.01
+296,294.,304.,301.,Dydra,RDF,0.08,+0.00,+0.02
+297,295.,309.,,HugeGraph,Graph,0.07,+0.00,
+298,296.,313.,281.,VelocityDB,"Multi-model Graph DBMS,Object oriented DBMS",0.07,0.00,-0.02
+299,297.,305.,282.,Badger,Key-value,0.07,-0.01,-0.02
+300,298.,311.,283.,TempoIQ,Time Series,0.06,0.00,-0.02
+301,299.,308.,309.,InfinityDB,Key-value,0.06,-0.01,+0.02
+302,300.,,,Nebula Graph,Graph,0.06,,
+303,301.,320.,318.,SparkleDB,RDF,0.06,+0.01,+0.03
+304,302.,307.,308.,Machbase,Time Series,0.06,-0.01,+0.02
+305,303.,310.,253.,Hawkular Metrics,Time Series,0.06,-0.01,-0.09
+306,304.,299.,316.,Manticore Search,Search engine,0.06,-0.02,+0.02
+307,305.,325.,298.,ToroDB,Document,0.06,+0.01,+0.00
+308,306.,323.,310.,Kyoto Tycoon,Key-value,0.06,+0.01,+0.02
+309,307.,316.,326.,Exorbyte,Search engine,0.06,-0.01,+0.04
+310,308.,317.,314.,CortexDB,"Multi-model Document store,Key-value store",0.06,0.00,+0.02
+311,309.,291.,242.,STSdb,Key-value,0.05,-0.04,-0.14
+312,310.,298.,285.,Bangdb,Key-value,0.05,-0.03,-0.03
+313,311.,303.,330.,Edge Intelligence,Relational,0.05,-0.02,+0.05
+314,312.,337.,324.,Linter,Relational,0.05,+0.02,+0.03
+315,313.,322.,300.,DBSight,Search engine,0.05,+0.00,-0.01
+316,314.,312.,272.,Memgraph,Graph,0.05,-0.02,-0.06
+317,315.,328.,290.,IRONdb,Time Series,0.05,+0.00,-0.02
+318,316.,330.,328.,SiriDB,Time Series,0.05,+0.00,+0.04
+319,317.,321.,315.,BigObject,Relational,0.05,-0.01,+0.01
+320,318.,306.,255.,ActorDB,Relational,0.04,-0.03,-0.11
+321,319.,315.,295.,TerarkDB,Key-value,0.04,-0.02,-0.02
+322,320.,324.,256.,Versant FastObjects,Object oriented,0.04,-0.01,-0.11
+323,321.,332.,312.,OrigoDB,"Multi-model Document store,Object oriented DBMS",0.04,0.00,0.00
+324,322.,336.,322.,Newts,Time Series,0.04,+0.01,+0.01
+325,323.,314.,,VictoriaMetrics,Time Series,0.04,-0.03,
+326,324.,329.,296.,JethroData,Relational,0.04,-0.01,-0.03
+327,325.,335.,294.,SmallSQL,Relational,0.04,+0.01,-0.03
+328,326.,326.,307.,LedisDB,Key-value,0.04,-0.01,-0.01
+329,327.,318.,311.,ScaleOut StateServer,Key-value,0.04,-0.03,-0.01
+330,328.,331.,323.,TomP2P,Key-value,0.03,-0.01,+0.01
+331,329.,334.,313.,Upscaledb,Key-value,0.03,0.00,-0.01
+332,330.,333.,319.,HyperLevelDB,Key-value,0.03,0.00,0.00
+333,331.,340.,317.,iBoxDB,Document,0.03,+0.01,-0.01
+334,332.,341.,321.,FinchDB,"Multi-model Document store,Search engine",0.02,+0.01,0.00
+335,333.,339.,264.,Eloquera,Object oriented,0.02,+0.00,-0.09
+336,334.,338.,330.,BergDB,Key-value,0.02,0.00,+0.02
+337,335.,342.,,TerminusDB,"Graph, Multi-model Graph DBMS,Document store,RDF store",0.02,+0.01,
+338,336.,327.,330.,JasDB,Document,0.02,-0.03,+0.02
+339,337.,344.,,Weaviate,"Graph, Multi-model Graph DBMS,Search engine",0.00,+0.00,
+340,338.,344.,330.,Cachelot.io,Key-value,0.00,±0.00,±0.00
+341,338.,344.,330.,DaggerDB,Relational,0.00,±0.00,±0.00
+342,338.,344.,,FlureeDB,Graph,0.00,±0.00,
+343,338.,344.,325.,Helium,Key-value,0.00,±0.00,-0.02
+344,338.,344.,,Hyprcubd,Time Series,0.00,±0.00,
+345,338.,344.,330.,Indica,Search engine,0.00,±0.00,±0.00
+346,338.,344.,329.,JaguarDB,Key-value,0.00,±0.00,0.00
+347,338.,344.,,JSqlDb,"Multi-model Document store,Object oriented DBMS",0.00,±0.00,
+348,338.,344.,330.,K-DB,Relational,0.00,±0.00,±0.00
+349,338.,343.,320.,Sadas Engine,Relational,0.00,0.00,-0.03
+350,338.,344.,330.,SiteWhere,Time Series,0.00,±0.00,±0.00
+351,338.,344.,330.,Yaacomo,Relational,0.00,±0.00,±0.00
+352,338.,344.,330.,Yanza,Time Series,0.00,±0.00,±0.00

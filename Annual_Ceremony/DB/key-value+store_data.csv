@@ -1,0 +1,70 @@
+dbname
+Redis
+Amazon DynamoDB
+Microsoft Azure Cosmos DB
+Memcached
+Hazelcast
+etcd
+Aerospike
+Ehcache
+Riak KV
+Ignite
+OrientDB
+ArangoDB
+Oracle NoSQL
+InterSystems Caché
+Oracle Berkeley DB
+LevelDB
+Infinispan
+RocksDB
+Amazon SimpleDB
+Oracle Coherence
+Geode
+GridGain
+Tarantool
+InterSystems IRIS
+GT.M
+WiredTiger
+NCache
+ZODB
+XAP
+FoundationDB
+WebSphere eXtreme Scale
+Tokyo Cabinet
+Graph Engine
+c-treeACE
+BoltDB
+MapDB
+Tokyo Tyrant
+Hibari
+Project Voldemort
+c-treeEDGE
+Scalaris
+Kyoto Cabinet
+LeanXcale
+SwayDB
+Resin Cache
+Elliptics
+Badger
+InfinityDB
+Kyoto Tycoon
+CortexDB
+STSdb
+Bangdb
+TerarkDB
+LedisDB
+ScaleOut StateServer
+TomP2P
+Upscaledb
+HyperLevelDB
+BergDB
+GlobalsDB
+Helium
+JaguarDB
+LightCloud
+TayzGrid
+Sqrrl
+GemFire
+CodernityDB
+Nanolat
+HyperDex

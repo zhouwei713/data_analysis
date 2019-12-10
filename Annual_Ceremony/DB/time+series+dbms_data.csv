@@ -1,0 +1,33 @@
+dbname
+InfluxDB
+Kdb+
+Prometheus
+Graphite
+RRDtool
+OpenTSDB
+Druid
+TimescaleDB
+FaunaDB
+GridDB
+KairosDB
+eXtremeDB
+Amazon Timestream
+Axibase
+IBM Db2 Event Store
+Riak TS
+Heroic
+QuestDB
+DolphinDB
+M3DB
+Blueflood
+Quasardb
+Warp 10
+TempoIQ
+Machbase
+Hawkular Metrics
+IRONdb
+SiriDB
+Newts
+VictoriaMetrics
+SiteWhere
+Yanza
