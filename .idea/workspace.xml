@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="311b2ca6-c61f-420a-ac4b-1d5ac01d3717" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Annual_Ceremony/DB/.ipynb_checkpoints/db-trend-analyse-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Annual_Ceremony/DB/.ipynb_checkpoints/db-trend-analyse-checkpoint.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +70,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Annual_Ceremony/DB" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chatrobot" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -96,7 +97,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.get_db_details2">
+  <component name="RunManager" selected="Python.get_pl_data">
     <configuration name="get_db_details" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_combat" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="get_pl_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_combat" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,12 +194,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/football/guozu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Annual_Ceremony/Programming_language" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/football/guozu/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Annual_Ceremony/Programming_language/get_pl_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,19 +209,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main (1)" />
       <item itemvalue="Python.get_db_details" />
       <item itemvalue="Python.get_dboftype_details" />
       <item itemvalue="Python.get_db_type" />
       <item itemvalue="Python.get_db_details2" />
+      <item itemvalue="Python.get_pl_data" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.get_pl_data" />
         <item itemvalue="Python.get_db_details2" />
         <item itemvalue="Python.get_db_type" />
         <item itemvalue="Python.get_dboftype_details" />
         <item itemvalue="Python.get_db_details" />
-        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +281,10 @@
       <workItem from="1571883393094" duration="48830000" />
       <workItem from="1573612411908" duration="2127000" />
       <workItem from="1573733690248" duration="6618000" />
-      <workItem from="1574931236053" duration="38561000" />
+      <workItem from="1574931236053" duration="39148000" />
+      <workItem from="1576117741395" duration="2119000" />
+      <workItem from="1576199801269" duration="934000" />
+      <workItem from="1576386894681" duration="14387000" />
     </task>
     <servers />
   </component>
@@ -314,6 +318,7 @@
     <SUITE FILE_PATH="coverage/data_combat$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1570497315188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/football/yingchao" />
     <SUITE FILE_PATH="coverage/data_combat$thecloud.coverage" NAME="thecloud Coverage Results" MODIFIED="1564390467736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibo_mayili_wenzhang" />
     <SUITE FILE_PATH="coverage/data_combat$get_details.coverage" NAME="get_details Coverage Results" MODIFIED="1567997289523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boss_spider" />
+    <SUITE FILE_PATH="coverage/data_combat$get_pl_data.coverage" NAME="get_pl_data Coverage Results" MODIFIED="1576553268372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Annual_Ceremony/Programming_language" />
     <SUITE FILE_PATH="coverage/data_combat$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1574996304106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/football/guozu" />
     <SUITE FILE_PATH="coverage/data_combat$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1566637943066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boss_spider" />
     <SUITE FILE_PATH="coverage/data_combat$analyse__1_.coverage" NAME="analyse (1) Coverage Results" MODIFIED="1567674577563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weather" />
