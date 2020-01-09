@@ -28,7 +28,7 @@ def comment_wordcloud(data):
 
 
 def get_data():
-    data = pd.read_csv('maoyan_data.csv', encoding='utf-8')
+    data = pd.read_csv('maoyan_data_chen.csv', encoding='utf-8')
     return data
 
 
@@ -63,11 +63,10 @@ def level_pie(data):
 
 
 def score_pie(data):
-    score_list = []
-    for i, j in enumerate(data['score'].value_counts()):
-        if i == 0:
-            i = '0分'  # 当数据项名称为0时，不在图表中展示，这个疑为 echarts 的 bug
-        score_list.append([i, j])
+    index = data['score'].value_counts().index.tolist()
+    values = data['score'].value_counts().values.tolist()
+    score_list = list(zip(index, values))
+
     pie = Pie()
     pie.add("", score_list, radius=["30%", "75%"], center=["50%", "50%"], rosetype="radius")
     pie.set_global_opts(

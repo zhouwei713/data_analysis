@@ -23,14 +23,23 @@ def fire():
     page = 0
     for i in range(15, 1200, 15):
         print("开始爬取第 %s 页" % page)
-        url = 'http://m.maoyan.com/review/v2/comments.json?movieId=343473&offset={}&limit=15&type=2'.format(i)
-        res = requests.get(url).json()
+        # url = 'http://m.maoyan.com/review/v2/comments.json?movieId=343473&offset={}&limit=15&type=2'.format(i)  # jack chen
+        # url = 'http://m.maoyan.com/review/v2/comments.json?movieId=1211270&offset={}&limit=15&type=2'.format(i)  # nezha
+        # url = 'http://m.maoyan.com/review/v2/comments.json?movieId=248172&offset={}&limit=15&type=2'.format(i)  # fulian
+        # url = 'http://m.maoyan.com/review/v2/comments.json?movieId=248906&offset={}&limit=15&type=2'.format(i)  # liulang
+        url = 'http://m.maoyan.com/review/v2/comments.json?movieId=1277939&offset={}&limit=15&type=2'.format(
+            i)  # zuguo
+
+        try:
+            res = requests.get(url).json()
+        except:
+            continue
         if not res['paging']['hasMore']:
             print("爬取完成")
             break
         data = get_json(res)
         save_to_csv(data)
-        time.sleep(1)
+        time.sleep(5)
         page += 1
 
 
@@ -64,8 +73,8 @@ def get_json(res):
 
 
 def save_to_csv(data):
-    if not os.path.exists(r'maoyan_data.csv'):
-        with open('maoyan_data.csv', 'a+', encoding='utf-8') as f:
+    if not os.path.exists(r'maoyan_data_zuguo.csv'):
+        with open('maoyan_data_zuguo.csv', 'a+', encoding='utf-8') as f:
             f.write('content,gender,userlevel,score,ticket\n')
             for d in data:
                 try:
@@ -75,7 +84,7 @@ def save_to_csv(data):
                 except:
                     continue
     else:
-        with open('maoyan_data.csv', 'a+', encoding='utf-8') as f:
+        with open('maoyan_data_zuguo.csv', 'a+', encoding='utf-8') as f:
             for d in data:
                 try:
                     row = '{},{},{},{},{}'.format(d[0], d[1], d[2], d[3], d[4])
