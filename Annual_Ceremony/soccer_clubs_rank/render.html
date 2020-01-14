@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+
+</head>
+<body>
+    <div id="82f2ce5634ea43bfb3eaf9ff298e49ec" style="width:900px; height:1000px;"></div>
+    <script>
+        var chart_82f2ce5634ea43bfb3eaf9ff298e49ec = echarts.init(
+            document.getElementById('82f2ce5634ea43bfb3eaf9ff298e49ec'), 'white', {renderer: 'canvas'});
+            
+        var img = new Image(); img.src = 'file:///C:/Work/code/Python/data_combat/Annual_Ceremony/soccer_clubs_rank/bk8.jpg';
+        
+        var option_82f2ce5634ea43bfb3eaf9ff298e49ec = {
+    "backgroundColor": {
+        "type": "pattern",
+        "image": img,
+        "repeat": "no-repeat"
+    },
+    "color": [
+        "#c23531",
+        "#2f4554",
+        "#61a0a8",
+        "#d48265",
+        "#749f83",
+        "#ca8622",
+        "#bda29a",
+        "#6e7074",
+        "#546570",
+        "#c4ccd3",
+        "#f05b72",
+        "#ef5b9c",
+        "#f47920",
+        "#905a3d",
+        "#fab27b",
+        "#2a5caa",
+        "#444693",
+        "#726930",
+        "#b2d235",
+        "#6d8346",
+        "#ac6767",
+        "#1d953f",
+        "#6950a1",
+        "#918597"
+    ],
+    "series": [
+        {
+            "type": "bar",
+            "data": [
+                1623,
+                1677,
+                1684,
+                1687,
+                1693,
+                1705,
+                1711,
+                1730,
+                1739,
+                1853
+            ],
+            "barCategoryGap": "20%",
+            "label": {
+                "show": true,
+                "position": "inside",
+                "margin": 8,
+                "formatter": "{b}: {c}"
+            },
+            "itemStyle": {
+                "normal": {
+                    "color": new echarts.graphic.LinearGradient(0, 0, 0, 1, [{                    offset: 0,                    color: '#FF6461'                }, {                    offset: 0.5,                    color: '#FFB1B0'                },                {offset: 1, color: '#F6CB90'}], )
+                }
+            },
+            "rippleEffect": {
+                "show": true,
+                "brushType": "stroke",
+                "scale": 2.5,
+                "period": 4
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                ""
+            ],
+            "selected": {
+                "": true
+            },
+            "show": true
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0
+    },
+    "xAxis": [
+        {
+            "show": true,
+            "scale": false,
+            "nameLocation": "end",
+            "nameGap": 15,
+            "gridIndex": 0,
+            "axisLine": {
+                "show": false,
+                "onZero": true,
+                "onZeroAxisIndex": 0
+            },
+            "axisLabel": {
+                "show": true,
+                "position": "top",
+                "rotate": -30,
+                "margin": 8
+            },
+            "inverse": false,
+            "offset": 0,
+            "splitNumber": 5,
+            "minInterval": 0,
+            "splitLine": {
+                "show": false,
+                "lineStyle": {
+                    "width": 1,
+                    "opacity": 1,
+                    "curveness": 0,
+                    "type": "solid"
+                }
+            }
+        }
+    ],
+    "yAxis": [
+        {
+            "show": true,
+            "scale": false,
+            "nameLocation": "end",
+            "nameGap": 15,
+            "gridIndex": 0,
+            "axisLabel": {
+                "show": true,
+                "position": "top",
+                "margin": 8,
+                "formatter":                                                             function (value) {                                                                                                                        return '{' + value + '|}';                                                        },
+                "rich": {
+                    "Flamengo": {
+                        "height": 40,
+                        "align": "center",
+                        "backgroundColor": {
+                            "image": "file:///C:/Work/code/Python/data_combat/Annual_Ceremony/soccer_clubs_rank/pic/south_america/Flamengo.png"
+                        }
+                    },
+                    "Boca_Juniors": {
+                        "height": 40,
+                        "align": "center",
+                        "backgroundColor": {
+                            "image": "file:///C:/Work/code/Python/data_combat/Annual_Ceremony/soccer_clubs_rank/pic/south_america/Boca_Juniors.png"
+                        }
+                    },
+                    "Palmeiras": {
+                        "height": 40,
+                        "align": "center",
+                        "backgroundColor": {
+                            "image": "file:///C:/Work/code/Python/data_combat/Annual_Ceremony/soccer_clubs_rank/pic/south_america/Palmeiras.png"
+                        }
+                    },
+                    "Gremio": {
+                        "height": 40,
+                        "align": "center",
+                        "backgroundColor": {
+                            "image": "file:///C:/Work/code/Python/data_combat/Annual_Ceremony/soccer_clubs_rank/pic/south_america/Gremio.png"
+                        }
+                    },
+                    "River_Plate": {
+                        "height": 40,
+                        "align": "center",
+                        "backgroundColor": {
+                            "image": "file:///C:/Work/code/Python/data_combat/Annual_Ceremony/soccer_clubs_rank/pic/south_america/River_Plate.png"
+                        }
+                    },
+                    "Santos_FC": {
+                        "height": 40,
+                        "align": "center",
+                        "backgroundColor": {
+                            "image": "file:///C:/Work/code/Python/data_combat/Annual_Ceremony/soccer_clubs_rank/pic/south_america/Santos_FC.png"
+                        }
+                    },
+                    "Olimpia": {
+                        "height": 40,
+                        "align": "center",
+                        "backgroundColor": {
+                            "image": "file:///C:/Work/code/Python/data_combat/Annual_Ceremony/soccer_clubs_rank/pic/south_america/Olimpia.png"
+                        }
+                    },
+                    "Atletico_PR": {
+                        "height": 40,
+                        "align": "center",
+                        "backgroundColor": {
+                            "image": "file:///C:/Work/code/Python/data_combat/Annual_Ceremony/soccer_clubs_rank/pic/south_america/Atletico_PR.png"
+                        }
+                    },
+                    "Racing_Club": {
+                        "height": 40,
+                        "align": "center",
+                        "backgroundColor": {
+                            "image": "file:///C:/Work/code/Python/data_combat/Annual_Ceremony/soccer_clubs_rank/pic/south_america/Racing_Club.png"
+                        }
+                    },
+                    "Velez_Sarsfield": {
+                        "height": 40,
+                        "align": "center",
+                        "backgroundColor": {
+                            "image": "file:///C:/Work/code/Python/data_combat/Annual_Ceremony/soccer_clubs_rank/pic/south_america/Velez_Sarsfield.png"
+                        }
+                    }
+                }
+            },
+            "inverse": false,
+            "offset": 0,
+            "splitNumber": 5,
+            "minInterval": 0,
+            "splitLine": {
+                "show": false,
+                "lineStyle": {
+                    "width": 1,
+                    "opacity": 1,
+                    "curveness": 0,
+                    "type": "solid"
+                }
+            },
+            "data": [
+                "Velez_Sarsfield",
+                "Racing_Club",
+                "Atletico_PR",
+                "Olimpia",
+                "Santos_FC",
+                "River_Plate",
+                "Gremio",
+                "Palmeiras",
+                "Boca_Juniors",
+                "Flamengo"
+            ]
+        }
+    ],
+    "title": [
+        {
+            "text": "2019\u5357\u7f8e\u6d32\u4ff1\u4e50\u90e8\u6392\u884c",
+            "textStyle": {
+                "color": "white"
+            }
+        }
+    ]
+};
+        chart_82f2ce5634ea43bfb3eaf9ff298e49ec.setOption(option_82f2ce5634ea43bfb3eaf9ff298e49ec);
+    </script>
+</body>
+</html>
