@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="311b2ca6-c61f-420a-ac4b-1d5ac01d3717" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Annual_Ceremony/Programming_language/pl_salary.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Annual_Ceremony/Programming_language/pl_salary.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Annual_Ceremony/soccer_clubs_rank/.ipynb_checkpoints/soccer_clubs-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Annual_Ceremony/soccer_clubs_rank/.ipynb_checkpoints/soccer_clubs-checkpoint.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +70,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mini_flask/Server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -287,7 +287,11 @@
       <workItem from="1576386894681" duration="16331000" />
       <workItem from="1577349453852" duration="27528000" />
       <workItem from="1578365387969" duration="13754000" />
-      <workItem from="1578879123211" duration="17756000" />
+      <workItem from="1578879123211" duration="19557000" />
+      <workItem from="1579231742776" duration="1401000" />
+      <workItem from="1582770523475" duration="1214000" />
+      <workItem from="1582877134622" duration="660000" />
+      <workItem from="1584695567268" duration="2956000" />
     </task>
     <servers />
   </component>
